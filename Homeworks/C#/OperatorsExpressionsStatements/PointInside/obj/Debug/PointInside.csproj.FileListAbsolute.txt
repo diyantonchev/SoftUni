@@ -1,0 +1,6 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\PointInside\bin\Debug\PointInside.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\PointInside\bin\Debug\PointInside.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\PointInside\bin\Debug\PointInside.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\PointInside\obj\Debug\PointInside.csprojResolveAssemblyReference.cache
+D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\PointInside\obj\Debug\PointInside.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\PointInside\obj\Debug\PointInside.pdb

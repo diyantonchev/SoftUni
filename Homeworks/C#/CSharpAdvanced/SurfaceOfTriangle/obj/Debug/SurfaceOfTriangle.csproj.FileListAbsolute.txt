@@ -1,0 +1,6 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\SurfaceOfTriangle\bin\Debug\SurfaceOfTriangle.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\SurfaceOfTriangle\obj\Debug\SurfaceOfTriangle.csprojResolveAssemblyReference.cache
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\SurfaceOfTriangle\bin\Debug\SurfaceOfTriangle.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\SurfaceOfTriangle\bin\Debug\SurfaceOfTriangle.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\SurfaceOfTriangle\obj\Debug\SurfaceOfTriangle.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\SurfaceOfTriangle\obj\Debug\SurfaceOfTriangle.pdb

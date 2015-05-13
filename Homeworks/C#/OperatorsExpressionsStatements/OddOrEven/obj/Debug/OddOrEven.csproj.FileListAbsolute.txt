@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\OddOrEven\bin\Debug\OddOrEven.exe.config
+d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\OddOrEven\obj\Debug\OddOrEven.csprojResolveAssemblyReference.cache
+d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\OddOrEven\bin\Debug\OddOrEven.exe
+d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\OddOrEven\bin\Debug\OddOrEven.pdb
+d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\OddOrEven\obj\Debug\OddOrEven.exe
+d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\OddOrEven\obj\Debug\OddOrEven.pdb

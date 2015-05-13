@@ -1,0 +1,5 @@
+d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\DivideBy\bin\Debug\DivideBy.exe.config
+d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\DivideBy\bin\Debug\DivideBy.exe
+d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\DivideBy\bin\Debug\DivideBy.pdb
+d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\DivideBy\obj\Debug\DivideBy.exe
+d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\DivideBy\obj\Debug\DivideBy.pdb

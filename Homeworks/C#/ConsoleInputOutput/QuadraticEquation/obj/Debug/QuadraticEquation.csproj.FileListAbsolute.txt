@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.csprojResolveAssemblyReference.cache
+d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

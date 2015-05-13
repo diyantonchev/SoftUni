@@ -1,0 +1,6 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\Trapezoids.cs\bin\Debug\Trapezoids.cs.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\Trapezoids.cs\bin\Debug\Trapezoids.cs.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\Trapezoids.cs\bin\Debug\Trapezoids.cs.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\Trapezoids.cs\obj\Debug\Trapezoids.cs.csprojResolveAssemblyReference.cache
+D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\Trapezoids.cs\obj\Debug\Trapezoids.cs.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\Trapezoids.cs\obj\Debug\Trapezoids.cs.pdb

@@ -1,0 +1,5 @@
+d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\01.SortArrayOfNumbers\bin\Debug\01.SortArrayOfNumbers.exe.config
+d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\01.SortArrayOfNumbers\bin\Debug\01.SortArrayOfNumbers.exe
+d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\01.SortArrayOfNumbers\bin\Debug\01.SortArrayOfNumbers.pdb
+d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\01.SortArrayOfNumbers\obj\Debug\01.SortArrayOfNumbers.exe
+d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\01.SortArrayOfNumbers\obj\Debug\01.SortArrayOfNumbers.pdb

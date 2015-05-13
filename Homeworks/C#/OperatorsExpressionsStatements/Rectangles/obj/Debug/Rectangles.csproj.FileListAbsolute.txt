@@ -1,0 +1,5 @@
+d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\Rectangles\bin\Debug\Rectangles.exe.config
+d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\Rectangles\bin\Debug\Rectangles.exe
+d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\Rectangles\bin\Debug\Rectangles.pdb
+d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\Rectangles\obj\Debug\Rectangles.exe
+d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\Rectangles\obj\Debug\Rectangles.pdb

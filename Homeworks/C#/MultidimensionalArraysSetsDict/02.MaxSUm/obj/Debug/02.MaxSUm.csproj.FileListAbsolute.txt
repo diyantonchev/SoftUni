@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDict\02.MaxSUm\bin\Debug\02.MaxSUm.exe.config
+d:\diyan\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDict\02.MaxSUm\bin\Debug\02.MaxSUm.exe
+d:\diyan\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDict\02.MaxSUm\bin\Debug\02.MaxSUm.pdb
+d:\diyan\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDict\02.MaxSUm\obj\Debug\02.MaxSUm.csprojResolveAssemblyReference.cache
+d:\diyan\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDict\02.MaxSUm\obj\Debug\02.MaxSUm.exe
+d:\diyan\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDict\02.MaxSUm\obj\Debug\02.MaxSUm.pdb

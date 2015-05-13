@@ -1,0 +1,6 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.csprojResolveAssemblyReference.cache
+D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.pdb

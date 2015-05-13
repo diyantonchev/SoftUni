@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\ThirdDigit.cs\bin\Debug\ThirdDigit.cs.exe.config
+d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\ThirdDigit.cs\bin\Debug\ThirdDigit.cs.exe
+d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\ThirdDigit.cs\bin\Debug\ThirdDigit.cs.pdb
+d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\ThirdDigit.cs\obj\Debug\ThirdDigit.cs.csprojResolveAssemblyReference.cache
+d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\ThirdDigit.cs\obj\Debug\ThirdDigit.cs.exe
+d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\ThirdDigit.cs\obj\Debug\ThirdDigit.cs.pdb

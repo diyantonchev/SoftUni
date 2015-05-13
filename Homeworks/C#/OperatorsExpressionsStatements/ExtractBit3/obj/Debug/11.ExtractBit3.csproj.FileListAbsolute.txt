@@ -1,0 +1,3 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\ExtractBit3\bin\Debug\ExtractBit3.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\ExtractBit3\obj\Debug\ExtractBit3.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\ExtractBit3\obj\Debug\ExtractBit3.pdb

@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDict\SnakeMatrix\bin\Debug\SnakeMatrix.exe.config
+d:\diyan\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDict\SnakeMatrix\bin\Debug\SnakeMatrix.exe
+d:\diyan\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDict\SnakeMatrix\bin\Debug\SnakeMatrix.pdb
+d:\diyan\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDict\SnakeMatrix\obj\Debug\SnakeMatrix.exe
+d:\diyan\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDict\SnakeMatrix\obj\Debug\SnakeMatrix.pdb
+d:\diyan\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDict\SnakeMatrix\obj\Debug\SnakeMatrix.csprojResolveAssemblyReference.cache

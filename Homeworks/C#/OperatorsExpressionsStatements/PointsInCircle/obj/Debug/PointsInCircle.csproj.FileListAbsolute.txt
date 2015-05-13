@@ -1,0 +1,6 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\PointsInCircle\bin\Debug\PointsInCircle.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\PointsInCircle\bin\Debug\PointsInCircle.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\PointsInCircle\bin\Debug\PointsInCircle.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\PointsInCircle\obj\Debug\PointsInCircle.csprojResolveAssemblyReference.cache
+D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\PointsInCircle\obj\Debug\PointsInCircle.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\PointsInCircle\obj\Debug\PointsInCircle.pdb

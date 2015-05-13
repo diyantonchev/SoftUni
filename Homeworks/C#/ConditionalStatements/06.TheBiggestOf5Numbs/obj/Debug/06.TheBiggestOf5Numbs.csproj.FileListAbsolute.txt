@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\ConditionalStatements\06.TheBiggestOf5Numbs\bin\Debug\06.TheBiggestOf5Numbs.exe.config
+d:\diyan\documents\visual studio 2013\Projects\ConditionalStatements\06.TheBiggestOf5Numbs\bin\Debug\06.TheBiggestOf5Numbs.exe
+d:\diyan\documents\visual studio 2013\Projects\ConditionalStatements\06.TheBiggestOf5Numbs\bin\Debug\06.TheBiggestOf5Numbs.pdb
+d:\diyan\documents\visual studio 2013\Projects\ConditionalStatements\06.TheBiggestOf5Numbs\obj\Debug\06.TheBiggestOf5Numbs.csprojResolveAssemblyReference.cache
+d:\diyan\documents\visual studio 2013\Projects\ConditionalStatements\06.TheBiggestOf5Numbs\obj\Debug\06.TheBiggestOf5Numbs.exe
+d:\diyan\documents\visual studio 2013\Projects\ConditionalStatements\06.TheBiggestOf5Numbs\obj\Debug\06.TheBiggestOf5Numbs.pdb

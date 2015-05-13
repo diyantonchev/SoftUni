@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.exe.config
+d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.exe
+d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.pdb
+d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.csprojResolveAssemblyReference.cache
+d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.exe
+d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.pdb
