@@ -1,0 +1,5 @@
+d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\CensorYourEmailAddress\bin\Debug\CensorYourEmailAddress.exe.config
+d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\CensorYourEmailAddress\bin\Debug\CensorYourEmailAddress.exe
+d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\CensorYourEmailAddress\bin\Debug\CensorYourEmailAddress.pdb
+d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\CensorYourEmailAddress\obj\Debug\CensorYourEmailAddress.exe
+d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\CensorYourEmailAddress\obj\Debug\CensorYourEmailAddress.pdb

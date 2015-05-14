@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\01.ReverseString\bin\Debug\01.ReverseString.exe.config
+d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\01.ReverseString\bin\Debug\01.ReverseString.exe
+d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\01.ReverseString\bin\Debug\01.ReverseString.pdb
+d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\01.ReverseString\obj\Debug\01.ReverseString.exe
+d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\01.ReverseString\obj\Debug\01.ReverseString.pdb
+d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\01.ReverseString\obj\Debug\01.ReverseString.csprojResolveAssemblyReference.cache
