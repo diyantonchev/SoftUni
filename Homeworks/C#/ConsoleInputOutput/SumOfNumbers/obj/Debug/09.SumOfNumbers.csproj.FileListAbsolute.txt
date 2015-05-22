@@ -1,0 +1,3 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\SumOfNumbers\bin\Debug\SumOfNumbers.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\SumOfNumbers\obj\Debug\SumOfNumbers.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\SumOfNumbers\obj\Debug\SumOfNumbers.pdb

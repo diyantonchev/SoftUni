@@ -1,0 +1,6 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.csprojResolveAssemblyReference.cache
+D:\Diyan\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.pdb

@@ -1,0 +1,6 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\PrintingTriangle\bin\Debug\PrintingTriangle.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\PrintingTriangle\bin\Debug\PrintingTriangle.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\PrintingTriangle\bin\Debug\PrintingTriangle.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\PrintingTriangle\obj\Debug\PrintingTriangle.csprojResolveAssemblyReference.cache
+D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\PrintingTriangle\obj\Debug\PrintingTriangle.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\PrintingTriangle\obj\Debug\PrintingTriangle.pdb

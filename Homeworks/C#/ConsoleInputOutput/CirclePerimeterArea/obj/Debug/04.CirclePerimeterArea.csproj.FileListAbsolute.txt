@@ -1,0 +1,3 @@
+d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\CirclePerimeterArea\bin\Debug\CirclePerimeterArea.exe.config
+d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\CirclePerimeterArea\obj\Debug\CirclePerimeterArea.exe
+d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\CirclePerimeterArea\obj\Debug\CirclePerimeterArea.pdb

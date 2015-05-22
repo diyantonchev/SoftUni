@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe.config
+d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe
+d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.pdb
+d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.csprojResolveAssemblyReference.cache
+d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.exe
+d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.pdb

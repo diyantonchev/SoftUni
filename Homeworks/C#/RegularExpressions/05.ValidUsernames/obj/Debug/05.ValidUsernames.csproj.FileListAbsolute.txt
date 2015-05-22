@@ -1,0 +1,6 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\RegularExpressions\05.ValidUsernames\bin\Debug\05.ValidUsernames.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\RegularExpressions\05.ValidUsernames\bin\Debug\05.ValidUsernames.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\RegularExpressions\05.ValidUsernames\bin\Debug\05.ValidUsernames.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\RegularExpressions\05.ValidUsernames\obj\Debug\05.ValidUsernames.csprojResolveAssemblyReference.cache
+D:\Diyan\Documents\Visual Studio 2013\Projects\RegularExpressions\05.ValidUsernames\obj\Debug\05.ValidUsernames.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\RegularExpressions\05.ValidUsernames\obj\Debug\05.ValidUsernames.pdb

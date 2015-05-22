@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\01.SeriesOfLetters\bin\Debug\01.SeriesOfLetters.exe.config
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\01.SeriesOfLetters\bin\Debug\01.SeriesOfLetters.exe
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\01.SeriesOfLetters\bin\Debug\01.SeriesOfLetters.pdb
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\01.SeriesOfLetters\obj\Debug\01.SeriesOfLetters.csprojResolveAssemblyReference.cache
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\01.SeriesOfLetters\obj\Debug\01.SeriesOfLetters.exe
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\01.SeriesOfLetters\obj\Debug\01.SeriesOfLetters.pdb

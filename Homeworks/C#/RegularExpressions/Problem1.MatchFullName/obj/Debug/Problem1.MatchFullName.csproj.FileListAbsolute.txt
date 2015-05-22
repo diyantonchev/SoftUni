@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\Problem1.MatchFullName\bin\Debug\Problem1.MatchFullName.exe.config
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\Problem1.MatchFullName\bin\Debug\Problem1.MatchFullName.exe
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\Problem1.MatchFullName\bin\Debug\Problem1.MatchFullName.pdb
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\Problem1.MatchFullName\obj\Debug\Problem1.MatchFullName.csprojResolveAssemblyReference.cache
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\Problem1.MatchFullName\obj\Debug\Problem1.MatchFullName.exe
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\Problem1.MatchFullName\obj\Debug\Problem1.MatchFullName.pdb

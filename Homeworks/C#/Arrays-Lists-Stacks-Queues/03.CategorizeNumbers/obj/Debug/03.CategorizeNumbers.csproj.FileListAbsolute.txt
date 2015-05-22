@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.exe.config
+d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.exe
+d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.pdb
+d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.exe
+d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.pdb
+d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.csprojResolveAssemblyReference.cache

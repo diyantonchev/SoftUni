@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\FormattingNumbers\bin\Debug\FormattingNumbers.exe.config
+d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\FormattingNumbers\bin\Debug\FormattingNumbers.exe
+d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\FormattingNumbers\bin\Debug\FormattingNumbers.pdb
+d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\FormattingNumbers\obj\Debug\04.FormattingNumbers.csprojResolveAssemblyReference.cache
+d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\FormattingNumbers\obj\Debug\FormattingNumbers.exe
+d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\FormattingNumbers\obj\Debug\FormattingNumbers.pdb

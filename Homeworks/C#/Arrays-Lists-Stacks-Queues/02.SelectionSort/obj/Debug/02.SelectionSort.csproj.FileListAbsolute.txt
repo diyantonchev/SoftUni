@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\02.SelectionSort\bin\Debug\02.SelectionSort.exe.config
+d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\02.SelectionSort\bin\Debug\02.SelectionSort.exe
+d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\02.SelectionSort\bin\Debug\02.SelectionSort.pdb
+d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\02.SelectionSort\obj\Debug\02.SelectionSort.csprojResolveAssemblyReference.cache
+d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\02.SelectionSort\obj\Debug\02.SelectionSort.exe
+d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\02.SelectionSort\obj\Debug\02.SelectionSort.pdb

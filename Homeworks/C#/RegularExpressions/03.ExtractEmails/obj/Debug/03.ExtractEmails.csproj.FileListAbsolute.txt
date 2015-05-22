@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\03.ExtractEmails\bin\Debug\03.ExtractEmails.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\RegularExpressions\03.ExtractEmails\bin\Debug\03.ExtractEmails.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\RegularExpressions\03.ExtractEmails\bin\Debug\03.ExtractEmails.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\RegularExpressions\03.ExtractEmails\obj\Debug\03.ExtractEmails.csprojResolveAssemblyReference.cache
+D:\Diyan\Documents\Visual Studio 2013\Projects\RegularExpressions\03.ExtractEmails\obj\Debug\03.ExtractEmails.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\RegularExpressions\03.ExtractEmails\obj\Debug\03.ExtractEmails.pdb

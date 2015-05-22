@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\06.Palindromes\bin\Debug\06.Palindromes.exe.config
+d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\06.Palindromes\bin\Debug\06.Palindromes.exe
+d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\06.Palindromes\bin\Debug\06.Palindromes.pdb
+d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\06.Palindromes\obj\Debug\06.Palindromes.csprojResolveAssemblyReference.cache
+d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\06.Palindromes\obj\Debug\06.Palindromes.exe
+d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\06.Palindromes\obj\Debug\06.Palindromes.pdb

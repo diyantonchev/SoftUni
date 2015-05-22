@@ -1,0 +1,5 @@
+d:\Diyan\documents\visual studio 2013\Projects\01.BiggerInteger\02.LastDigit\bin\Debug\02.LastDigit.exe.config
+d:\Diyan\documents\visual studio 2013\Projects\01.BiggerInteger\02.LastDigit\bin\Debug\02.LastDigit.exe
+d:\Diyan\documents\visual studio 2013\Projects\01.BiggerInteger\02.LastDigit\bin\Debug\02.LastDigit.pdb
+d:\Diyan\documents\visual studio 2013\Projects\01.BiggerInteger\02.LastDigit\obj\Debug\02.LastDigit.exe
+d:\Diyan\documents\visual studio 2013\Projects\01.BiggerInteger\02.LastDigit\obj\Debug\02.LastDigit.pdb

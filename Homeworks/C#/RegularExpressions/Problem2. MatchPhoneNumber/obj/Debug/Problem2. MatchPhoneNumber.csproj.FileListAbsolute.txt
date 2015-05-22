@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\Problem2. MatchPhoneNumber\bin\Debug\Problem2.MatchPhoneNumber.exe.config
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\Problem2. MatchPhoneNumber\bin\Debug\Problem2.MatchPhoneNumber.exe
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\Problem2. MatchPhoneNumber\bin\Debug\Problem2.MatchPhoneNumber.pdb
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\Problem2. MatchPhoneNumber\obj\Debug\Problem2. MatchPhoneNumber.csprojResolveAssemblyReference.cache
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\Problem2. MatchPhoneNumber\obj\Debug\Problem2.MatchPhoneNumber.exe
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\Problem2. MatchPhoneNumber\obj\Debug\Problem2.MatchPhoneNumber.pdb

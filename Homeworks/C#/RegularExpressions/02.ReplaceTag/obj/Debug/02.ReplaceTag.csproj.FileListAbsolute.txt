@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\02.ReplaceTag\bin\Debug\02.ReplaceTag.exe.config
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\02.ReplaceTag\bin\Debug\02.ReplaceTag.exe
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\02.ReplaceTag\bin\Debug\02.ReplaceTag.pdb
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\02.ReplaceTag\obj\Debug\02.ReplaceTag.exe
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\02.ReplaceTag\obj\Debug\02.ReplaceTag.pdb
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\02.ReplaceTag\obj\Debug\02.ReplaceTag.csprojResolveAssemblyReference.cache

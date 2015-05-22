@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\RegularExpressions\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\RegularExpressions\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.csprojResolveAssemblyReference.cache
+D:\Diyan\Documents\Visual Studio 2013\Projects\RegularExpressions\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\RegularExpressions\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\RegularExpressions\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\RegularExpressions\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.pdb
