@@ -1,5 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\13.CheckBit\bin\Debug\13.CheckBit.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\13.CheckBit\bin\Debug\13.CheckBit.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\13.CheckBit\bin\Debug\13.CheckBit.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\13.CheckBit\obj\Debug\13.CheckBit.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\13.CheckBit\obj\Debug\13.CheckBit.pdb

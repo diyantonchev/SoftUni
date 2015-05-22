@@ -1,6 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDict\MultiplyMatrix\bin\Debug\MultiplyMatrix.exe.config
-d:\diyan\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDict\MultiplyMatrix\bin\Debug\MultiplyMatrix.exe
-d:\diyan\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDict\MultiplyMatrix\bin\Debug\MultiplyMatrix.pdb
-d:\diyan\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDict\MultiplyMatrix\obj\Debug\MultiplyMatrix.csprojResolveAssemblyReference.cache
-d:\diyan\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDict\MultiplyMatrix\obj\Debug\MultiplyMatrix.exe
-d:\diyan\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDict\MultiplyMatrix\obj\Debug\MultiplyMatrix.pdb

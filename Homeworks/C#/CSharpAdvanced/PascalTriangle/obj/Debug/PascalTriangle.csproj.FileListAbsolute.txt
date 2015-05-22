@@ -1,6 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\PascalTriangle\bin\Debug\PascalTriangle.exe.config
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\PascalTriangle\bin\Debug\PascalTriangle.exe
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\PascalTriangle\bin\Debug\PascalTriangle.pdb
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\PascalTriangle\obj\Debug\PascalTriangle.csprojResolveAssemblyReference.cache
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\PascalTriangle\obj\Debug\PascalTriangle.exe
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\PascalTriangle\obj\Debug\PascalTriangle.pdb

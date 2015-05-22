@@ -1,3 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\NumberComparer\bin\Debug\NumberComparer.exe.config
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\NumberComparer\obj\Debug\NumberComparer.exe
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\NumberComparer\obj\Debug\NumberComparer.pdb

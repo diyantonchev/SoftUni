@@ -1,1 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\02.FillTheMatrix\bin\Debug\02.FillTheMatrix.exe.config

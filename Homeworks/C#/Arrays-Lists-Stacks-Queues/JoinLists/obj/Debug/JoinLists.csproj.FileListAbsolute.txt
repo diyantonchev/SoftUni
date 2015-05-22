@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\Arrays-Lists-Stacks-Queues\JoinLists\bin\Debug\JoinLists.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\Arrays-Lists-Stacks-Queues\JoinLists\bin\Debug\JoinLists.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\Arrays-Lists-Stacks-Queues\JoinLists\bin\Debug\JoinLists.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\Arrays-Lists-Stacks-Queues\JoinLists\obj\Debug\JoinLists.csprojResolveAssemblyReference.cache
-D:\Diyan\Documents\Visual Studio 2013\Projects\Arrays-Lists-Stacks-Queues\JoinLists\obj\Debug\JoinLists.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\Arrays-Lists-Stacks-Queues\JoinLists\obj\Debug\JoinLists.pdb

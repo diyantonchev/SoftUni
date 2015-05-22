@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\08.NightLife\bin\Debug\08.NightLife.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\08.NightLife\bin\Debug\08.NightLife.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\08.NightLife\bin\Debug\08.NightLife.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\08.NightLife\obj\Debug\08.NightLife.csprojResolveAssemblyReference.cache
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\08.NightLife\obj\Debug\08.NightLife.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\08.NightLife\obj\Debug\08.NightLife.pdb

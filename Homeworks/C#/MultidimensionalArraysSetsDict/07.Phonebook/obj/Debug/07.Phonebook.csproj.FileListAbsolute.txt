@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\07.Phonebook\bin\Debug\07.Phonebook.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\07.Phonebook\bin\Debug\07.Phonebook.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\07.Phonebook\bin\Debug\07.Phonebook.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\07.Phonebook\obj\Debug\07.Phonebook.csprojResolveAssemblyReference.cache
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\07.Phonebook\obj\Debug\07.Phonebook.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\07.Phonebook\obj\Debug\07.Phonebook.pdb

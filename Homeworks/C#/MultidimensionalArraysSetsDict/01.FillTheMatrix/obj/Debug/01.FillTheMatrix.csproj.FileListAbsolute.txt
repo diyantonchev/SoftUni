@@ -1,5 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDict\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.exe.config
-d:\diyan\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDict\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.exe
-d:\diyan\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDict\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.pdb
-d:\diyan\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDict\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.exe
-d:\diyan\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDict\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.pdb

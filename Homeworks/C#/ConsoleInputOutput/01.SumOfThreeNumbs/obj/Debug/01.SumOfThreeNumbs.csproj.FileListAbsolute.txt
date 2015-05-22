@@ -1,6 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\01.SumOfThreeNumbs\bin\Debug\01.SumOfThreeNumbs.exe.config
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\01.SumOfThreeNumbs\bin\Debug\01.SumOfThreeNumbs.exe
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\01.SumOfThreeNumbs\bin\Debug\01.SumOfThreeNumbs.pdb
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\01.SumOfThreeNumbs\obj\Debug\01.SumOfThreeNumbs.csprojResolveAssemblyReference.cache
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\01.SumOfThreeNumbs\obj\Debug\01.SumOfThreeNumbs.exe
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\01.SumOfThreeNumbs\obj\Debug\01.SumOfThreeNumbs.pdb

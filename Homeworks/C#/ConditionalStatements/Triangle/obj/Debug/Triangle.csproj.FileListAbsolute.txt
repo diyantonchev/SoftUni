@@ -1,1 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\ConditionalStatements\Triangle\bin\Debug\Triangle.exe.config

@@ -1,6 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\02.ReadArraysEqv\bin\Debug\02.ReadArraysEqv.exe.config
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\02.ReadArraysEqv\bin\Debug\02.ReadArraysEqv.exe
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\02.ReadArraysEqv\bin\Debug\02.ReadArraysEqv.pdb
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\02.ReadArraysEqv\obj\Debug\02.ReadArraysEqv.csprojResolveAssemblyReference.cache
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\02.ReadArraysEqv\obj\Debug\02.ReadArraysEqv.exe
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\02.ReadArraysEqv\obj\Debug\02.ReadArraysEqv.pdb

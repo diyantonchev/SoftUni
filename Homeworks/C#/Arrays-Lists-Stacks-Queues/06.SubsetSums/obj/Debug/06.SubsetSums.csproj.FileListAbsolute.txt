@@ -1,6 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\06.SubsetSums\bin\Debug\06.SubsetSums.exe.config
-d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\06.SubsetSums\bin\Debug\06.SubsetSums.exe
-d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\06.SubsetSums\bin\Debug\06.SubsetSums.pdb
-d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\06.SubsetSums\obj\Debug\06.SubsetSums.csprojResolveAssemblyReference.cache
-d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\06.SubsetSums\obj\Debug\06.SubsetSums.exe
-d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\06.SubsetSums\obj\Debug\06.SubsetSums.pdb

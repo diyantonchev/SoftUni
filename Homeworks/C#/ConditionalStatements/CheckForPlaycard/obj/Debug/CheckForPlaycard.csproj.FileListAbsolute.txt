@@ -1,1 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\ConditionalStatements\CheckForPlaycard\bin\Debug\CheckForPlaycard.exe.config

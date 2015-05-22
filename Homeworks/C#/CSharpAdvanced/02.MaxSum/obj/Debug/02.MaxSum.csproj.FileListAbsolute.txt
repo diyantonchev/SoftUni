@@ -1,6 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\02.MaxSum\bin\Debug\02.MaxSum.exe.config
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\02.MaxSum\bin\Debug\02.MaxSum.exe
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\02.MaxSum\bin\Debug\02.MaxSum.pdb
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\02.MaxSum\obj\Debug\02.MaxSum.csprojResolveAssemblyReference.cache
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\02.MaxSum\obj\Debug\02.MaxSum.exe
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\02.MaxSum\obj\Debug\02.MaxSum.pdb

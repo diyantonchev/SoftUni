@@ -1,5 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\FourDigitNumb\bin\Debug\FourDigitNumb.exe.config
-d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\FourDigitNumb\bin\Debug\FourDigitNumb.exe
-d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\FourDigitNumb\bin\Debug\FourDigitNumb.pdb
-d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\FourDigitNumb\obj\Debug\FourDigitNumb.exe
-d:\diyan\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\FourDigitNumb\obj\Debug\FourDigitNumb.pdb

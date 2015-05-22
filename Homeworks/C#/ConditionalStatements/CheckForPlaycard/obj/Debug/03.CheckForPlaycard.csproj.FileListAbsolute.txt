@@ -1,6 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\ConditionalStatements\CheckForPlaycard\bin\Debug\CheckForPlaycard.exe.config
-d:\diyan\documents\visual studio 2013\Projects\ConditionalStatements\CheckForPlaycard\bin\Debug\CheckForPlaycard.exe
-d:\diyan\documents\visual studio 2013\Projects\ConditionalStatements\CheckForPlaycard\bin\Debug\CheckForPlaycard.pdb
-d:\diyan\documents\visual studio 2013\Projects\ConditionalStatements\CheckForPlaycard\obj\Debug\03.CheckForPlaycard.csprojResolveAssemblyReference.cache
-d:\diyan\documents\visual studio 2013\Projects\ConditionalStatements\CheckForPlaycard\obj\Debug\CheckForPlaycard.exe
-d:\diyan\documents\visual studio 2013\Projects\ConditionalStatements\CheckForPlaycard\obj\Debug\CheckForPlaycard.pdb

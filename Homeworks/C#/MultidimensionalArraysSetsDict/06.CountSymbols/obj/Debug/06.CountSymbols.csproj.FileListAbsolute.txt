@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\06.CountSymbols\bin\Debug\06.CountSymbols.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\06.CountSymbols\bin\Debug\06.CountSymbols.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\06.CountSymbols\bin\Debug\06.CountSymbols.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\06.CountSymbols\obj\Debug\06.CountSymbols.csprojResolveAssemblyReference.cache
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\06.CountSymbols\obj\Debug\06.CountSymbols.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\06.CountSymbols\obj\Debug\06.CountSymbols.pdb

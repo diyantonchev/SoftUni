@@ -1,6 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\01.BiggerInteger\01.BiggerInteger\bin\Debug\01.BiggerInteger.exe.config
-d:\diyan\documents\visual studio 2013\Projects\01.BiggerInteger\01.BiggerInteger\bin\Debug\01.BiggerInteger.exe
-d:\diyan\documents\visual studio 2013\Projects\01.BiggerInteger\01.BiggerInteger\bin\Debug\01.BiggerInteger.pdb
-d:\diyan\documents\visual studio 2013\Projects\01.BiggerInteger\01.BiggerInteger\obj\Debug\01.BiggerNumber.csprojResolveAssemblyReference.cache
-d:\diyan\documents\visual studio 2013\Projects\01.BiggerInteger\01.BiggerInteger\obj\Debug\01.BiggerInteger.exe
-d:\diyan\documents\visual studio 2013\Projects\01.BiggerInteger\01.BiggerInteger\obj\Debug\01.BiggerInteger.pdb

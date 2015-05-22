@@ -1,6 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\SumOfNumbers\bin\Debug\SumOfNumbers.exe.config
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\SumOfNumbers\bin\Debug\SumOfNumbers.exe
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\SumOfNumbers\bin\Debug\SumOfNumbers.pdb
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\SumOfNumbers\obj\Debug\SumOfNumbers.csprojResolveAssemblyReference.cache
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\SumOfNumbers\obj\Debug\SumOfNumbers.exe
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\SumOfNumbers\obj\Debug\SumOfNumbers.pdb

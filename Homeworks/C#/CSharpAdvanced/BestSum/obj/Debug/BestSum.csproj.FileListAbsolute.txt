@@ -1,6 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\BestSum\bin\Debug\BestSum.exe.config
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\BestSum\bin\Debug\BestSum.exe
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\BestSum\bin\Debug\BestSum.pdb
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\BestSum\obj\Debug\BestSum.csprojResolveAssemblyReference.cache
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\BestSum\obj\Debug\BestSum.exe
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\BestSum\obj\Debug\BestSum.pdb

@@ -1,6 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\SortArray\bin\Debug\SortArray.exe.config
-d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\SortArray\bin\Debug\SortArray.exe
-d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\SortArray\bin\Debug\SortArray.pdb
-d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\SortArray\obj\Debug\SortArray.csprojResolveAssemblyReference.cache
-d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\SortArray\obj\Debug\SortArray.exe
-d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\SortArray\obj\Debug\SortArray.pdb

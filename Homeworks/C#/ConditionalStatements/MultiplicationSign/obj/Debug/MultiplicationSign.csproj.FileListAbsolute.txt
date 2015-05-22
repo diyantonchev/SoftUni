@@ -1,6 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\ConditionalStatements\MultiplicationSign\bin\Debug\MultiplicationSign.exe.config
-d:\diyan\documents\visual studio 2013\Projects\ConditionalStatements\MultiplicationSign\bin\Debug\MultiplicationSign.exe
-d:\diyan\documents\visual studio 2013\Projects\ConditionalStatements\MultiplicationSign\bin\Debug\MultiplicationSign.pdb
-d:\diyan\documents\visual studio 2013\Projects\ConditionalStatements\MultiplicationSign\obj\Debug\MultiplicationSign.csprojResolveAssemblyReference.cache
-d:\diyan\documents\visual studio 2013\Projects\ConditionalStatements\MultiplicationSign\obj\Debug\MultiplicationSign.exe
-d:\diyan\documents\visual studio 2013\Projects\ConditionalStatements\MultiplicationSign\obj\Debug\MultiplicationSign.pdb

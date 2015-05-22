@@ -1,5 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\08.NumbersFromOneToN\bin\Debug\08.NumbersFromOneToN.exe.config
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\08.NumbersFromOneToN\bin\Debug\08.NumbersFromOneToN.exe
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\08.NumbersFromOneToN\bin\Debug\08.NumbersFromOneToN.pdb
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\08.NumbersFromOneToN\obj\Debug\08.NumbersFromOneToN.exe
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\08.NumbersFromOneToN\obj\Debug\08.NumbersFromOneToN.pdb

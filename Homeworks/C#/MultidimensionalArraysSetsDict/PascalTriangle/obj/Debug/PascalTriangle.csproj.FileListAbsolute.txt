@@ -1,5 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\PascalTriangle\bin\Debug\PascalTriangle.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\PascalTriangle\bin\Debug\PascalTriangle.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\PascalTriangle\bin\Debug\PascalTriangle.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\PascalTriangle\obj\Debug\PascalTriangle.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\PascalTriangle\obj\Debug\PascalTriangle.pdb

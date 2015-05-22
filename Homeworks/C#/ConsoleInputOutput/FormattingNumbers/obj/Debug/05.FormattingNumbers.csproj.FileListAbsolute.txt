@@ -1,3 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\FormattingNumbers\bin\Debug\FormattingNumbers.exe.config
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\FormattingNumbers\obj\Debug\FormattingNumbers.exe
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\FormattingNumbers\obj\Debug\FormattingNumbers.pdb

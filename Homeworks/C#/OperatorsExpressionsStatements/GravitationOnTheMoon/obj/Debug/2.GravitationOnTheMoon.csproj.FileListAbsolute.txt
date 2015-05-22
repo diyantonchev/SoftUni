@@ -1,3 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.pdb

@@ -1,5 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\ConditionalStatements\House\bin\Debug\House.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\ConditionalStatements\House\bin\Debug\House.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\ConditionalStatements\House\bin\Debug\House.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\ConditionalStatements\House\obj\Debug\House.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\ConditionalStatements\House\obj\Debug\House.pdb

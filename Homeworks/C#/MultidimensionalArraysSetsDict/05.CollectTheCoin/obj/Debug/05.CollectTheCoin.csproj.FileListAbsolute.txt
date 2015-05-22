@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\05.CollectTheCoin\bin\Debug\05.CollectTheCoin.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\05.CollectTheCoin\bin\Debug\05.CollectTheCoin.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\05.CollectTheCoin\bin\Debug\05.CollectTheCoin.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\05.CollectTheCoin\obj\Debug\05.CollectTheCoin.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\05.CollectTheCoin\obj\Debug\05.CollectTheCoin.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDict\05.CollectTheCoin\obj\Debug\05.CollectTheCoin.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\14.ModifyBit\bin\Debug\14.ModifyBit.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\14.ModifyBit\bin\Debug\14.ModifyBit.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\14.ModifyBit\bin\Debug\14.ModifyBit.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\14.ModifyBit\obj\Debug\14.ModifyBit.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\14.ModifyBit\obj\Debug\14.ModifyBit.pdb

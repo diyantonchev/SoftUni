@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\PrimeNumberCheck.cs\bin\Debug\PrimeNumberCheck.cs.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\PrimeNumberCheck.cs\bin\Debug\PrimeNumberCheck.cs.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\PrimeNumberCheck.cs\bin\Debug\PrimeNumberCheck.cs.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\PrimeNumberCheck.cs\obj\Debug\PrimeNumberCheck.cs.csprojResolveAssemblyReference.cache
-D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\PrimeNumberCheck.cs\obj\Debug\PrimeNumberCheck.cs.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\PrimeNumberCheck.cs\obj\Debug\PrimeNumberCheck.cs.pdb

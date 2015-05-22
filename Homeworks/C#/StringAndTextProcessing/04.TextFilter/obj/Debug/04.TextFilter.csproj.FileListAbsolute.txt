@@ -1,6 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\04.TextFilter\bin\Debug\04.TextFilter.exe.config
-d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\04.TextFilter\bin\Debug\04.TextFilter.exe
-d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\04.TextFilter\bin\Debug\04.TextFilter.pdb
-d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\04.TextFilter\obj\Debug\04.TextFilter.csprojResolveAssemblyReference.cache
-d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\04.TextFilter\obj\Debug\04.TextFilter.exe
-d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\04.TextFilter\obj\Debug\04.TextFilter.pdb

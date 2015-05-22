@@ -1,5 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\DayOfWeek\bin\Debug\DayOfWeek.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\DayOfWeek\bin\Debug\DayOfWeek.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\DayOfWeek\bin\Debug\DayOfWeek.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\DayOfWeek\obj\Debug\DayOfWeek.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\DayOfWeek\obj\Debug\DayOfWeek.pdb

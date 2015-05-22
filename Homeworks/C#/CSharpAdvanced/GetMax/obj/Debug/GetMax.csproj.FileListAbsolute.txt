@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\GetMax\bin\Debug\GetMax.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\GetMax\obj\Debug\GetMax.csprojResolveAssemblyReference.cache
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\GetMax\bin\Debug\GetMax.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\GetMax\bin\Debug\GetMax.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\GetMax\obj\Debug\GetMax.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\GetMax\obj\Debug\GetMax.pdb

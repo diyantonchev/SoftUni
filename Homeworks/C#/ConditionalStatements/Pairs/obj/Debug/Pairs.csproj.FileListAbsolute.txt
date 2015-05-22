@@ -1,5 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\ConditionalStatements\Pairs\bin\Debug\Pairs.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\ConditionalStatements\Pairs\bin\Debug\Pairs.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\ConditionalStatements\Pairs\bin\Debug\Pairs.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\ConditionalStatements\Pairs\obj\Debug\Pairs.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\ConditionalStatements\Pairs\obj\Debug\Pairs.pdb

@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\ReverseString\bin\Debug\ReverseString.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\ReverseString\bin\Debug\ReverseString.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\ReverseString\bin\Debug\ReverseString.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\ReverseString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\ReverseString\obj\Debug\ReverseString.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\ReverseString\obj\Debug\ReverseString.pdb

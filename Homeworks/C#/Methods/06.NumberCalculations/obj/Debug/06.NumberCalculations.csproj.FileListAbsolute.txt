@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\06.NumberCalculations\bin\Debug\06.NumberCalculations.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\06.NumberCalculations\obj\Debug\06.NumberCalculations.csprojResolveAssemblyReference.cache
-D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\06.NumberCalculations\obj\Debug\06.NumberCalculations.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\06.NumberCalculations\obj\Debug\06.NumberCalculations.pdb

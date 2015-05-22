@@ -1,6 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\02.CompanyInformation\bin\Debug\02.CompanyInformation.exe.config
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\02.CompanyInformation\bin\Debug\02.CompanyInformation.exe
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\02.CompanyInformation\bin\Debug\02.CompanyInformation.pdb
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\02.CompanyInformation\obj\Debug\02.CompanyInformation.exe
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\02.CompanyInformation\obj\Debug\02.CompanyInformation.pdb
-d:\diyan\documents\visual studio 2013\Projects\ConsoleInputOutput\02.CompanyInformation\obj\Debug\02.CompanyInformation.csprojResolveAssemblyReference.cache

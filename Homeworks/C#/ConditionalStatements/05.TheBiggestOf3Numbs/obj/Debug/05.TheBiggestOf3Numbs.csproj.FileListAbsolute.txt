@@ -1,5 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\ConditionalStatements\05.TheBiggestOf3Numbs\bin\Debug\05.TheBiggestOf3Numbs.exe.config
-d:\diyan\documents\visual studio 2013\Projects\ConditionalStatements\05.TheBiggestOf3Numbs\bin\Debug\05.TheBiggestOf3Numbs.exe
-d:\diyan\documents\visual studio 2013\Projects\ConditionalStatements\05.TheBiggestOf3Numbs\bin\Debug\05.TheBiggestOf3Numbs.pdb
-d:\diyan\documents\visual studio 2013\Projects\ConditionalStatements\05.TheBiggestOf3Numbs\obj\Debug\05.TheBiggestOf3Numbs.exe
-d:\diyan\documents\visual studio 2013\Projects\ConditionalStatements\05.TheBiggestOf3Numbs\obj\Debug\05.TheBiggestOf3Numbs.pdb

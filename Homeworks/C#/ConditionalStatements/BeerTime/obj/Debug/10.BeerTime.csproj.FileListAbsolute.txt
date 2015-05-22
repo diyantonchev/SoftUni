@@ -1,3 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\ConditionalStatements\BeerTime\bin\Debug\BeerTime.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\ConditionalStatements\BeerTime\obj\Debug\BeerTime.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\ConditionalStatements\BeerTime\obj\Debug\BeerTime.pdb

@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\ReversedNumber\bin\Debug\ReversedNumber.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\ReversedNumber\bin\Debug\ReversedNumber.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\ReversedNumber\bin\Debug\ReversedNumber.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\ReversedNumber\obj\Debug\ReverseNumber.csprojResolveAssemblyReference.cache
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\ReversedNumber\obj\Debug\ReversedNumber.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\ReversedNumber\obj\Debug\ReversedNumber.pdb

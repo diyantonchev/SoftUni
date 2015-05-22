@@ -1,5 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\StringLength\bin\Debug\StringLength.exe.config
-d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\StringLength\bin\Debug\StringLength.exe
-d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\StringLength\bin\Debug\StringLength.pdb
-d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\StringLength\obj\Debug\StringLength.exe
-d:\diyan\documents\visual studio 2013\Projects\StringAndTextProcessing\StringLength\obj\Debug\StringLength.pdb

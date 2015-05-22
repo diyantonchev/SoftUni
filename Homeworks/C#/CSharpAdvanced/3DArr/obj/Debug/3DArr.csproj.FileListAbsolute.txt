@@ -1,6 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\3DArr\bin\Debug\3DArr.exe.config
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\3DArr\bin\Debug\3DArr.exe
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\3DArr\bin\Debug\3DArr.pdb
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\3DArr\obj\Debug\3DArr.csprojResolveAssemblyReference.cache
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\3DArr\obj\Debug\3DArr.exe
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\3DArr\obj\Debug\3DArr.pdb

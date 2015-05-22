@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\05.ReverseNumber\bin\Debug\05.ReverseNumber.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\05.ReverseNumber\bin\Debug\05.ReverseNumber.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\05.ReverseNumber\bin\Debug\05.ReverseNumber.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\05.ReverseNumber\obj\Debug\05.ReverseNumber.csprojResolveAssemblyReference.cache
-D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\05.ReverseNumber\obj\Debug\05.ReverseNumber.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\05.ReverseNumber\obj\Debug\05.ReverseNumber.pdb

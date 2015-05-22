@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\ConditionalStatements\07.SortNumbers\bin\Debug\07.SortNumbers.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\ConditionalStatements\07.SortNumbers\bin\Debug\07.SortNumbers.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\ConditionalStatements\07.SortNumbers\bin\Debug\07.SortNumbers.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\ConditionalStatements\07.SortNumbers\obj\Debug\07.SortNumbers.csprojResolveAssemblyReference.cache
-D:\Diyan\Documents\Visual Studio 2013\Projects\ConditionalStatements\07.SortNumbers\obj\Debug\07.SortNumbers.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\ConditionalStatements\07.SortNumbers\obj\Debug\07.SortNumbers.pdb
