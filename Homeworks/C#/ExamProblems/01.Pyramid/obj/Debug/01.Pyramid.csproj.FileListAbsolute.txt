@@ -1,0 +1,6 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\01.Pyramid\bin\Debug\01.Pyramid.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\01.Pyramid\bin\Debug\01.Pyramid.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\01.Pyramid\bin\Debug\01.Pyramid.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\01.Pyramid\obj\Debug\01.Pyramid.csprojResolveAssemblyReference.cache
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\01.Pyramid\obj\Debug\01.Pyramid.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\01.Pyramid\obj\Debug\01.Pyramid.pdb

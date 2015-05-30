@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\ExamProblems\01.Plus-Remove\bin\Debug\01.Plus-Remove.exe.config
+d:\diyan\documents\visual studio 2013\Projects\ExamProblems\01.Plus-Remove\bin\Debug\01.Plus-Remove.exe
+d:\diyan\documents\visual studio 2013\Projects\ExamProblems\01.Plus-Remove\bin\Debug\01.Plus-Remove.pdb
+d:\diyan\documents\visual studio 2013\Projects\ExamProblems\01.Plus-Remove\obj\Debug\01.Plus-Remove.csprojResolveAssemblyReference.cache
+d:\diyan\documents\visual studio 2013\Projects\ExamProblems\01.Plus-Remove\obj\Debug\01.Plus-Remove.exe
+d:\diyan\documents\visual studio 2013\Projects\ExamProblems\01.Plus-Remove\obj\Debug\01.Plus-Remove.pdb

@@ -1,0 +1,6 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\06.X-Removal\bin\Debug\06.X-Removal.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\06.X-Removal\bin\Debug\06.X-Removal.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\06.X-Removal\bin\Debug\06.X-Removal.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\06.X-Removal\obj\Debug\06.X-Removal.csprojResolveAssemblyReference.cache
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\06.X-Removal\obj\Debug\06.X-Removal.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\06.X-Removal\obj\Debug\06.X-Removal.pdb

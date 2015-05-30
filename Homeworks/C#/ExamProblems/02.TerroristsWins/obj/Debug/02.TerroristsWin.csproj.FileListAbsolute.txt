@@ -1,0 +1,6 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\02.TerroristsWins\bin\Debug\02.TerroristsWins.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\02.TerroristsWins\bin\Debug\02.TerroristsWins.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\02.TerroristsWins\bin\Debug\02.TerroristsWins.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\02.TerroristsWins\obj\Debug\02.TerroristsWins.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\02.TerroristsWins\obj\Debug\02.TerroristsWins.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\02.TerroristsWins\obj\Debug\02.TerroristsWin.csprojResolveAssemblyReference.cache

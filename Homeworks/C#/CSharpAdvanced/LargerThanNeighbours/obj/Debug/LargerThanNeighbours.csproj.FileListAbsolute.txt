@@ -1,0 +1,5 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\LargerThanNeighbours\obj\Debug\LargerThanNeighbours.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\LargerThanNeighbours\obj\Debug\LargerThanNeighbours.pdb

@@ -1,0 +1,6 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\Arrays\bin\Debug\Arrays.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\Arrays\bin\Debug\Arrays.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\Arrays\bin\Debug\Arrays.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\Arrays\obj\Debug\03.Arrays.csprojResolveAssemblyReference.cache
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\Arrays\obj\Debug\Arrays.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\Arrays\obj\Debug\Arrays.pdb

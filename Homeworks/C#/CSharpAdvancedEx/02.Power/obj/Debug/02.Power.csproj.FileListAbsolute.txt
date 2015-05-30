@@ -1,0 +1,5 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\02.Power\bin\Debug\02.Power.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\02.Power\bin\Debug\02.Power.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\02.Power\bin\Debug\02.Power.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\02.Power\obj\Debug\02.Power.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\02.Power\obj\Debug\02.Power.pdb

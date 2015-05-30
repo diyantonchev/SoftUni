@@ -1,0 +1,6 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\04.LogsAgragator\bin\Debug\04.LogsAgragator.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\04.LogsAgragator\bin\Debug\04.LogsAgragator.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\04.LogsAgragator\bin\Debug\04.LogsAgragator.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\04.LogsAgragator\obj\Debug\04.LogsAgragator.csprojResolveAssemblyReference.cache
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\04.LogsAgragator\obj\Debug\04.LogsAgragator.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\04.LogsAgragator\obj\Debug\04.LogsAgragator.pdb

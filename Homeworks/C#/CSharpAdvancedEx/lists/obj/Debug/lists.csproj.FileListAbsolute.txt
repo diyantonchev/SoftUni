@@ -1,0 +1,5 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\lists\bin\Debug\lists.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\lists\bin\Debug\lists.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\lists\bin\Debug\lists.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\lists\obj\Debug\lists.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\lists\obj\Debug\lists.pdb

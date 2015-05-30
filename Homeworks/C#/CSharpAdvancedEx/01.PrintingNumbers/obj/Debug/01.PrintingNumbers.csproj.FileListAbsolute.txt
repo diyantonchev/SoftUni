@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\CSharpAdvancedEx\01.PrintingNumbers\bin\Debug\01.PrintingNumbers.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\01.PrintingNumbers\obj\Debug\01.PrintingNumbers.csprojResolveAssemblyReference.cache
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\01.PrintingNumbers\bin\Debug\01.PrintingNumbers.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\01.PrintingNumbers\bin\Debug\01.PrintingNumbers.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\01.PrintingNumbers\obj\Debug\01.PrintingNumbers.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\01.PrintingNumbers\obj\Debug\01.PrintingNumbers.pdb

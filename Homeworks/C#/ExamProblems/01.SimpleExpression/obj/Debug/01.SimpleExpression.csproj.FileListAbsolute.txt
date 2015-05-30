@@ -1,0 +1,6 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\01.SimpleExpression\bin\Debug\01.SimpleExpression.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\01.SimpleExpression\bin\Debug\01.SimpleExpression.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\01.SimpleExpression\bin\Debug\01.SimpleExpression.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\01.SimpleExpression\obj\Debug\01.SimpleExpression.csprojResolveAssemblyReference.cache
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\01.SimpleExpression\obj\Debug\01.SimpleExpression.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\01.SimpleExpression\obj\Debug\01.SimpleExpression.pdb

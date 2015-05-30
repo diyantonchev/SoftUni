@@ -1,0 +1,6 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\VladkosNotebook\bin\Debug\VladkosNotebook.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\VladkosNotebook\bin\Debug\VladkosNotebook.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\VladkosNotebook\bin\Debug\VladkosNotebook.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\VladkosNotebook\obj\Debug\07.VladkosNotebook.csprojResolveAssemblyReference.cache
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\VladkosNotebook\obj\Debug\VladkosNotebook.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\VladkosNotebook\obj\Debug\VladkosNotebook.pdb

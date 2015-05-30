@@ -1,0 +1,6 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\04.SchoolSystem\bin\Debug\04.SchoolSystem.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\04.SchoolSystem\bin\Debug\04.SchoolSystem.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\04.SchoolSystem\bin\Debug\04.SchoolSystem.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\04.SchoolSystem\obj\Debug\04.SchoolSystem.csprojResolveAssemblyReference.cache
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\04.SchoolSystem\obj\Debug\04.SchoolSystem.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\04.SchoolSystem\obj\Debug\04.SchoolSystem.pdb

@@ -1,0 +1,6 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\01.StuckNumbers\bin\Debug\01.StuckNumbers.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\01.StuckNumbers\bin\Debug\01.StuckNumbers.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\01.StuckNumbers\bin\Debug\01.StuckNumbers.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\01.StuckNumbers\obj\Debug\01.StuckNumbers.csprojResolveAssemblyReference.cache
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\01.StuckNumbers\obj\Debug\01.StuckNumbers.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\01.StuckNumbers\obj\Debug\01.StuckNumbers.pdb
