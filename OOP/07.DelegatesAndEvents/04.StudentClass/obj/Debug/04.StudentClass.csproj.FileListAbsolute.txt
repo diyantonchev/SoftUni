@@ -1,0 +1,6 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\DelegatesAndEvents\04.StudentClass\bin\Debug\04.StudentClass.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\DelegatesAndEvents\04.StudentClass\bin\Debug\04.StudentClass.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\DelegatesAndEvents\04.StudentClass\bin\Debug\04.StudentClass.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\DelegatesAndEvents\04.StudentClass\obj\Debug\04.StudentClass.csprojResolveAssemblyReference.cache
+D:\Diyan\Documents\Visual Studio 2013\Projects\DelegatesAndEvents\04.StudentClass\obj\Debug\04.StudentClass.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\DelegatesAndEvents\04.StudentClass\obj\Debug\04.StudentClass.pdb

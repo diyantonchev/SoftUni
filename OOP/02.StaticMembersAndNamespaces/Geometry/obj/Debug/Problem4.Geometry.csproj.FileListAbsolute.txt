@@ -1,0 +1,5 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Geometry\bin\Debug\Geometry.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Geometry\bin\Debug\Geometry.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Geometry\bin\Debug\Geometry.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Geometry\obj\Debug\Geometry.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Geometry\obj\Debug\Geometry.pdb

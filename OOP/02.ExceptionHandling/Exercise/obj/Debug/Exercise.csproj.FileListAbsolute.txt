@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\ExceptionHandling\Exercise\bin\Debug\Exercise.exe.config
+d:\diyan\documents\visual studio 2013\Projects\ExceptionHandling\Exercise\bin\Debug\Exercise.exe
+d:\diyan\documents\visual studio 2013\Projects\ExceptionHandling\Exercise\bin\Debug\Exercise.pdb
+d:\diyan\documents\visual studio 2013\Projects\ExceptionHandling\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache
+d:\diyan\documents\visual studio 2013\Projects\ExceptionHandling\Exercise\obj\Debug\Exercise.exe
+d:\diyan\documents\visual studio 2013\Projects\ExceptionHandling\Exercise\obj\Debug\Exercise.pdb

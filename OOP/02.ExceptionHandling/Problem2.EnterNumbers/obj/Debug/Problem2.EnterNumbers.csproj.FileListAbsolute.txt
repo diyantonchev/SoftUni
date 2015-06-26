@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\ExceptionHandling\Problem2.EnterNumbers\bin\Debug\Problem2.EnterNumbers.exe.config
+d:\diyan\documents\visual studio 2013\Projects\ExceptionHandling\Problem2.EnterNumbers\bin\Debug\Problem2.EnterNumbers.exe
+d:\diyan\documents\visual studio 2013\Projects\ExceptionHandling\Problem2.EnterNumbers\bin\Debug\Problem2.EnterNumbers.pdb
+d:\diyan\documents\visual studio 2013\Projects\ExceptionHandling\Problem2.EnterNumbers\obj\Debug\Problem2.EnterNumbers.csprojResolveAssemblyReference.cache
+d:\diyan\documents\visual studio 2013\Projects\ExceptionHandling\Problem2.EnterNumbers\obj\Debug\Problem2.EnterNumbers.exe
+d:\diyan\documents\visual studio 2013\Projects\ExceptionHandling\Problem2.EnterNumbers\obj\Debug\Problem2.EnterNumbers.pdb

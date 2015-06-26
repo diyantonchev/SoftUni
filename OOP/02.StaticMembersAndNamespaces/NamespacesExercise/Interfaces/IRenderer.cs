@@ -1,0 +1,6 @@
+﻿namespace Interfaces
+{
+    class IRenderer
+    {
+    }
+}

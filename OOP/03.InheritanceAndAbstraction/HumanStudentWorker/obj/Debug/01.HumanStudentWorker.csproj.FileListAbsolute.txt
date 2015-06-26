@@ -1,0 +1,3 @@
+d:\diyan\documents\visual studio 2013\Projects\InheritanceAndAbstraction\HumanStudentWorker\bin\Debug\HumanStudentWorker.exe.config
+d:\diyan\documents\visual studio 2013\Projects\InheritanceAndAbstraction\HumanStudentWorker\obj\Debug\HumanStudentWorker.exe
+d:\diyan\documents\visual studio 2013\Projects\InheritanceAndAbstraction\HumanStudentWorker\obj\Debug\HumanStudentWorker.pdb

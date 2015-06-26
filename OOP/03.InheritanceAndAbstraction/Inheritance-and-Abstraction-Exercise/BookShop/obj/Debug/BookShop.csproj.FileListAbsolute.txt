@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\Inheritance-and-Abstraction-Exercise\BookShop\bin\Debug\BookShop.exe.config
+d:\diyan\documents\visual studio 2013\Projects\Inheritance-and-Abstraction-Exercise\BookShop\bin\Debug\BookShop.exe
+d:\diyan\documents\visual studio 2013\Projects\Inheritance-and-Abstraction-Exercise\BookShop\bin\Debug\BookShop.pdb
+d:\diyan\documents\visual studio 2013\Projects\Inheritance-and-Abstraction-Exercise\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+d:\diyan\documents\visual studio 2013\Projects\Inheritance-and-Abstraction-Exercise\BookShop\obj\Debug\BookShop.exe
+d:\diyan\documents\visual studio 2013\Projects\Inheritance-and-Abstraction-Exercise\BookShop\obj\Debug\BookShop.pdb

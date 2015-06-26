@@ -1,0 +1,6 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\DefiningClasses\SoftUniLearningSystem\bin\Debug\SoftUniLearningSystem.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\DefiningClasses\SoftUniLearningSystem\obj\Debug\SoftUniLearningSystem.csprojResolveAssemblyReference.cache
+D:\Diyan\Documents\Visual Studio 2013\Projects\DefiningClasses\SoftUniLearningSystem\bin\Debug\SoftUniLearningSystem.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\DefiningClasses\SoftUniLearningSystem\bin\Debug\SoftUniLearningSystem.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\DefiningClasses\SoftUniLearningSystem\obj\Debug\SoftUniLearningSystem.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\DefiningClasses\SoftUniLearningSystem\obj\Debug\SoftUniLearningSystem.pdb

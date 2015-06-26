@@ -1,0 +1,5 @@
+D:\Diyan\Documents\Visual Studio 2013\Projects\DefiningClasses\ExInClass.DefinClassDog\bin\Debug\ExInClass.DefinClassDog.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\DefiningClasses\ExInClass.DefinClassDog\bin\Debug\ExInClass.DefinClassDog.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\DefiningClasses\ExInClass.DefinClassDog\bin\Debug\ExInClass.DefinClassDog.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\DefiningClasses\ExInClass.DefinClassDog\obj\Debug\ExInClass.DefinClassDog.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\DefiningClasses\ExInClass.DefinClassDog\obj\Debug\ExInClass.DefinClassDog.pdb

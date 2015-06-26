@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\StaticMembersAndNamespaces\NamespacesExercise\bin\Debug\NamespacesExercise.exe.config
+D:\Diyan\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\NamespacesExercise\bin\Debug\NamespacesExercise.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\NamespacesExercise\bin\Debug\NamespacesExercise.pdb
+D:\Diyan\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\NamespacesExercise\obj\Debug\NamespacesExercise.csprojResolveAssemblyReference.cache
+D:\Diyan\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\NamespacesExercise\obj\Debug\NamespacesExercise.exe
+D:\Diyan\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\NamespacesExercise\obj\Debug\NamespacesExercise.pdb
