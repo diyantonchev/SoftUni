@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\DefiningClasses\Problem2.LaptopShop\bin\Debug\Problem2.LaptopShop.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\DefiningClasses\Problem2.LaptopShop\bin\Debug\Problem2.LaptopShop.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\DefiningClasses\Problem2.LaptopShop\bin\Debug\Problem2.LaptopShop.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\DefiningClasses\Problem2.LaptopShop\obj\Debug\Problem2.LaptopShop.csprojResolveAssemblyReference.cache
-D:\Diyan\Documents\Visual Studio 2013\Projects\DefiningClasses\Problem2.LaptopShop\obj\Debug\Problem2.LaptopShop.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\DefiningClasses\Problem2.LaptopShop\obj\Debug\Problem2.LaptopShop.pdb

@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\DefiningClasses\Problem3.PC_Catalog\bin\Debug\Problem3.PC_Catalog.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\DefiningClasses\Problem3.PC_Catalog\bin\Debug\Problem3.PC_Catalog.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\DefiningClasses\Problem3.PC_Catalog\bin\Debug\Problem3.PC_Catalog.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\DefiningClasses\Problem3.PC_Catalog\obj\Debug\Problem3.PC_Catalog.csprojResolveAssemblyReference.cache
-D:\Diyan\Documents\Visual Studio 2013\Projects\DefiningClasses\Problem3.PC_Catalog\obj\Debug\Problem3.PC_Catalog.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\DefiningClasses\Problem3.PC_Catalog\obj\Debug\Problem3.PC_Catalog.pdb
