@@ -1,6 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\DelegatesAndEvents\01.CustomExtensionMehtods\bin\Debug\01.CustomExtensionMehtods.exe.config
-d:\diyan\documents\visual studio 2013\Projects\DelegatesAndEvents\01.CustomExtensionMehtods\bin\Debug\01.CustomExtensionMehtods.exe
-d:\diyan\documents\visual studio 2013\Projects\DelegatesAndEvents\01.CustomExtensionMehtods\bin\Debug\01.CustomExtensionMehtods.pdb
-d:\diyan\documents\visual studio 2013\Projects\DelegatesAndEvents\01.CustomExtensionMehtods\obj\Debug\01.CustomExtensionMehtods.csprojResolveAssemblyReference.cache
-d:\diyan\documents\visual studio 2013\Projects\DelegatesAndEvents\01.CustomExtensionMehtods\obj\Debug\01.CustomExtensionMehtods.exe
-d:\diyan\documents\visual studio 2013\Projects\DelegatesAndEvents\01.CustomExtensionMehtods\obj\Debug\01.CustomExtensionMehtods.pdb

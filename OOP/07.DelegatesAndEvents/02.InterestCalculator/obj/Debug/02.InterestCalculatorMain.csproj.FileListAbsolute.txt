@@ -1,6 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\DelegatesAndEvents\02.InterestCalculator\bin\Debug\02.InterestCalculator.exe.config
-d:\diyan\documents\visual studio 2013\Projects\DelegatesAndEvents\02.InterestCalculator\bin\Debug\02.InterestCalculator.exe
-d:\diyan\documents\visual studio 2013\Projects\DelegatesAndEvents\02.InterestCalculator\bin\Debug\02.InterestCalculator.pdb
-d:\diyan\documents\visual studio 2013\Projects\DelegatesAndEvents\02.InterestCalculator\obj\Debug\02.InterestCalculatorMain.csprojResolveAssemblyReference.cache
-d:\diyan\documents\visual studio 2013\Projects\DelegatesAndEvents\02.InterestCalculator\obj\Debug\02.InterestCalculator.exe
-d:\diyan\documents\visual studio 2013\Projects\DelegatesAndEvents\02.InterestCalculator\obj\Debug\02.InterestCalculator.pdb

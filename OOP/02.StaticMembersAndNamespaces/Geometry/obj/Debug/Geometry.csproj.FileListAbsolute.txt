@@ -1,1 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Geometry\bin\Debug\Geometry.exe.config

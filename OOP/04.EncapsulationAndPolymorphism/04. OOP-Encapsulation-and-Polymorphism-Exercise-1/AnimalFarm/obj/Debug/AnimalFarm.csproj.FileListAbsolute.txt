@@ -1,2 +1,0 @@
-C:\Users\Filip Kolev\Desktop\oop\June-2015\04. OOP-Encapsulation-and-Polymorphism-Exercise-1\AnimalFarm\bin\Debug\AnimalFarm.exe.config
-C:\Users\Diyan\Downloads\OOP\04. OOP-Encapsulation-and-Polymorphism-Exercise-1\AnimalFarm\bin\Debug\AnimalFarm.exe.config

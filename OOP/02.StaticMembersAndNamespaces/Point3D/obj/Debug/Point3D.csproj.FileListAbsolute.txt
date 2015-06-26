@@ -1,3 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Point3D\bin\Debug\Point3D.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Point3D\obj\Debug\Point3D.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Point3D\obj\Debug\Point3D.pdb

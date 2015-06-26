@@ -1,6 +1,0 @@
-C:\Users\Diyan\Downloads\OOP\04. OOP-Encapsulation-and-Polymorphism-Exercise-3\BookStore\bin\Debug\BookStore.exe.config
-C:\Users\Diyan\Downloads\OOP\04. OOP-Encapsulation-and-Polymorphism-Exercise-3\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
-C:\Users\Diyan\Downloads\OOP\04. OOP-Encapsulation-and-Polymorphism-Exercise-3\BookStore\bin\Debug\BookStore.exe
-C:\Users\Diyan\Downloads\OOP\04. OOP-Encapsulation-and-Polymorphism-Exercise-3\BookStore\bin\Debug\BookStore.pdb
-C:\Users\Diyan\Downloads\OOP\04. OOP-Encapsulation-and-Polymorphism-Exercise-3\BookStore\obj\Debug\BookStore.exe
-C:\Users\Diyan\Downloads\OOP\04. OOP-Encapsulation-and-Polymorphism-Exercise-3\BookStore\obj\Debug\BookStore.pdb

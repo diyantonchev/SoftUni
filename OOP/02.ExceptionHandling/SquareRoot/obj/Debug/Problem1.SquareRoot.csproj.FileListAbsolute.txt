@@ -1,3 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\ExceptionHandling\SquareRoot\bin\Debug\SquareRoot.exe.config
-d:\diyan\documents\visual studio 2013\Projects\ExceptionHandling\SquareRoot\obj\Debug\SquareRoot.exe
-d:\diyan\documents\visual studio 2013\Projects\ExceptionHandling\SquareRoot\obj\Debug\SquareRoot.pdb

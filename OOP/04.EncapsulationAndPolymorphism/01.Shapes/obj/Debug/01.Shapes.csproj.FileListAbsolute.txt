@@ -1,6 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\01.Shapes\bin\Debug\01.Shapes.exe.config
-d:\diyan\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\01.Shapes\obj\Debug\01.Shapes.csprojResolveAssemblyReference.cache
-d:\diyan\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\01.Shapes\bin\Debug\01.Shapes.exe
-d:\diyan\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\01.Shapes\bin\Debug\01.Shapes.pdb
-d:\diyan\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\01.Shapes\obj\Debug\01.Shapes.exe
-d:\diyan\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\01.Shapes\obj\Debug\01.Shapes.pdb

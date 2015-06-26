@@ -1,6 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\DelegatesAndEventsEx\FirstOrDefault\bin\Debug\FirstOrDefault.exe.config
-d:\diyan\documents\visual studio 2013\Projects\DelegatesAndEventsEx\FirstOrDefault\bin\Debug\FirstOrDefault.exe
-d:\diyan\documents\visual studio 2013\Projects\DelegatesAndEventsEx\FirstOrDefault\bin\Debug\FirstOrDefault.pdb
-d:\diyan\documents\visual studio 2013\Projects\DelegatesAndEventsEx\FirstOrDefault\obj\Debug\FirstOrDefault.csprojResolveAssemblyReference.cache
-d:\diyan\documents\visual studio 2013\Projects\DelegatesAndEventsEx\FirstOrDefault\obj\Debug\FirstOrDefault.exe
-d:\diyan\documents\visual studio 2013\Projects\DelegatesAndEventsEx\FirstOrDefault\obj\Debug\FirstOrDefault.pdb

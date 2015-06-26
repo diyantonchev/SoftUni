@@ -1,6 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\02.Bank\bin\Debug\02.Bank.exe.config
-d:\diyan\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\02.Bank\bin\Debug\02.Bank.exe
-d:\diyan\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\02.Bank\bin\Debug\02.Bank.pdb
-d:\diyan\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\02.Bank\obj\Debug\02.Bank.csprojResolveAssemblyReference.cache
-d:\diyan\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\02.Bank\obj\Debug\02.Bank.exe
-d:\diyan\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\02.Bank\obj\Debug\02.Bank.pdb

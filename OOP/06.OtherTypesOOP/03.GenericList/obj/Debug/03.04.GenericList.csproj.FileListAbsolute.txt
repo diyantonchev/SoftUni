@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\OtherTypesOOP\03.GenericList\bin\Debug\03.GenericList.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\OtherTypesOOP\03.GenericList\obj\Debug\03.GenericList.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\OtherTypesOOP\03.GenericList\obj\Debug\03.GenericList.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\OtherTypesOOP\03.GenericList\bin\Debug\03.GenericList.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\OtherTypesOOP\03.GenericList\bin\Debug\03.GenericList.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\OtherTypesOOP\03.GenericList\obj\Debug\03.04.GenericList.csprojResolveAssemblyReference.cache
