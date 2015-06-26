@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\05.BubleSort\bin\Debug\05.BubleSort.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\05.BubleSort\bin\Debug\05.BubleSort.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\05.BubleSort\bin\Debug\05.BubleSort.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\05.BubleSort\obj\Debug\05.BubleSort.csprojResolveAssemblyReference.cache
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\05.BubleSort\obj\Debug\05.BubleSort.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\05.BubleSort\obj\Debug\05.BubleSort.pdb

@@ -1,5 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\Matrix\bin\Debug\Matrix.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\Matrix\bin\Debug\Matrix.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\Matrix\bin\Debug\Matrix.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\Matrix\obj\Debug\Matrix.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\Matrix\obj\Debug\Matrix.pdb

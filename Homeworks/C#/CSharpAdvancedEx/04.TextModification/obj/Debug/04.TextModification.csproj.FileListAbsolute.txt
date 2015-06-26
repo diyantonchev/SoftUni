@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\04.TextModification\bin\Debug\04.TextModification.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\04.TextModification\bin\Debug\04.TextModification.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\04.TextModification\bin\Debug\04.TextModification.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\04.TextModification\obj\Debug\04.TextModification.csprojResolveAssemblyReference.cache
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\04.TextModification\obj\Debug\04.TextModification.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvancedEx\04.TextModification\obj\Debug\04.TextModification.pdb

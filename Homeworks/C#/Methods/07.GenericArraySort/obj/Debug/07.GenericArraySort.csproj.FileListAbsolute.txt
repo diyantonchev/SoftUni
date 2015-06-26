@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\07.GenericArraySort\bin\Debug\07.GenericArraySort.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\07.GenericArraySort\bin\Debug\07.GenericArraySort.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\07.GenericArraySort\bin\Debug\07.GenericArraySort.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\07.GenericArraySort\obj\Debug\07.GenericArraySort.csprojResolveAssemblyReference.cache
-D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\07.GenericArraySort\obj\Debug\07.GenericArraySort.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\01.BiggerInteger\07.GenericArraySort\obj\Debug\07.GenericArraySort.pdb
