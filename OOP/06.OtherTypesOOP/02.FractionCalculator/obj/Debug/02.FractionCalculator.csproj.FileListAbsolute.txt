@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\OtherTypesOOP\02.FractionCalculator\bin\Debug\02.FractionCalculator.exe.config
+d:\diyan\documents\visual studio 2013\Projects\OtherTypesOOP\02.FractionCalculator\bin\Debug\02.FractionCalculator.exe
+d:\diyan\documents\visual studio 2013\Projects\OtherTypesOOP\02.FractionCalculator\bin\Debug\02.FractionCalculator.pdb
+d:\diyan\documents\visual studio 2013\Projects\OtherTypesOOP\02.FractionCalculator\obj\Debug\02.FractionCalculator.csprojResolveAssemblyReference.cache
+d:\diyan\documents\visual studio 2013\Projects\OtherTypesOOP\02.FractionCalculator\obj\Debug\02.FractionCalculator.exe
+d:\diyan\documents\visual studio 2013\Projects\OtherTypesOOP\02.FractionCalculator\obj\Debug\02.FractionCalculator.pdb

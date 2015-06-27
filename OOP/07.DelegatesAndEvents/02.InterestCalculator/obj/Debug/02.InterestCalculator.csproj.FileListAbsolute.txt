@@ -1,0 +1,1 @@
+d:\diyan\documents\visual studio 2013\Projects\DelegatesAndEvents\02.InterestCalculator\bin\Debug\02.InterestCalculator.exe.config
