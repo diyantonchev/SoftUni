@@ -5,7 +5,7 @@
     using System.Collections.Generic;
     using System.Text;
 
-    public class StringDisperser : ICloneable, IComparable<StringDisperser>, IEnumerable<char>
+    public class StringDisperser : ICloneable, IComparable<StringDisperser>, IEnumerable
     {
         public StringDisperser(params string[] strings)
         {
@@ -24,12 +24,7 @@
             return (string.Compare(this.ToString(), other.ToString(), StringComparison.InvariantCulture));
         }
 
-        IEnumerator IEnumerable.GetEnumerator()
-        {
-            return this.GetEnumerator();
-        }
-
-        public IEnumerator<char> GetEnumerator()
+        public IEnumerator GetEnumerator()
         {
             var totalString = this.ToString();
 
