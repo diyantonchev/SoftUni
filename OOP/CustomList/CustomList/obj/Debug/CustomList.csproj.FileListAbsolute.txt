@@ -1,0 +1,6 @@
+d:\diyan\documents\visual studio 2013\Projects\CustomList\CustomList\bin\Debug\CustomList.exe.config
+d:\diyan\documents\visual studio 2013\Projects\CustomList\CustomList\bin\Debug\CustomList.exe
+d:\diyan\documents\visual studio 2013\Projects\CustomList\CustomList\bin\Debug\CustomList.pdb
+d:\diyan\documents\visual studio 2013\Projects\CustomList\CustomList\obj\Debug\CustomList.csprojResolveAssemblyReference.cache
+d:\diyan\documents\visual studio 2013\Projects\CustomList\CustomList\obj\Debug\CustomList.exe
+d:\diyan\documents\visual studio 2013\Projects\CustomList\CustomList\obj\Debug\CustomList.pdb
