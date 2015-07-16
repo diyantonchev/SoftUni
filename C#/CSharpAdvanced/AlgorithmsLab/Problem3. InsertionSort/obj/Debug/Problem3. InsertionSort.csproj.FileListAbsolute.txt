@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\AlgorithmsLab\Problem3. InsertionSort\bin\Debug\Problem3.InsertionSort.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\AlgorithmsLab\Problem3. InsertionSort\bin\Debug\Problem3.InsertionSort.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\AlgorithmsLab\Problem3. InsertionSort\bin\Debug\Problem3.InsertionSort.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\AlgorithmsLab\Problem3. InsertionSort\obj\Debug\Problem3. InsertionSort.csprojResolveAssemblyReference.cache
-D:\Diyan\Documents\Visual Studio 2013\Projects\AlgorithmsLab\Problem3. InsertionSort\obj\Debug\Problem3.InsertionSort.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\AlgorithmsLab\Problem3. InsertionSort\obj\Debug\Problem3.InsertionSort.pdb

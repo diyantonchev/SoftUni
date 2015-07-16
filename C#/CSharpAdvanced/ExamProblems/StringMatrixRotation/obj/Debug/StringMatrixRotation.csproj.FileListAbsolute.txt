@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\StringMatrixRotation\bin\Debug\StringMatrixRotation.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\StringMatrixRotation\bin\Debug\StringMatrixRotation.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\StringMatrixRotation\bin\Debug\StringMatrixRotation.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\StringMatrixRotation\obj\Debug\StringMatrixRotation.csprojResolveAssemblyReference.cache
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\StringMatrixRotation\obj\Debug\StringMatrixRotation.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\StringMatrixRotation\obj\Debug\StringMatrixRotation.pdb

@@ -1,6 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\05.LongestSequence\bin\Debug\05.LongestSequence.exe.config
-d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\05.LongestSequence\bin\Debug\05.LongestSequence.exe
-d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\05.LongestSequence\bin\Debug\05.LongestSequence.pdb
-d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\05.LongestSequence\obj\Debug\05.LongestSequence.csprojResolveAssemblyReference.cache
-d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\05.LongestSequence\obj\Debug\05.LongestSequence.exe
-d:\diyan\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\05.LongestSequence\obj\Debug\05.LongestSequence.pdb

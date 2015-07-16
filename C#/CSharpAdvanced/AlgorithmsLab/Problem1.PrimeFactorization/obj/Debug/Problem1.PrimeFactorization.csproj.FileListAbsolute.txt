@@ -1,3 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\AlgorithmsLab\Problem 1.PrimeFactorization\bin\Debug\Problem 1.PrimeFactorization.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\AlgorithmsLab\Problem 1.PrimeFactorization\obj\Debug\Problem 1.PrimeFactorization.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\AlgorithmsLab\Problem 1.PrimeFactorization\obj\Debug\Problem 1.PrimeFactorization.pdb

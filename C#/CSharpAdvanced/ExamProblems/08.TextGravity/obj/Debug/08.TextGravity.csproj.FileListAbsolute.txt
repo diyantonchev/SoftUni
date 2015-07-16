@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\08.TextGravity\bin\Debug\08.TextGravity.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\08.TextGravity\bin\Debug\08.TextGravity.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\08.TextGravity\bin\Debug\08.TextGravity.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\08.TextGravity\obj\Debug\08.TextGravity.csprojResolveAssemblyReference.cache
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\08.TextGravity\obj\Debug\08.TextGravity.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\08.TextGravity\obj\Debug\08.TextGravity.pdb

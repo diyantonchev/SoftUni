@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\LabytinhDash\bin\Debug\LabytinhDash.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\LabytinhDash\bin\Debug\LabytinhDash.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\LabytinhDash\bin\Debug\LabytinhDash.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\LabytinhDash\obj\Debug\LabytinhDash.csprojResolveAssemblyReference.cache
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\LabytinhDash\obj\Debug\LabytinhDash.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\LabytinhDash\obj\Debug\LabytinhDash.pdb

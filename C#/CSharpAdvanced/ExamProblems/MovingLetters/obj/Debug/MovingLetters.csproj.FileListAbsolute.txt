@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\MovingLetters\bin\Debug\MovingLetters.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\MovingLetters\bin\Debug\MovingLetters.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\MovingLetters\bin\Debug\MovingLetters.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\MovingLetters\obj\Debug\MovingLetters.csprojResolveAssemblyReference.cache
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\MovingLetters\obj\Debug\MovingLetters.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\MovingLetters\obj\Debug\MovingLetters.pdb

@@ -1,3 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\LittleJohn\bin\Debug\LittleJohn.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\LittleJohn\obj\Debug\LittleJohn.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\LittleJohn\obj\Debug\LittleJohn.pdb

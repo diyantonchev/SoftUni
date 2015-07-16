@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\004.UserLogs\bin\Debug\004.UserLogs.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\004.UserLogs\bin\Debug\004.UserLogs.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\004.UserLogs\bin\Debug\004.UserLogs.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\004.UserLogs\obj\Debug\004.UserLogs.csprojResolveAssemblyReference.cache
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\004.UserLogs\obj\Debug\004.UserLogs.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\004.UserLogs\obj\Debug\004.UserLogs.pdb

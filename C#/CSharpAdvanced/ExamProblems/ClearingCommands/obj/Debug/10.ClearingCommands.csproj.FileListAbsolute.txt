@@ -1,3 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\ClearingCommands\bin\Debug\ClearingCommands.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\ClearingCommands\obj\Debug\ClearingCommands.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\ClearingCommands\obj\Debug\ClearingCommands.pdb

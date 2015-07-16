@@ -1,6 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\AlgorithmsLab\Problem 1.PrimeFactorization\bin\Debug\Problem 1.PrimeFactorization.exe.config
-d:\diyan\documents\visual studio 2013\Projects\AlgorithmsLab\Problem 1.PrimeFactorization\bin\Debug\Problem 1.PrimeFactorization.exe
-d:\diyan\documents\visual studio 2013\Projects\AlgorithmsLab\Problem 1.PrimeFactorization\bin\Debug\Problem 1.PrimeFactorization.pdb
-d:\diyan\documents\visual studio 2013\Projects\AlgorithmsLab\Problem 1.PrimeFactorization\obj\Debug\Problem 1.PrimeFactorization.csprojResolveAssemblyReference.cache
-d:\diyan\documents\visual studio 2013\Projects\AlgorithmsLab\Problem 1.PrimeFactorization\obj\Debug\Problem 1.PrimeFactorization.exe
-d:\diyan\documents\visual studio 2013\Projects\AlgorithmsLab\Problem 1.PrimeFactorization\obj\Debug\Problem 1.PrimeFactorization.pdb

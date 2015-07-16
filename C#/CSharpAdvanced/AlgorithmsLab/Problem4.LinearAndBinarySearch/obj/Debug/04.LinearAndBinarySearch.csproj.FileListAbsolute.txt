@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\AlgorithmsLab\04.LinearAndBinarySearch\bin\Debug\04.LinearAndBinarySearch.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\AlgorithmsLab\04.LinearAndBinarySearch\bin\Debug\04.LinearAndBinarySearch.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\AlgorithmsLab\04.LinearAndBinarySearch\bin\Debug\04.LinearAndBinarySearch.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\AlgorithmsLab\04.LinearAndBinarySearch\obj\Debug\04.LinearAndBinarySearch.csprojResolveAssemblyReference.cache
-D:\Diyan\Documents\Visual Studio 2013\Projects\AlgorithmsLab\04.LinearAndBinarySearch\obj\Debug\04.LinearAndBinarySearch.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\AlgorithmsLab\04.LinearAndBinarySearch\obj\Debug\04.LinearAndBinarySearch.pdb

@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\EncodeAndEncrypt\bin\Debug\EncodeAndEncrypt.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\EncodeAndEncrypt\bin\Debug\EncodeAndEncrypt.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\EncodeAndEncrypt\bin\Debug\EncodeAndEncrypt.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\EncodeAndEncrypt\obj\Debug\EncodeAndEncrypt.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\EncodeAndEncrypt\obj\Debug\EncodeAndEncrypt.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\EncodeAndEncrypt\obj\Debug\EncodeAndEncrypt.csprojResolveAssemblyReference.cache

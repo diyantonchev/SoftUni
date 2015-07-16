@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\09.UpperCaseWords\bin\Debug\09.UpperCaseWords.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\09.UpperCaseWords\bin\Debug\09.UpperCaseWords.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\09.UpperCaseWords\bin\Debug\09.UpperCaseWords.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\09.UpperCaseWords\obj\Debug\09.UpperCaseWords.csprojResolveAssemblyReference.cache
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\09.UpperCaseWords\obj\Debug\09.UpperCaseWords.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\ExamProblems\09.UpperCaseWords\obj\Debug\09.UpperCaseWords.pdb
