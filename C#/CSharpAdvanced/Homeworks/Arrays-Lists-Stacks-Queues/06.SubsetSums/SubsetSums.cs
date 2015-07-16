@@ -12,7 +12,8 @@ using System.Linq;
             var subset = new List<int>();
             double combinations = Math.Pow(2, numbers.Length);
 
-            bool isEqv = false;   
+            bool isEqual = false;
+
             for (int i = 1; i < combinations; i++)
             {
                 int sum = 0;
@@ -21,20 +22,21 @@ using System.Linq;
                     int mask = i & (1 << j);
                     if (mask != 0)
                     {
-                        sum += numbers[numbers[0] + j];
-                        subset.Add(numbers[numbers[0] + j]);
+                        sum += numbers[0 + j];
+                        subset.Add(numbers[0 + j]);
                     }
                 }
 
                 if (sum == n)
                 {
                     Console.WriteLine(string.Join(" + ", subset) + " = " + sum);
-                    isEqv = true;
+                    isEqual = true;
                 }
+
                 subset.Clear();
             }
 
-            if (!isEqv)
+            if (!isEqual)
             {
                 Console.WriteLine("No matching subsets.");
             }
