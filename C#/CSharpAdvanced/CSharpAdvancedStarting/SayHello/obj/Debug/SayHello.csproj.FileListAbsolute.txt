@@ -1,6 +1,0 @@
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\SayHello\bin\Debug\SayHello.exe.config
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\SayHello\bin\Debug\SayHello.exe
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\SayHello\bin\Debug\SayHello.pdb
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\SayHello\obj\Debug\SayHello.csprojResolveAssemblyReference.cache
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\SayHello\obj\Debug\SayHello.exe
-d:\diyan\documents\visual studio 2013\Projects\CSharpAdvanced\SayHello\obj\Debug\SayHello.pdb

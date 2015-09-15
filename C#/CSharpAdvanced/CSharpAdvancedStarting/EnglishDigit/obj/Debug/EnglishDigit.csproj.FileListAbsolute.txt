@@ -1,5 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\EnglishDigit\bin\Debug\EnglishDigit.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\EnglishDigit\bin\Debug\EnglishDigit.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\EnglishDigit\bin\Debug\EnglishDigit.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\EnglishDigit\obj\Debug\EnglishDigit.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\EnglishDigit\obj\Debug\EnglishDigit.pdb

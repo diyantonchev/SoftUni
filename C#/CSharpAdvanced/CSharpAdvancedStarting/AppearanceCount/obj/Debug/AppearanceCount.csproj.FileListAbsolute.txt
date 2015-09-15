@@ -1,6 +1,0 @@
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\AppearanceCount\bin\Debug\AppearanceCount.exe.config
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\AppearanceCount\bin\Debug\AppearanceCount.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\AppearanceCount\bin\Debug\AppearanceCount.pdb
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\AppearanceCount\obj\Debug\AppearanceCount.csprojResolveAssemblyReference.cache
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\AppearanceCount\obj\Debug\AppearanceCount.exe
-D:\Diyan\Documents\Visual Studio 2013\Projects\CSharpAdvanced\AppearanceCount\obj\Debug\AppearanceCount.pdb
