@@ -10,15 +10,13 @@ public class Computer extends ElectronicProduct {
     public Computer(String name, double price, double quantity, AgeRestriction ageRestriction) {
         super(name, price, quantity, ageRestriction);
         super.setGuaranteePeriod(GuaranteePeriodInMonths);
-        this.checkGuaranteePeriod(super.getPrice());
+        this.checkGuaranteePeriod();
     }
 
-    private void checkGuaranteePeriod(double price) {
+    private void checkGuaranteePeriod() {
         if (super.getQuantity() > MinPromotionalQuantity) {
             double newPrice = super.getPrice() * 0.95;
             super.setPrice(newPrice);
-        } else {
-            super.setPrice(price);
         }
     }
 }
