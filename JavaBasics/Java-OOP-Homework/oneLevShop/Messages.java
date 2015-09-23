@@ -1,4 +1,4 @@
-package firstLevelShop;
+package oneLevShop;
 
 public class Messages {
    public final static String OutOfStockMessage = "The product is out of stock!";

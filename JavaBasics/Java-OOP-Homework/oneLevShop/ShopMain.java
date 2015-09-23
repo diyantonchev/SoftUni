@@ -1,15 +1,15 @@
-package firstLevelShop;
+package oneLevShop;
 
-import firstLevelShop.enums.AgeRestriction;
-import firstLevelShop.exceptions.NoPermissionException;
-import firstLevelShop.exceptions.NotEnoughMoneyException;
-import firstLevelShop.exceptions.ProductExpiredException;
-import firstLevelShop.exceptions.ProductOutOfStockException;
-import firstLevelShop.interfaces.Expirable;
-import firstLevelShop.products.electronicProducts.Appliance;
-import firstLevelShop.products.electronicProducts.Computer;
-import firstLevelShop.products.FoodProduct;
-import firstLevelShop.products.Product;
+import oneLevShop.enums.AgeRestriction;
+import oneLevShop.exceptions.NoPermissionException;
+import oneLevShop.exceptions.NotEnoughMoneyException;
+import oneLevShop.exceptions.ProductExpiredException;
+import oneLevShop.exceptions.ProductOutOfStockException;
+import oneLevShop.interfaces.Expirable;
+import oneLevShop.products.electronicProducts.Appliance;
+import oneLevShop.products.electronicProducts.Computer;
+import oneLevShop.products.FoodProduct;
+import oneLevShop.products.Product;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

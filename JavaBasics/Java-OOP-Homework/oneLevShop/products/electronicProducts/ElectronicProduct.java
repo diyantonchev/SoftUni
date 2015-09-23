@@ -1,7 +1,7 @@
-package firstLevelShop.products.electronicProducts;
+package oneLevShop.products.electronicProducts;
 
-import firstLevelShop.enums.AgeRestriction;
-import firstLevelShop.products.Product;
+import oneLevShop.enums.AgeRestriction;
+import oneLevShop.products.Product;
 
 public abstract class ElectronicProduct extends Product {
 

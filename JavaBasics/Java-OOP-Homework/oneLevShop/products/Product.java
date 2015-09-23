@@ -1,7 +1,7 @@
-package firstLevelShop.products;
+package oneLevShop.products;
 
-import firstLevelShop.enums.AgeRestriction;
-import firstLevelShop.interfaces.Buyable;
+import oneLevShop.enums.AgeRestriction;
+import oneLevShop.interfaces.Buyable;
 
 public abstract class Product implements Buyable {
     private String name;

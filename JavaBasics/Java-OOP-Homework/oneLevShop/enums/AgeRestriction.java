@@ -1,4 +1,4 @@
-package firstLevelShop.enums;
+package oneLevShop.enums;
 
 public enum AgeRestriction {
     None, Teenager, Adult

@@ -1,4 +1,4 @@
-package firstLevelShop.exceptions;
+package oneLevShop.exceptions;
 
 public class NoPermissionException extends Exception {
 

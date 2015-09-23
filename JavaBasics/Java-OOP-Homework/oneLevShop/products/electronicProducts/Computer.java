@@ -1,6 +1,6 @@
-package firstLevelShop.products.electronicProducts;
+package oneLevShop.products.electronicProducts;
 
-import firstLevelShop.enums.AgeRestriction;
+import oneLevShop.enums.AgeRestriction;
 
 public class Computer extends ElectronicProduct {
 

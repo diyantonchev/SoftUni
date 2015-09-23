@@ -1,7 +1,7 @@
-package firstLevelShop.products;
+package oneLevShop.products;
 
-import firstLevelShop.enums.AgeRestriction;
-import firstLevelShop.interfaces.Expirable;
+import oneLevShop.enums.AgeRestriction;
+import oneLevShop.interfaces.Expirable;
 
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;

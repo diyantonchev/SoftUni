@@ -1,4 +1,4 @@
-package firstLevelShop.interfaces;
+package oneLevShop.interfaces;
 
 import java.time.LocalDate;
 

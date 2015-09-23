@@ -1,4 +1,4 @@
-package firstLevelShop;
+package oneLevShop;
 
 public class Customer {
     private String name;
