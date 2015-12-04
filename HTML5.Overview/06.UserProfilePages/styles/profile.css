@@ -1,0 +1,14 @@
+body {
+  background-color: lightblue;
+  margin-left: 12px;
+}
+
+#doge {
+  border: 1px solid black;
+  width: 210px;
+  height: 200px;
+}
+
+span {
+  font-weight: bold;
+}
