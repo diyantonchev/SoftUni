@@ -1,0 +1,97 @@
+table#main {
+  margin: auto;
+  border: 2px solid black;
+}
+
+th, td {
+  border: 2px solid black;
+  height: 95px;
+  width: 100px;
+  padding: 4px;
+}
+
+td td {
+  border: none;
+  height: 45px;
+  text-align: center;
+}
+
+button {
+  width: 95px;
+  height: 95px;
+  border-radius: 5px;
+  color: blue;
+  font-family: 'Tahoma';
+  font-size: 20px;
+}
+
+button:hover {
+  font-size: 22px;
+  cursor: pointer;
+  color: red;
+}
+
+#softuni button {
+  width: 530px;
+  height: 100px;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+#softuni button:hover {
+  font-size: 32px;
+  color: red;
+}
+
+#google button {
+  width: 260px;
+  height: 100px;
+}
+
+#github button {
+  width: 258px;
+  height: 100px;
+}
+
+#facebook button, #gmail button, #youtube button, #game2048 button {
+  width: 123px;
+  height: 100px;
+}
+
+#food button {
+  width: 122px;
+  height: 120px;
+}
+
+#game button {
+  width: 260px;
+  height: 120px;
+}
+
+#socialLife button, #sleep button {
+  width: 110px;
+  height: 50px;
+  font-size: 15px;
+}
+
+#socialLife button:hover, #sleep button:hover {
+  font-size: 17px;
+  color: red;
+}
+
+#beer button {
+  width: 395px;
+  height: 100px;
+  font-size: 30px;
+  text-align: right;
+}
+
+#beer button:hover {
+  font-size: 32px;
+  color: red;
+}
+
+#WC button {
+  width: 123px;
+  height: 100px;
+}

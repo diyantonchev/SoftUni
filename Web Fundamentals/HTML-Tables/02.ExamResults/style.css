@@ -1,0 +1,18 @@
+table {
+  margin: auto;
+  border: 1px solid black;
+  font-size: 25px;
+}
+
+thead > tr > th#title {
+  font-size: 40px;
+}
+
+th, td {
+  padding: 5px;
+  border: 1px solid black;
+}
+
+tfoot {
+  text-align: right;
+}

@@ -1,0 +1,41 @@
+table {
+  margin: auto;
+  padding: 1px;
+  font-size: 30px;
+  font-family: monospace;
+  border: 7px gray;
+  border-style: outset;
+  box-shadow: 18px 15px 10px #888888;
+}
+
+thead {
+    background-color: lightgray;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 2px;
+}
+
+tbody > tr > td {
+  text-align: center;
+}
+
+tbody > tr > td.weekNumber {
+  text-align: right;
+  font-weight: bold;
+  background-color: lightgray;
+}
+
+tbody > tr > td.sunday {
+  font-weight: bold;
+}
+
+tbody > tr > td.otherMonthDate {
+  color: gray;
+}
+
+tfoot > tr > td > img {
+  width: 385px;
+  height: 265px;
+}

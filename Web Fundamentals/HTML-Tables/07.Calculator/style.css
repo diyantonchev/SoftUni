@@ -1,0 +1,28 @@
+table {
+  margin: auto;
+  border: 1px solid black;
+}
+
+th, td {
+  width: 70px;
+  height: 70px;
+  border: 1px solid black;
+}
+
+input {
+  font-size: 30px;
+  font-family: 'Tahoma';
+}
+
+th > input {
+  width: 295px;
+  height: 70px;
+  border: 2px solid lightblue;
+  text-align: right;
+}
+
+td > input {
+  width: 70px;
+  height: 70px;
+  border-radius: 3px;
+}

@@ -1,0 +1,69 @@
+table {
+  margin: auto;
+  border: 2px solid black;
+  font-size: 25px;
+  font-family: 'Tahoma';
+}
+
+thead > tr > th {
+  font-size: 60px;
+  padding: 15px;
+}
+
+
+th, td {
+  padding: 5px;
+  border: 2px solid black;
+  height: 100px;
+  width: 110px;
+}
+
+td td {
+  height: 45px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.rightUp {
+  text-align: right;
+  vertical-align: top;
+}
+
+.leftUp {
+  text-align: left;
+ vertical-align: top;
+}
+
+.centerUp {
+  text-align: center;
+  vertical-align: top;
+}
+
+.leftBottom {
+  text-align: left;
+  vertical-align: bottom;
+}
+
+.centerBottom {
+  text-align: center;
+  vertical-align: bottom;
+}
+
+.rightBottom {
+  text-align: right;
+  vertical-align: bottom;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
+#beer {
+  font-size: 40px;
+  font-weight: bold;
+}

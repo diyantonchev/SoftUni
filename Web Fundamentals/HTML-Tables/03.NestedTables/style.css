@@ -1,0 +1,18 @@
+table {
+  margin: auto;
+  padding: 2px;
+  border: 2px solid black;
+}
+
+td {
+  padding: 8px;
+  border: 2px solid black;
+  font-weight: bold;
+  font-size: 80px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  padding-top: 17px;
+}
