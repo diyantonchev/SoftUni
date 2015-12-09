@@ -1,0 +1,22 @@
+h2 {
+  font-size: 22px;
+}
+
+figure > img {
+  width: 180px;
+  height: 120px;
+}
+
+figure > meter {
+  width: 180px;
+}
+
+#audio-section > video, audio {
+  width: 240px;
+  height: 120px;
+}
+
+#video-section > video {
+  width: 300px;
+  height: 220px;
+}
