@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 100%;
+  background: url(colorful_dots_on_black.jpg);
+  font-family: Tahoma;
+}
+body > header {
+  width: 100%;
+  text-align: center;
+  color: yellow;
+  font-weight: bold;
+  font-size: 2em;
+  height: 55px;
+  background: linear-gradient( to right, red 33.3%, green 33.3%, green 67.7%, blue 67.7%);
+}
+nav {
+  background: rgba(255, 255, 255, 0.9);
+  width: 205px;
+  height: 205px;
+  margin-top: 25px;
+  margin-left: 15px;
+  border-radius: 20px;
+  position: fixed;
+}
+nav header {
+  font-size: 1.2em;
+  text-decoration: underline;
+  padding-top: 10px;
+  padding-left: 10px;
+  font-weight: bold;
+}
+nav ul {
+  padding-left: 35px;
+  margin-top: 10px;
+  list-style: url(bullet02.png);
+}
+nav li {
+  border-radius: 5px;
+  padding: 3px;
+}
+li:first-child:hover {
+  background-color: #FF0000;
+}
+li:nth-child(2):hover {
+  background-color: #ffbc00;
+}
+li:nth-child(3):hover {
+  background-color: #FFFF00;
+}
+li:nth-child(4):hover {
+  background-color: #0f0;
+}
+li:nth-child(5):hover {
+  background-color: #00f;
+}
+li:last-child:hover {
+  background-color: #370037;
+}
+a {
+  text-decoration: none;
+  color: #000000;
+}
+a:visited {
+  color: #A8A8A8;
+}
+section article header {
+  width: 100%;
+  height: 35px;
+  color: #FFFFFF;
+  text-align: left;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-left: 5px;
+  font-size: 1.2em;
+}
+article:first-child header {
+  background-color: #FF0000;
+}
+#webSafeColors {
+  background: orange;
+  color: black;
+}
+#RGB {
+  background: yellow;
+  color: black;
+}
+#RGBA {
+  background: green;
+}
+#\#HSLHSV {
+  background: blue;
+}
+#\#lorem {
+  background: purple;
+}
+section article {
+  padding: 10px;
+  margin-left: 260px;
+  margin-top: 25px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  text-align: left;
+  width: 875px;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.9);
+  margin-bottom: 20px;
+}
+div:first-line {
+  font-style: italic;
+}
+div:first-letter {
+  font-size: 3em;
+}
+footer a {
+  color: #808080;
+  font-style: italic;
+  text-decoration: underline;
+}
+span:lang(la) {
+  font-style: italic;
+  color: darkblue;
+}
+span:lang(la):after, span:lang(la):before {
+  content: "\"";
+}
