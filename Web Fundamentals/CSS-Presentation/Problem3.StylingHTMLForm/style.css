@@ -1,0 +1,141 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#wrapper {
+  width: 50%;
+  height: 1000px;
+  margin: 5px auto;
+  padding: 25px 25px;
+  background: url("img/formBackground.jpg");
+  background-size: 1900px 100%;
+  background-repeat: no-repeat;
+  border-radius: 5px;
+  font-family: Verdana, sans-serif;
+}
+
+fieldset {
+  border: none;
+  margin-bottom: 15px;
+}
+
+legend {
+  font-size: 23px;
+  color: #ffffff;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+label {
+  font-size: 17px;
+  display: inline-block;
+}
+
+#wrapper div {
+  width: 95%;
+  margin: 5px auto;
+  padding: 10px 10px;
+  background-color: rgba(255, 255, 255, 0.4);
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+}
+
+.text {
+  height: 40px;
+}
+
+.textarea {
+  height: 120px;
+}
+
+.cardType {
+  height: 80px;
+}
+
+.text input {
+  width: 55%;
+  height: 65%;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 18px;
+}
+
+.textarea textarea {
+  width: 55%;
+  height: 83%;
+  padding: 5px;
+  border-radius: 5px;
+  margin-left: 100px;
+}
+
+.textarea label {
+  vertical-align: top;
+}
+
+input#name {
+  margin-left: 120px;
+}
+
+input#email {
+  margin-left: 121px;
+}
+
+input#phone {
+  margin-left: 116px;
+}
+
+input#post-code {
+  margin-left: 85px;
+}
+
+input#country {
+  margin-left: 99px;
+}
+
+input#cardNumber {
+  margin-left: 55px
+}
+
+input#securityCode {
+  margin-left: 50px
+}
+
+input#nameOnCard {
+  margin-left: 45px;
+}
+
+input[type=radio] {
+  width: 20px;
+  height: 20px;
+  margin-top: 15px;
+  margin-left: 30px;
+}
+
+label img {
+  margin-right: 2px;
+}
+
+input[type=submit] {
+  width: 205px;
+  height: 50px;
+  padding: 10px;
+  margin-left: 255px;
+  background-color: #000d33;
+  border-radius: 30px;
+  border: none;
+  font-size: 19px;
+  color: #FFF;
+}
+
+input[type=submit]:hover {
+  cursor: pointer;
+  background-color: skyblue;
+}
+
+.cardType legend {
+  color: #000;
+  font-size: 20px;
+  font-weight: normal;
+  margin: 5px 5px;
+}

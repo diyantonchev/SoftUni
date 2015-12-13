@@ -1,0 +1,107 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+@font-face {
+  font-family: Animated;
+  src: url("font/Animated.ttf");
+}
+
+#sky {
+  width: 100%;
+  height: 381px;
+  position: absolute;
+  background: skyblue;
+  background: -webkit-linear-gradient(right, #cce2ff 2%, #ffffb3 20%, #005ce6); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(right, #cce2ff 2%, #ffffb3 20%, #005ce6); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(right, #cce2ff 2%, #ffffb3 20%, #005ce6); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to right, #cce2ff 2%, #ffffb3 20%, #005ce6); /* Standard syntax */
+}
+
+#title {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
+
+#title > h1 {
+  font-family: Animated;
+  font-size: 75px;
+  font-weight: normal;
+  color: #ffcc00;
+}
+
+#beach {
+  width: 100%;
+  height: 695px;
+  background-image: url("img/HawaiiBackground.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  position: absolute;
+}
+
+#beach div {
+  position: absolute;
+}
+
+#alex {
+  width: 278px;
+  height: 425px;
+  background: url("img/AlexHula.png");
+  background-repeat: no-repeat;
+  background-size: 278px 425px;
+  right: 470px;
+  bottom: 35px;
+}
+
+#nakov {
+  width: 265px;
+  height: 450px;
+  background: url("img/NakovHula.png");
+  background-size: 265px 450px;
+  background-repeat: no-repeat;
+  right: 590px;
+  bottom: 60px;
+}
+
+#petia {
+  width: 300px;
+  height: 445px;
+  background: url("img/PetiaHula.png");
+  background-repeat: no-repeat;
+  background-size: 300px 445px;
+  left: 300px;
+  bottom: 50px;
+}
+
+#tedi {
+  width: 196px;
+  height: 260px;
+  background: url("img/TediHula.png");
+  background-repeat: no-repeat;
+  background-size: 196px 260px;
+  position: absolute;
+  left: 400px;
+  bottom: 30px;
+}
+
+#vladoG {
+  width: 325px;
+  height: 420px;
+  background: url("img/VladoGHula.png");
+  background-repeat: no-repeat;
+  background-size: 325px 420px;
+  left: 80px;
+  bottom: 35px;
+}
+
+#vladoK {
+  width: 253px;
+  height: 390px;
+  background: url("img/VladoKHula.png");
+  background-size: 253px 390px;
+  background-repeat: no-repeat;
+  right: 270px;
+  bottom: 30px;
+}

@@ -1,0 +1,111 @@
+#wrapper {
+  width: 930px;
+  height: 380px;
+  margin: 30px auto;
+  border-width: 10px 17px 11px 10px;
+  border-style: dotted solid double dashed;
+  border-color: yellow green blue red;
+  text-align: center;
+  box-shadow: 25px 25px 10px #404040;
+  font-family: Verdana, sans-serif;
+}
+
+#wrapper > h1 {
+  font-size: 60px;
+  font-weight: normal;
+  text-transform: uppercase;
+  text-shadow: 10px 15px 15px #404040;
+}
+
+#container {
+  width: 830px;
+  height: 130px;
+  padding: 1px;
+  margin: 80px auto;
+  border-radius: 75px;
+  box-shadow:
+		0 0 0 5px red,
+    0 0 0 10px yellow,
+    0 0 0 15px #379b46,
+    0 0 0 20px blue;
+}
+
+#container > h2 {
+  font-size: 24px;
+  font-weight: normal;
+  text-shadow: 15px 15px 15px #404040;
+}
+
+.button {
+  width: 265px;
+  height: 28px;
+  margin: 0px 3px;
+  background-color: orange;
+  display: inline-block;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #ffbf00 #ff8000 #ff8000 #ffbf00;
+  font-size: 20px;
+}
+
+.baloon {
+  display: inline-block;
+  background-color: #707070;
+  padding: 5px;
+  opacity: 0.5;
+  color: white;
+  position: absolute;
+}
+
+  #small-baloon {
+  width: 35px;
+  height: 35px;
+  border-radius: 50px;
+  top: 270px;
+  right: 450px;
+}
+
+#big-baloon {
+  width: 55px;
+  height: 55px;
+  border-radius: 50px;
+  top: 205px;
+  right: 340px;
+}
+
+#cool-baloon {
+  width: 200px;
+  height: 120px;
+  border-radius: 70px;
+  top: 100px;
+  right: 120px;
+}
+
+.baloon > #border {
+   display: inline-block;
+   border: 4px dashed white;
+}
+
+#small-baloon > #border {
+  width: 25px;
+  height: 26px;
+  border-radius: 35px;
+}
+
+#big-baloon > #border {
+  width: 45px;
+  height: 47px;
+  border-radius: 45px;
+}
+
+#cool-baloon > #border {
+  width: 189px;
+  height: 112px;
+  border-radius: 70px;
+  font-weight: bold;
+  font-size: 19px;
+}
+
+#cool-baloon > #border  span {
+  text-transform: uppercase;
+}

@@ -39,14 +39,14 @@ header div {
 
 #apply {
   width: 120px;
-  height: 25px;
+  height: 30px;
   margin-left: 12px;
   margin-right: 45px;
-  padding-top: 6px;
+  margin-bottom: 10px;
   border-radius: 15px;
   background-color: #fba109;
   text-align: center;
-  position: relative;
+  line-height: 30px;
 }
 
 #apply a {
