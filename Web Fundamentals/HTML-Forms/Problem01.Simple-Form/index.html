@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Simple form</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div id="wrapper">
+    <header>
+      <h1>Enter the system</h1>
+      <p>It is necessary to login in Your account in order to sign in for a course.</p>
+    </header>
+    <form action="/" method="post" id="register">
+      <div class="legend">Are you new?
+        <span>Register</span>
+      </div>
+      <input type="text" name="register" placeholder="User name" required="true">
+      <input type="email" name="register" placeholder="Email" required="true">
+      <input type="password" name="register" placeholder="Password" required="true">
+      <input type="password" name="register" placeholder="Confirm Password" required="true">
+      <input type="submit" name="name" value="Register">
+    </form>
+    <form action="/" method="post" id="login">
+      <div class="legend">
+        Already a student? Login
+      </div>
+      <input type="text" name="login" placeholder="User name" required="true">
+      <input type="password" name="login" placeholder="Password" required="true">
+      <input id="remember-me" type="checkbox" name="login">
+      <label for="remember-me">Remeber me?</label>
+      <input type="submit" name="login" value="Login">
+      <div id="forgotten-password"><a href="#">Forgot password</a></div>
+    </form>
+  </div>
+</body>
+
+</html>

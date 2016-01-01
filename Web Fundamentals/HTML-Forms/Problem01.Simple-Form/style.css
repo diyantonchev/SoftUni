@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#wrapper {
+  width: 60%;
+  height: 445px;
+  margin: 20px auto;
+  padding: 10px 15px;
+  box-sizing: border-box;
+  background-color: #EEEEEE;
+  font-family: Tahoma, sans-serif;
+}
+
+#wrapper header {
+  margin-bottom: 25px;
+}
+
+#wrapper header > h1 {
+  color: #234467;
+}
+
+#wrapper header p {
+  color: #858585;
+  margin-top: 20px;
+}
+
+form {
+  width: 48%;
+  height: 310px;
+  box-sizing: border-box;
+  padding: 10px 10px 0px 10px;
+}
+
+#register {
+  width: 48.5%;
+  float: left;
+  padding-bottom: 0px;
+}
+
+#login {
+  width: 48.5%;
+  float: right;
+  margin-right: 10px;
+  background-color: #234467;
+  color: #FFF;
+}
+
+.legend {
+  font-size: 17px;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 10px;
+ }
+
+ #register .legend {
+   color: #8E8E8E;;
+ }
+
+ #register .legend span {
+  color: #234467;
+ }
+
+input[type="text"], input[type="email"], input[type="password"] {
+  width: 98%;
+  height: 40px;
+  box-sizing: border-box;
+  display: block;
+  padding: 5px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+#register input[type="submit"] {
+  width: 45%;
+  height: 40px;
+  background-color: #EEEEEE;
+  border: 2px solid #234467;
+  font-size: 16px;
+  color: #234467;
+  font-weight: bold;
+  float: right;
+}
+
+#register input[type="submit"]:hover {
+  background-color: #234467;
+  color: #FFF;
+  cursor: pointer;
+}
+
+#login input[type="submit"] {
+  width: 43%;
+  height: 40px;
+  float: right;
+  background-color: #234467;
+  border: 2px solid orange;
+  font-size: 16px;
+  color: #FFF;
+  font-weight: bold;
+}
+
+#login input[type="submit"]:hover {
+  background-color: orange;
+  cursor: pointer;
+}
+
+#forgotten-password {
+  position: relative;
+  top: 25px;
+  left: 68%;
+}
+
+#forgotten-password a {
+  color: white;
+}

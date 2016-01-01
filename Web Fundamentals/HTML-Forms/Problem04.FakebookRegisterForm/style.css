@@ -1,0 +1,183 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#wrapper {
+  width: 100%;
+  height: 800px;
+  box-sizing: border-box;
+  background-color: #3c5a98;
+  font-family: Tahoma;
+  color: #fff;
+}
+
+#page-header {
+  text-align: center;
+}
+
+#page-header > h1 {
+  font-size: 100px;
+}
+
+#page-header span#reg {
+  font-size: 20px;
+}
+
+main > header  {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+
+main > header > h3 {
+  font-size: 35px;
+}
+
+main > header #slogan {
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#left {
+  float: left;
+  margin-left: 80px;
+}
+
+#right {
+  float: left;
+}
+
+fieldset {
+  box-sizing: border-box;
+  border: 2px solid #fff;
+  border-radius: 10px;
+}
+
+#left fieldset {
+  width: 500px;
+  height: 320px;
+  margin: 20px;
+  padding: 5px;
+}
+
+#right fieldset {
+  width: 690px;
+  height: 320px;
+  margin: 20px;
+  padding: 5px;
+}
+
+form {
+  display: inline-block;
+}
+
+legend {
+  text-align: center;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+input {
+  border-radius: 5px;
+  display: inline-block;
+}
+
+#left input[type="text"], input[type="email"], input[type="password"] {
+  width: 230px;
+  height: 40px;
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+  padding: 2px;
+  box-sizing: border-box;
+}
+
+#birthday-input-container {
+  margin-top: 5px;
+  padding-left: 5px;
+  margin-bottom: 5px;
+}
+
+input[type="date"] {
+  width: 320px;
+  height: 37px;
+  margin-top: 5px;
+  padding-top: 5px;
+  box-sizing: border-box;
+}
+
+.gender-container {
+  display: inline-block;
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 20px;
+}
+
+input[type="radio"] {
+  width: 15px;
+  height: 15px;
+  margin-right: 7px;
+}
+
+input[type="reset"] {
+ width: 500px;
+ height: 70px;
+ margin-left: 20px;
+ border-radius: 10px;
+ font-size: 18px;
+ font-weight: bold;
+ color: #3c5a98;
+}
+
+input[type="reset"]:hover {
+  cursor: pointer;
+  font-size: 19px;
+}
+
+#right input[type="text"], input[type="color"] ,select {
+  width: 210px;
+  height: 35px;
+  margin: 5px;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+#small input[type="text"] {
+  width: 105px;
+  height: 35px;
+}
+
+#color-label-container {
+  margin-left: 5px;
+}
+
+#personal-info-label-container {
+  margin-left: 5px;
+}
+
+textarea {
+  width: 660px;
+  height: 100px;
+  margin-left: 5px;
+  padding: 3px;
+  border-radius: 5px;
+  box-sizing: border-box;
+  color: grey;
+}
+
+input[type="submit"] {
+  width: 690px;
+  height: 70px;
+  margin-left: 20px;
+  border-radius: 10px;
+  font-size: 26px;
+  font-weight: bold;
+  color: #3c5a98;
+}
+
+input[type="submit"]:hover {
+  cursor: pointer;
+  font-size: 27px;
+}

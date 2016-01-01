@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Flight order</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div id="wrapper">
+    <header>
+      <h1>Flight Order</h1>
+    </header>
+    <form action="/" method="post">
+      <fieldset>
+        <table>
+          <tr>
+            <td>
+              <label for="from-city">From</label>
+            </td>
+            <td>
+              <label for="to-city">To</label>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <select id="from-city" name="city">
+                <option value="city 1">enter a city</option>
+                <option value="city 2">Amsterdam</option>
+                <option value="city 3">Athens</option>
+                <option value="city 4">Belgrade</option>
+                <option value="city 5">Berlin</option>
+                <option value="city 6">Bratislavat</option>
+                <option value="city 7">Buchares</option>
+                <option value="city 8">Budapest</option>
+                <option value="city 9">Copenhagen</option>
+                <option value="city 10">Kiev</option>
+                <option value="city 11">Lisbon</option>
+                <option value="city 12">London</option>
+                <option value="city 12">Madrid</option>
+                <option value="city 13">Moscow</option>
+                <option value="city 14">Paris</option>
+                <option value="city 15">Prague</option>
+                <option value="city 16">Rome</option>
+                <option value="city 16">Sofia</option>
+              </select>
+            </td>
+            <td>
+              <select id="to-city">
+                <option value="city 1">enter a city</option>
+                <option value="city 2">Amsterdam</option>
+                <option value="city 3">Athens</option>
+                <option value="city 4">Belgrade</option>
+                <option value="city 5">Berlin</option>
+                <option value="city 6">Bratislavat</option>
+                <option value="city 7">Buchares</option>
+                <option value="city 8">Budapest</option>
+                <option value="city 9">Copenhagen</option>
+                <option value="city 10">Kiev</option>
+                <option value="city 11">Lisbon</option>
+                <option value="city 12">London</option>
+                <option value="city 12">Madrid</option>
+                <option value="city 13">Moscow</option>
+                <option value="city 14">Paris</option>
+                <option value="city 15">Prague</option>
+                <option value="city 16">Rome</option>
+                <option value="city 16">Sofia</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td>
+            </td>
+            <td>
+              <div class="checkbox-container">
+                <input type="checkbox" id="prefer-directs">
+                <label for="prefer-directs">Prefer directs</label>
+              </div>
+            </td>
+          </tr>
+        </table>
+      </fieldset>
+      <fieldset>
+        <table>
+          <tr>
+            <td>
+              <label for="departure-date">Departure Date</label>
+            </td>
+            <td colspan="2">
+              <label>Time Interval</label>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <input type="date" id="departure-date">
+            </td>
+            <td>
+              <input type="time" value="00:20">
+            </td>
+            <td>
+              <input type="time" value="05:00">
+            </td>
+          </tr>
+        </table>
+      </fieldset>
+      <fieldset>
+        <table>
+          <tr>
+            <td>
+              <label for="return-date">Return Date</label>
+            </td>
+            <td colspan="2">
+              <label>Time Interval</label>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <input type="date" id="return-date">
+            </td>
+            <td>
+              <input type="time" value="16:00">
+            </td>
+            <td>
+              <input type="time" value="22:00">
+            </td>
+          </tr>
+        </table>
+      </fieldset>
+      <fieldset>
+        <table>
+          <tr>
+            <td>
+              <label>12+</label>
+            </td>
+            <td>
+              <label>2-12</label>
+            </td>
+            <td>
+              <label>0-2</label>
+            </td>
+            <td>
+              <label>Choose class</label>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <input type="number" min="12" max="1000" value="0">
+            </td>
+            <td>
+              <input type="number" min="2" max="12" value="0">
+            </td>
+            <td>
+              <input type="number" min="0" max="2" value="0">
+            </td>
+            <td>
+              <select name="class" id="class">
+    						<option value="Value 1">Economy</option>
+    						<option value="Value 2">Premium economy</option>
+    						<option value="Value 3">Business</option>
+    						<option value="Value 4">First</option>
+    					</select>
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>
+              <button name="search">Search</button>
+            </td>
+          </tr>
+        </table>
+      </fieldset>
+    </form>
+  </div>
+</body>
+
+</html>

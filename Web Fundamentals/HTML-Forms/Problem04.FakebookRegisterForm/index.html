@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Fakebook</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div id="wrapper">
+    <header id="page-header">
+      <h1>fakebook
+        <span id="reg">&reg;</span>
+      </h1>
+    </header>
+    <main>
+      <header>
+        <h3>Registration</h3>
+        <div id="slogan">It is safe and it will always be!</div>
+      </header>
+      <div class="form-container" id="left">
+        <form action="/" method="post">
+          <fieldset>
+            <legend>None-Imortant Information</legend>
+            <input type="text" name="non-important-info" placeholder="First Name" pattern="[a-zA-Z]{2,}">
+            <input type="text" name="non-important-info" placeholder="Last Name" pattern="[a-zA-Z]{2,}">
+            <input type="email" name="non-important-info" placeholder="Your Email" pattern="[a-zA-Z.\-_0-9]{2,}@[a-zA-Z.\-_]{2,}">
+            <input type="text" name="non-important-info" placeholder="Phone Number" pattern="[0-9]{10,}">
+            <input type="password" name="non-important-info" placeholder="Your Password">
+            <input type="text" name="non-important-info" placeholder="Website" pattern="[a-zA-Z.\-_0-9]{2,}\.[a-zA-Z.\-_0-9]{2,}">
+            <div id="birthday-input-container">
+              <label for="birthday">Birthday</label>
+              <br>
+              <input type="date" name="non-important-info" id="birthday">
+            </div>
+            <div class="gender-container">
+              <input type="radio" id="female" name="non-important-info" value="1">
+              <label for="female">Female</label>
+            </div>
+            <div class="gender-container">
+              <input type="radio" id="male" name="non-important-info" value="2">
+              <label for="male">Male</label>
+            </div>
+            <div class="gender-container">
+              <input type="radio" id="other" name="non-important-info" value="3">
+              <label for="other">Other</label>
+            </div>
+          </fieldset>
+          <input type="reset" name="non-important-info" value="Clear Form">
+        </form>
+      </div>
+      <div class="form-container" id="right">
+        <form action="/" method="post">
+          <fieldset>
+            <legend>Important Information *required</legend>
+            <select class="contry" name="country">
+              <option value="Value 0">Country</option>
+              <option value="Value 1">Afghanistan</option>
+              <option value="Value 2">Argentina</option>
+              <option value="Value 3">Australia</option>
+              <option value="Value 4">Brazil</option>
+              <option value="Value 5">Bulgaria</option>
+              <option value="Value 6">Cambodia</option>
+              <option value="Value 7">Chilie</option>
+              <option value="Value 8">China</option>
+              <option value="Value 9">Croatia</option>
+              <option value="Value 10">Czech Republic</option>
+              <option value="Value 11">Denmark</option>
+              <option value="Value 12">Ecuador</option>
+              <option value="Value 13">Egypt</option>
+              <option value="Value 14">Germany</option>
+              <option value="Value 15">Greece</option>
+              <option value="Value 16">Hungary</option>
+              <option value="Value 17">Italy</option>
+              <option value="Value 18">Japan</option>
+              <option value="Value 19">Kazakhstan</option>
+              <option value="Value 20">Luxembourg</option>
+              <option value="Value 21">Malta</option>
+              <option value="Value 22">Netherlands</option>
+            </select>
+            <input type="text" placeholder="Village" required>
+            <input type="text" placeholder="District" required>
+            <input type="text" placeholder="Street" required>
+            <span id="small">
+              <input type="text" placeholder="Nr" required>
+              <input type="text" placeholder="Floor" required>
+              <input type="text" placeholder="Ap Nr" required>
+            </span>
+            <span id="color-label-container">
+              <br>
+              <label for="door-color">Door color</label>
+              <br>
+            </span>
+            <input type="color" id="door-color">
+            <input type="text" name="name" placeholder="Water Meter Nr" required>
+            <select name="aunt-panties-size">
+              <option value="size 1">aunt panties size</option>
+              <option value="size 2">S</option>
+              <option value="size 3">M</option>
+              <option value="size 4">L</option>
+              <option value="size 5">XL</option>
+              <option value="size 6">XXL</option>
+            </select>
+            <span id="personal-info-label-container">
+              <label for="personal-information">
+                More Personal Information
+              </label>
+            </span>
+              <textarea id="personal-information">Give Us More Information!!!
+              </textarea>
+            </div>
+          </fieldset>
+          <input type="submit" value="Register">
+        </form>
+      </div>
+    </main>
+  </div>
+</body>
+
+</html>

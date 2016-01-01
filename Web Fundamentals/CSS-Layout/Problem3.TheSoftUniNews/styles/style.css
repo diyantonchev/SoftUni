@@ -1,0 +1,110 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#wrapper {
+  width: 100%;
+  height: 695px;
+  background-color: #eeeeee;
+  font-family: Arial, sans-serif;
+  padding: 20px 50px;
+  box-sizing: border-box;
+}
+
+.main-header {
+  margin-left: 20px;
+  color: #234465;
+  font-size: 20px;
+}
+
+.article-header h3 {
+  font-size: 18px;
+  color: #234465;
+  margin-left: 20px;
+  margin-bottom: 25px;
+  text-transform: uppercase;
+}
+
+.article-header time {
+  float: right;
+  color: #234465;
+}
+
+.article-header .author {
+  clear: both;
+  margin-left: 20px;
+}
+
+ article {
+  display: inline-block;
+  width: 28%;
+  height: 475px;
+  margin: 20px;
+  padding: 25px 20px 10px 20px;
+  border: 1px solid #cbcbcd;
+  background-color: #FFF;
+  box-sizing: border-box;
+  font-size: 15px;
+  color: #6d6b6b;
+}
+
+.img {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.content {
+  width: 98%;
+  height: 250px;
+  border-top: 1px solid #cbcbcd;
+  border-bottom: 1px solid #cbcbcd;
+  margin: 22px 15px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.article-footer {
+  margin-left: 15px;
+}
+
+.article-footer span {
+  font-weight: bold;
+}
+
+img#july {
+  width: 40%;
+  height: 145px;
+}
+
+img#summer {
+  width: 100%;
+  height: 140px;
+}
+
+img#softuni-conf {
+  width: 100%;
+  height: 140px;
+}
+
+.paging-bar {
+  margin-left: 20px;
+}
+
+.paging-bar ul li {
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  padding-top: 4px;
+  color: #FFF;
+  background-color: #4aa1df;
+  text-align: center;
+  border: 1px solid #FFF;
+  box-sizing: border-box;
+}
+
+.paging-bar ul li:hover {
+  cursor: pointer;
+  background: #FFA000;
+}

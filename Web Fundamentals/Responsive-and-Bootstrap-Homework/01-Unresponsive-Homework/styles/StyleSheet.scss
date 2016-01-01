@@ -1,0 +1,201 @@
+﻿$default-border: 2px solid black;
+$elements-background: #E6EEFB;
+$text-color: rebeccapurple;
+
+@mixin box-sizing-border-box {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body, div, header, nav, section, article, aside, footer, ul, li, h1, h2, img {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #6897ff;
+
+    #wrapper {
+        width: 55%;
+        margin: 0 auto;
+        @include box-sizing-border-box;
+        font-family: Arial;
+
+        > header {
+            padding-top: 1px;
+            padding-bottom: 20px;
+            border-bottom: $default-border;
+            @include box-sizing-border-box;
+
+            h1 {
+                margin-bottom: 5px;
+
+                a {
+                    text-decoration: none;
+                    color: white;
+
+                    span {
+                        font-size: 38px;
+                    }
+
+                    img {
+                        max-width: 100%;
+                    }
+                }
+            }
+
+            nav {
+                ul {
+                    float: right;
+
+                    li {
+                        display: inline-block;
+                        margin-right: 10px;
+                        padding: 8px 15px;
+                        border: $default-border;
+                        background-color: white;
+                        text-align: center;
+
+                        a {
+                            text-decoration: none;
+                            color: black;
+                        }
+                    }
+                }
+            }
+        }
+
+        section {
+            width: 75%;
+            margin: 15px 15px 0 0;
+            float: left;
+            @include box-sizing-border-box;
+
+            article {
+                width: 100%;
+                display: block;
+                margin-bottom: 15px;
+                padding: 15px;
+                border: $default-border;
+                @include box-sizing-border-box;
+                background-color: $elements-background;
+
+                header h1 {
+                    font-size: 25px;
+                }
+
+                p {
+                    text-indent: 20px;
+                    color: $text-color;
+                }
+            }
+        }
+
+        aside.news {
+            width: 22%;
+            float: right;
+            margin-top: 15px;
+            border: $default-border;
+            @include box-sizing-border-box;
+            background-color: $elements-background;
+
+            div {
+                padding: 15px;
+
+                ul {
+                    li {
+                        list-style: none;
+                        display: block;
+                        margin-bottom: 10px;
+
+                        a {
+                            text-decoration: none;
+                            color: $text-color;
+                        }
+                    }
+                }
+            }
+        }
+
+        footer {
+            clear: both;
+            width: 100%;
+            margin-bottom: 20px;
+            padding-top: 20px;
+            background-color: $elements-background;
+            border: $default-border;
+            text-align: center;
+        }
+    }
+}
+
+/**** Responsive Styles ****/
+@media only screen and (max-width: 960px) {
+    body {
+        #wrapper {
+            width: 100%;
+            padding: 5px;
+        }
+    }
+}
+
+@media only screen and (max-width: 780px) {
+    body {
+        #wrapper {
+            width: 100%;
+            padding: 5px;
+
+            section {
+                width: 100%;
+            }
+
+            aside.news {
+                width: 100%;
+                margin-top: 0;
+                margin-bottom: 15px;
+                text-align: center;
+
+                div ul li {
+                    width: 20%;
+                    display: inline-block;
+                    margin-bottom: 0;
+                    margin-left: 10px;
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 640px) {
+    body {
+        #wrapper {
+            header {
+                width: 100%;
+                text-align: center;
+
+                h1 img {
+                    margin: auto;
+                    display: block;
+                }
+
+                nav ul {
+                    width: 80%;
+
+                    li {
+                        display: block;
+                        margin-right: 55px;
+                    }
+                }
+
+                aside.news {
+                    div ul li {
+                        width: 80%;
+                        display: block;
+                        margin-bottom: 15px;
+                    }
+                }
+            }
+        }
+    }
+}

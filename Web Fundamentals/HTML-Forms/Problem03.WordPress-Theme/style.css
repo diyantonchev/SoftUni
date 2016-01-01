@@ -1,0 +1,30 @@
+#wrapper {
+  padding-left: 10px;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+header > img {
+  width: 400px;
+  height: 130px;
+}
+
+form fieldset label img {
+  width: 35px;
+  height: 35px;
+}
+
+form {
+  padding-left: 20px;
+}
+
+fieldset {
+  border: none;
+}
+
+input[type="search"] {
+  height: 30px;
+}

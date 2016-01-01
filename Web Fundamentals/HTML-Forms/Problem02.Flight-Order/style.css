@@ -1,0 +1,81 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#wrapper {
+  width: 730px;
+  margin: 10px auto;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: pink;
+  font-family: Tahoma;
+}
+
+header {
+  text-align: center;
+}
+
+header > h1 {
+  text-transform: uppercase;
+  font-size: 40px;
+  font-style: italic;
+}
+
+fieldset {
+  width: 710px;
+  margin: 0px auto;
+  padding: 5px;
+  box-sizing: border-box;
+  border: none;
+}
+
+label {
+  font-size: 15px;
+  font-style: italic;
+}
+
+ select {
+  width: 345px;
+  height: 30px;
+  margin-right: 5px;
+  box-sizing: border-box;
+}
+
+input, select {
+  font-weight: bold;
+}
+
+input[type="date"] {
+  width: 345px;
+  height: 30px;
+  padding: 2px;
+  box-sizing: border-box;
+}
+
+input[type="time"] {
+  width: 169px;
+  height: 30px;
+  margin-left: 5px;
+  padding: 2px;
+  box-sizing: border-box;
+}
+
+input[type="number"] {
+  width: 114px;
+  height: 30px;
+  padding: 2px;
+  box-sizing: border-box;
+}
+
+select#class {
+  margin-left: 5px;
+}
+
+button {
+  width: 345px;
+  height: 35px;
+  margin-top: 5px;
+  margin-left: 5px;
+  font-size: 17px;
+}

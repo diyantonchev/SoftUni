@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Laptop choice</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div id="wrapper">
+    <header>
+      <h2>Apple's Laptops (6)</h2>
+    </header>
+    <div id="laptops-container">
+      <input type="image" src="img/laptop1.png" alt="laptop1">
+      <input type="image" src="img/laptop2.png" alt="laptop2">
+      <input type="image" src="img/laptop3.png" alt="laptop3">
+      <input type="image" src="img/laptop4.png" alt="laptop4">
+      <input type="image" src="img/laptop5.png" alt="laptop5">
+      <input type="image" src="img/laptop6.png" alt="laptop6">
+    </div>
+    <div id="sliders">
+      <div class="inner-row">
+        <label for="price">Price</label>
+        <div class="range">
+          <div class="min">1700</div>
+          <div class="max">2600</div>
+        </div>
+        <input type="range" min="1700" max="2600" id="price">
+      </div>
+      <div class="inner-row">
+        <label for="ram">RAM</label>
+        <div class="range">
+          <div class="min">2048</div>
+          <div class="max">4096</div>
+        </div>
+        <input type="range" min="2048" max="4096" id="ram">
+      </div>
+      <div class="inner-row">
+        <label for="disc">Disc</label>
+        <div class="range">
+          <div class="min">100GB</div>
+          <div class="max">2000GB</div>
+        </div>
+        <input type="range" min="100" max="2000" id="disc">
+      </div>
+      <div class="inner-row">
+        <label for="display">Display</label>
+        <div class="range">
+          <div class="min">11.6</div>
+          <div class="max">18.4</div>
+        </div>
+        <input type="range" min="11.6" max="18.4" id="display">
+      </div>
+      <div class="inner-row">
+        <label for="weight">Weight</label>
+        <div class="range">
+          <div class="min">1</div>
+          <div class="max">6</div>
+        </div>
+        <input type="range" min="1" max="6" id="weight">
+      </div>
+      <div class="inner-row">
+        <label for="warranty">Warranty</label>
+        <div class="range">
+          <div class="min">12 month</div>
+          <div class="max">60 month</div>
+        </div>
+        <input type="range" min="12" max="60" id="warranty">
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

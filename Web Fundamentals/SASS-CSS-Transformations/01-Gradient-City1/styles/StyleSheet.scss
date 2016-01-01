@@ -1,0 +1,245 @@
+﻿@mixin vertical-linear-gradient-maker($first-color, $second-color, $third-color: white) {
+    background: linear-gradient($first-color, $second-color, $third-color);
+}
+
+@mixin horizontal-linear-gradient-maker($first-color, $second-color, $third-color: white) {
+    background: linear-gradient(to right, $first-color, $second-color, $third-color);
+}
+
+@mixin diagonal-linear-gradient-maker($first-color, $second-color, $third-color: white) {
+    background: linear-gradient(to bottom right, $first-color, $second-color, $third-color);
+}
+
+@mixin radial-gradient-maker($first-color, $second-color, $third-color: white) {
+    background: radial-gradient($first-color, $second-color, $third-color);
+}
+
+$dark-grey: #838383;
+$light-grey: #c6c8c4;
+
+$dark-purple: #2D082D;
+$light-purple: #9b799a;
+
+$dark-blue: #1919b8;
+$light-blue: #6B6BD4;
+
+$dark-green: #154315;
+$light-green: #668867;
+
+$dark-yellow: #f7f415;
+$light-yellow: #fbfb7e;
+
+$dark-orange: #ee9f1e;
+$light-orange: #f4c262;
+
+$dark-red: #d80812;
+$light-red: #e46061;
+
+$default-border: 3px solid $light-grey;
+$text-color: $dark-grey;
+
+body {
+    margin: 0;
+    padding: 0;
+    @include vertical-linear-gradient-maker($dark-grey, $light-grey);
+    font-family: Tahoma;
+
+    #wrapper {
+        width: 75%;
+        margin: 0 auto;
+        padding: 20px;
+        border: $default-border;
+        background-color: #FFF;
+        color: $text-color;
+        box-sizing: border-box;
+
+        > header {
+            border: $default-border;
+            text-align: center;
+
+            nav ul li {
+                display: inline-block;
+                width: 80px;
+                border: $default-border;
+                margin-left: 20px;
+                margin-right: 25px;
+                padding: 10px;
+
+                a {
+                    text-decoration: none;
+                    color: $text-color;
+                }
+
+                &:hover {
+                    @include vertical-linear-gradient-maker($dark-grey,$light-grey, white);
+
+                    a {
+                        color: white;
+                        cursor: default;
+                    }
+                }
+            }
+        }
+
+        section {
+            display: block;
+            margin: 20px 0;
+            border: $default-border;
+            text-align: center;
+            box-sizing: border-box;
+
+            h1 {
+                font-size: 22px;
+                text-decoration: underline;
+            }
+
+            article {
+                display: block;
+                margin: 10px 15px;
+                border: $default-border;
+                border-width: 2px;
+
+                h2 {
+                    margin-top: 20px;
+                    font-size: 16px;
+                    font-weight: normal;
+                }
+
+                .innerContainer {
+                    padding: 20px 0;
+
+                    div {
+                        width: 130px;
+                        height: 130px;
+                        border-radius: 10px;
+                        display: inline-block;
+                    }
+                }
+
+                #vertical {
+                    .purple {
+                        @include vertical-linear-gradient-maker($dark-purple, $light-purple);
+                    }
+
+                    .blue {
+                        @include vertical-linear-gradient-maker($dark-blue, $light-blue);
+                    }
+
+                    .green {
+                        @include vertical-linear-gradient-maker($dark-green, $light-green);
+                    }
+
+                    .yellow {
+                        @include vertical-linear-gradient-maker($dark-yellow, $light-yellow);
+                    }
+
+                    .orange {
+                        @include vertical-linear-gradient-maker($dark-orange, $light-orange);
+                    }
+
+                    .red {
+                        @include vertical-linear-gradient-maker($dark-red, $light-red);
+                    }
+                }
+
+                #horizontal {
+                    .purple {
+                        @include horizontal-linear-gradient-maker($dark-purple, $light-purple);
+                    }
+
+                    .blue {
+                        @include horizontal-linear-gradient-maker($dark-blue, $light-blue);
+                    }
+
+                    .green {
+                        @include horizontal-linear-gradient-maker($dark-green, $light-green);
+                    }
+
+                    .yellow {
+                        @include horizontal-linear-gradient-maker($dark-yellow, $light-yellow);
+                    }
+
+                    .orange {
+                        @include horizontal-linear-gradient-maker($dark-orange, $light-orange);
+                    }
+
+                    .red {
+                        @include horizontal-linear-gradient-maker($dark-red, $light-red);
+                    }
+                }
+
+                #diagonal {
+                    .purple {
+                        @include diagonal-linear-gradient-maker($dark-purple, $light-purple);
+                    }
+
+                    .blue {
+                        @include diagonal-linear-gradient-maker($dark-blue, $light-blue);
+                    }
+
+                    .green {
+                        @include diagonal-linear-gradient-maker($dark-green, $light-green);
+                    }
+
+                    .yellow {
+                        @include diagonal-linear-gradient-maker($dark-yellow, $light-yellow);
+                    }
+
+                    .orange {
+                        @include diagonal-linear-gradient-maker($dark-orange, $light-orange);
+                    }
+
+                    .red {
+                        @include diagonal-linear-gradient-maker($dark-red, $light-red);
+                    }
+                }
+
+                #radial {
+                    .purple {
+                        @include radial-gradient-maker($dark-purple, $light-purple);
+                    }
+
+                    .blue {
+                        @include radial-gradient-maker($dark-blue, $light-blue);
+                    }
+
+                    .green {
+                        @include radial-gradient-maker($dark-green, $light-green);
+                    }
+
+                    .yellow {
+                        @include radial-gradient-maker($dark-yellow, $light-yellow);
+                    }
+
+                    .orange {
+                        @include radial-gradient-maker($dark-orange, $light-orange);
+                    }
+
+                    .red {
+                        @include radial-gradient-maker($dark-red, $light-red);
+                    }
+                }
+            }
+        }
+
+        footer {
+            padding: 10px;
+            border: $default-border;
+            text-align: center;
+
+            h3 {
+                font-size: 16px;
+                text-decoration: underline;
+            }
+
+            ul li {
+                list-style-type: none;
+            }
+
+            a {
+                color: $text-color;
+                text-decoration: none;
+            }
+        }
+    }
+}
