@@ -6,7 +6,7 @@ class UseYourChainsBuddy
 {
     static void Main()
     {
-        const string Pattern = @"(?:<p>([^<]*))";
+        const string Pattern = @"(?:<p>([^\/]*))";
         Regex regex = new Regex(Pattern);
 
         string htmlDocument = Console.ReadLine();
