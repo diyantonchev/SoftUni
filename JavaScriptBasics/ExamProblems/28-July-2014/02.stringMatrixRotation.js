@@ -1,4 +1,5 @@
 function solve(args) {
+    'use strict';
     var rotationDegrees = Number(args[0].split(/\(|\)/g)[1]);
     var matrix = [];
     var maxLength = 0;
@@ -45,6 +46,3 @@ function solve(args) {
         return rotatedMatrix;
     }
 }
-
-var args = ['Rotate(180)', 'hello', 'softuni', 'exam'];
-var result = solve(args);

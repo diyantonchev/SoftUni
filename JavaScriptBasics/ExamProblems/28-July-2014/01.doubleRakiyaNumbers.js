@@ -2,7 +2,7 @@ function solve(args) {
     var min = Number(args[0]);
     var max = Number(args[1]);
 
-    console.log('<ul>')
+    console.log('<ul>');
     for (var i = min; i <= max; i++) {
         var number = i.toString();
         var hasFound = false;
