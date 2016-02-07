@@ -1,0 +1,199 @@
+﻿@font-face {
+  font-family: 'GothamNightsBoldItalic';
+  src: url("../Fonts/Gotham Nights Bold Italic.otf") format("opentype"); }
+
+@font-face {
+  font-family: 'GothamNightsBold';
+  src: url("../Fonts/Gotham Nights Bold.otf") format("opentype"); }
+
+@font-face {
+  font-family: 'GothamNightsItalic';
+  src: url("../Fonts/Gotham Nights Italic.otf") format("opentype"); }
+
+a {
+  color: #f5bda6; }
+
+/*1366px normal resolution*/
+body {
+  margin: 0;
+  padding: 0 20px;
+  background-color: #130707; }
+  body #wrapper {
+    margin: 0 auto;
+    color: #f5bda6;
+    padding: 10px; }
+    body #wrapper header {
+      width: 1290px;
+      box-shadow: #3c0000 0 0 200px; }
+      body #wrapper header ul {
+        margin: 0;
+        padding: 10px 0 5px 0;
+        height: 185px; }
+        body #wrapper header ul #arkham-knight-logo {
+          float: left; }
+        body #wrapper header ul #right-padded {
+          float: right;
+          margin: 60px 50px; }
+        body #wrapper header ul li {
+          width: 180px;
+          text-align: center;
+          border-radius: 5px;
+          list-style: none;
+          display: inline-block;
+          font-family: GothamNightsBold;
+          font-size: 40px;
+          margin: 5px 20px;
+          transition: 0.8s; }
+          body #wrapper header ul li img {
+            width: 300px; }
+          body #wrapper header ul li:hover {
+            background-color: black; }
+    body #wrapper main {
+      width: 1280px; }
+      body #wrapper main .union {
+        box-shadow: #3c0000 0 0 200px;
+        margin: 10px 0; }
+        body #wrapper main .union section {
+          width: 48%; }
+      body #wrapper main .section-main-info {
+        display: inline-block;
+        width: 920px; }
+        body #wrapper main .section-main-info section {
+          margin: 5px;
+          display: inline-block; }
+          body #wrapper main .section-main-info section h2 {
+            font-family: GothamNightsBold;
+            font-size: 30px; }
+          body #wrapper main .section-main-info section img {
+            width: 360px; }
+          body #wrapper main .section-main-info section article {
+            display: inline-block;
+            width: 320px;
+            font-family: GothamNightsBoldItalic;
+            font-size: 21px; }
+      body #wrapper main .section-secondary-info {
+        position: relative;
+        bottom: 60px;
+        display: inline-block;
+        width: 340px;
+        padding: 5px; }
+        body #wrapper main .section-secondary-info header {
+          font-family: GothamNightsBold;
+          font-size: 24px;
+          width: 340px; }
+        body #wrapper main .section-secondary-info section {
+          font-family: GothamNightsBold; }
+      body #wrapper main nav {
+        padding: 0 10%; }
+        body #wrapper main nav ul {
+          margin: 0 auto; }
+          body #wrapper main nav ul li {
+            display: inline-block;
+            font-family: GothamNightsBold;
+            font-size: 30px;
+            margin: -30px 20px;
+            transition: 1s; }
+            body #wrapper main nav ul li:hover {
+              color: #580d0d;
+              text-decoration: underline;
+              cursor: pointer; }
+    body #wrapper footer {
+      text-align: center;
+      font-family: GothamNightsItalic;
+      font-size: 10px; }
+
+#wrapper > main > section > .union > section > article {
+  width: 100%; }
+
+#wrapper > header > ul > li:nth-child(1):hover {
+  background-color: transparent !important; }
+
+#arkham-knight-logo {
+  float: left; }
+
+#wrapper > main > section > div:nth-child(2) > section:nth-child(2) > h2 > a {
+  color: darkred; }
+
+/*******************************1200 small resolution****************/
+/*****************************Implement missing layout***************************/
+@media only screen and (max-width: 1200px) {
+  body {
+    background-image: url("../images/LogoBackground.png");
+    background-repeat: no-repeat;
+    background-position: center; }
+    body header, body ul, body li, body div, body a {
+      margin: 0 !important;
+      padding: 0 !important; }
+    body header {
+      width: 100% !important;
+      padding-top: 80px !important;
+      text-align: center;
+      -moz-box-sizing: border-box;
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box; }
+      body header ul {
+        display: flex;
+        justify-content: space-between; }
+        body header ul #arkham-knight-logo {
+          display: none !important; }
+        body header ul #right-padded {
+          width: 100%; }
+          body header ul #right-padded a li {
+            width: 10% !important;
+            margin-right: 40px !important; }
+          body header ul #right-padded #last {
+            margin-left: 30px !important; }
+    body main {
+      width: 100% !important; }
+      body main .section-main-info {
+        width: 100% !important; }
+      body main .section-secondary-info {
+        position: static !important;
+        display: block !important;
+        width: 100% !important; }
+        body main .section-secondary-info section {
+          width: 46%;
+          margin-right: 15px;
+          display: inline-block; }
+      body main nav {
+        width: 100%;
+        padding: 0 !important;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box; }
+        body main nav ul li {
+          margin: 10px 10px !important; } }
+
+/*******************************560 xsmall resolution*****************************/
+@media only screen and (max-width: 560px) {
+  #wrapper {
+    display: flex;
+    -ms-flex-direction: column;
+    -webkit-flex-direction: column;
+    flex-direction: column; }
+    #wrapper header, #wrapper ul, #wrapper li, #wrapper div, #wrapper a {
+      margin: 0 !important;
+      padding: 0 !important; }
+    #wrapper header {
+      margin-bottom: 13px !important; }
+    #wrapper #right-padded a {
+      display: block;
+      border-bottom: 1px solid white; }
+    #wrapper #right-padded #last {
+      margin-left: 1px !important; }
+    #wrapper .section-main-info .union section {
+      width: 100% !important;
+      text-align: center; }
+      #wrapper .section-main-info .union section img {
+        width: 100%; }
+    #wrapper .section-secondary-info section {
+      width: 100%;
+      margin: 0;
+      display: block; }
+    #wrapper nav ul {
+      text-align: center; }
+      #wrapper nav ul li {
+        display: block !important; }
+    #wrapper footer img {
+      width: 24%; } }
+

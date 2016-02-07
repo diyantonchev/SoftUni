@@ -1,0 +1,197 @@
+﻿@font-face {
+    font-family: 'RicksAmericanNF';
+    src: url('../Fonts/RicksAmericanNF.ttf') format('truetype');
+}
+
+body {
+    margin: 0;
+    padding: 0;
+
+    #wrapper {
+        width: 100%;
+        margin: 0 auto;
+        background-color: black;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+
+        #page-header {
+            width: 960px;
+            margin: 0 auto;
+            font-family: 'RicksAmericanNF';
+            -moz-box-sizing: border-box;
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+            text-transform: uppercase;
+            color: #ff9e00;
+
+            .title-container {
+                margin-bottom: 20px;
+
+                h1 {
+                    margin: 0;
+                    margin-left: 20px;
+                    font-size: 60px;
+                    word-spacing: 17px;
+                    letter-spacing: 15px;
+                }
+            }
+
+            nav {
+                width: 92%;
+
+                ul {
+                    list-style: none;
+                    display: flex;
+                    justify-content: space-around;
+
+                    li {
+                        width: 150px;
+                        padding: 5px;
+                        text-align: center;
+                        font-size: 30px;
+                        letter-spacing: 5px;
+
+                        &:hover {
+                            border-radius: 50px;
+                            background-color: #ff9e00;
+                            cursor: pointer;
+                            color: black;
+                        }
+                    }
+                }
+            }
+        }
+
+        main {
+            width: 960px;
+            margin: auto;
+            -moz-box-sizing: border-box;
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+            background-color: #3c3c3c;
+            display: flex;
+            justify-content: space-around;
+            font-family: Arial, Helvetica, sans-serif;
+            color: #eaa50a;
+
+            section {
+                width: 65%;
+
+                article {
+                    margin: 15px;
+
+                    header {
+                        text-align: center;
+                        margin-bottom: 7px;
+
+                        h2 {
+                            font-size: 23px;
+                            text-transform: uppercase;
+                            margin: 0;
+                        }
+                    }
+
+                    .content-wrapper {
+                        display: flex;
+
+                        .img-container {
+                            width: 50%;
+
+                            img {
+                                max-width: 100%;
+                            }
+
+                            #robert {
+                                height: 235px;
+                            }
+
+                            #howlin {
+                                width: 330px;
+                                height: 270px;
+                            }
+                        }
+
+                        .content {
+                            width: 50%;
+                            margin-left: 10px;
+                            text-indent: 30px;
+                            font-size: 16px;
+
+                            span {
+                                font-weight: bold;
+                                font-style: italic;
+                            }
+                        }
+                    }
+                }
+            }
+
+            aside {
+                width: 35%;
+                font-size: 16px;
+                font-family: Arial, Helvetica, sans-serif;
+                color: #eaa50a;
+                -moz-box-sizing: border-box;
+                -webkit-box-sizing: border-box;
+                box-sizing: border-box;
+
+                figure {
+                    margin-bottom: 15px;
+                    border: 2px solid #eaa50a;
+                    border-radius: 10px;
+                    text-align: center;
+
+
+                    img {
+                        max-width: 100%;
+                        border-radius: 10px;
+                    }
+
+                    figcaption {
+                        background-color: rgba(0,0,0, 0.7);
+                        position: relative;
+                        bottom: 23px;
+                        border-bottom-left-radius: 10px;
+                        border-bottom-right-radius: 10px;
+                    }
+
+                    &:hover {
+                        cursor: pointer;
+
+                        figcaption {
+                            background-color: #eaa50a;
+                            color: #6e3900;
+                        }
+                    }
+                }
+
+
+                #top {
+                    width: 250px;
+                    height: 190px;
+
+                    img {
+                        height: 190px;
+                        width: 250px;
+                    }
+                }
+
+                #bottom {
+                    height: 140px;
+
+                    img {
+                        height: 140px;
+                    }
+                }
+            }
+        }
+
+        footer {
+            padding: 10px;
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+            color: #eaa50a;
+        }
+    }
+}

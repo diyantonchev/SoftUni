@@ -1,0 +1,14 @@
+﻿[
+  {
+    "outputFile": "Problem1/styles/style.css",
+    "inputFile": "Problem1/styles/style.scss"
+  },
+  {
+    "outputFile": "Problem2/styles/style.css",
+    "inputFile": "Problem2/styles/style.scss"
+  },
+  {
+    "outputFile": "Problem3/styles/style.css",
+    "inputFile": "Problem3/styles/style.scss"
+  }
+]

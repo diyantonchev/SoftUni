@@ -1,0 +1,121 @@
+﻿@import url(https://fonts.googleapis.com/css?family=Vollkorn);
+
+body, div, header, section, article, h1, h2, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    #wrapper {
+        width: 1000px;
+        margin: 0 auto;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+
+        header.page-header {
+            margin-bottom: 40px;
+            text-align: center;
+
+            h1 {
+                text-transform: uppercase;
+                font-size: 40px;
+                font-family: 'Vollkorn', serif;
+                color: #798a97;
+            }
+        }
+
+        section {
+            display: flex;
+            justify-content: space-around;
+
+            article {
+                width: 30%;
+                background-color: #f6f7f9;
+                text-align: center;
+                padding-bottom: 30px;
+
+                &:hover {
+                    .article-header {
+                        background-color: #65d3e2;
+
+                        h2 {
+                            color: white;
+                        }
+                    }
+
+                    button {
+                        background-color: #65d3e2;
+                    }
+                }
+
+                header.article-header {
+                    padding: 25px;
+                    background-color: #ebeff2;
+                    text-align: center;
+
+                    h2 {
+                        font-size: 30px;
+                        font-weight: 300;
+                        font-family: 'Vollkorn', serif;
+                        color: #798a97;
+                    }
+                }
+
+                .content {
+                    h2 {
+                        margin-top: 10px;
+                        margin-bottom: 10px;
+                        font-size: 60px;
+                        font-weight: 300;
+                        font-family: 'Vollkorn', serif;
+                        color: #798a97;
+
+                        &:hover {
+                            cursor: pointer;
+                        }
+                    }
+
+                    ul {
+                        li {
+                            width: 100%;
+                            padding: 15px 0;
+                            list-style: none;
+                            font-size: 16px;
+                            font-family: Tahoma, sans-serif;
+                            color: #8d97b0;
+                            border-bottom: 1px solid #ebeff2;
+                        }
+                    }
+                }
+
+                button {
+                    width: 230px;
+                    height: 50px;
+                    background-color: #cad5d9;
+                    border: none;
+                    border-radius: 5px;
+                    font-size: 16px;
+                    font-family: Tahoma,sans-serif;
+                    color: white;
+
+                    &:hover {
+                        cursor: pointer;
+                    }
+                }
+
+                #small-business-button {
+                    margin-top: 180px;
+                }
+
+                #medium-business-button {
+                    margin-top: 127px;
+                }
+
+                #large-business-button {
+                    margin-top: 24px;
+                }
+            }
+        }
+    }
+}

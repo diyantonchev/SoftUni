@@ -1,0 +1,79 @@
+﻿body {
+    #wrapper {
+        width: 800px;
+        margin: 15px auto;
+        font-size: 13px;
+        font-family: Arial, Helvetica, sans-serif;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+
+        header {
+            width: 100%;
+            margin-bottom: 25px;
+            padding: 15px 0;
+            background-color: #dddddd;
+            color: #9470dc;
+            border-radius: 20px;
+            text-align: center;
+
+            h1 {
+                margin: 0;
+                font-size: 30px;
+                font-weight: 300;
+            }
+        }
+
+        main {
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+
+            .content {
+                width: 24%;
+                padding-bottom: 11px;
+                background-color: #eeeeee;
+                border-radius: 15px;
+                text-align: center;
+                color: #b5b7b7;
+
+                .number-container {
+                    width: 86%;
+                    height: 160px;
+                    margin: 15px auto;
+                    padding-top: 35px;
+                    background-color: #9470dc;
+                    font-size: 76px;
+                    font-weight: bold;
+                    color: white;
+                    border-radius: 100px;
+                    -moz-box-sizing: border-box;
+                    -webkit-box-sizing: border-box;
+                    box-sizing: border-box;
+
+                    &:hover {
+                        background-color: white;
+                        color: #9470dc;
+                        cursor: pointer;
+                    }
+                }
+
+                button {
+                    width: 90%;
+                    padding: 13px;
+                    background-color: #dddddd;
+                    border: none;
+                    border-radius: 10px;
+                    font-size: 12px;
+                    font-weight: bold;
+                    color: #39313b;
+
+                     &:hover {
+                        background-color: white;
+                        cursor: pointer;
+                    }
+                }
+            }
+        }
+    }
+}

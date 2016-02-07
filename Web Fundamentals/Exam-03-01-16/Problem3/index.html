@@ -1,0 +1,93 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Free Account</title>
+    <link href="styles/style.css" rel="stylesheet" />
+    <meta charset="utf-8" />
+</head>
+<body>
+    <div id="wrapper">
+        <header>
+            <nav>
+                <ul>
+                    <li>
+                        <img src="Images/paraglider-icon.png" />
+                        <div>Paragliding</div>
+                    </li>
+                    <li>
+                        <img src="Images/sky-diver.png" />
+                        <div>Skydiving</div>
+                    </li>
+                    <li>
+                        <img src="Images/climbing.png" />
+                        <div>Climbing</div>
+                    </li>
+                    <li>
+                        <img src="Images/about-us.png" />
+                        <div>About Us</div>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        <form>
+            <div class="fieldset-container">
+                <fieldset>
+                    <legend>Personal Info</legend>
+                    <div class="input-wrapper">
+                        <div class="input-container">
+                            <img src="Images/user1.png" />
+                            <input type="text" placeholder="Enter your full name" />
+                        </div>
+                        <div class="input-container">
+                            <img src="Images/email.png" />
+                            <input type="email" placeholder="Enter a valid e-mail" />
+                        </div>
+                        <div class="input-container">
+                            <img src="Images/phone.png" />
+                            <input type="text" placeholder="Enter a phone number" pattern="[0-9]+" />
+                        </div>
+                    </div>
+                </fieldset>
+                <fieldset>
+                    <legend>Flight Info</legend>
+                    <div class="radio-buttons-container">
+                        <p>Are flying for first time?</p>
+                        <input type="radio" value="Yes" id="yes" />
+                        <label for="yes">Yes</label>
+                        <input type="radio" value="No" id="no" />
+                        <label for="no">No</label>
+                    </div>
+                    <div class="lab-container">
+                        <label>Choose Destination</label>
+                    </div>
+                    <div class="select-container">
+                        <select>
+                            <optgroup label="Bulgaria">
+                                <option>Dobrostan</option>
+                                <option>Sopot</option>
+                                <option>Sofia</option>
+                                <option>Bourgas</option>
+                            </optgroup>
+                            <optgroup label="Rest of the world">
+                                <option>Nepal</option>
+                                <option>Turckey</option>
+                                <option>France</option>
+                            </optgroup>
+                        </select>
+                    </div>
+                    <div class="lab-container">
+                        <label>Choose Date</label>
+                    </div>
+                    <div class="date-container">
+                        <input type="date" />
+                    </div>
+                </fieldset>
+            </div>
+            <div class="button-container">
+                <button id="red">Clear</button>
+                <button id="green">Send</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

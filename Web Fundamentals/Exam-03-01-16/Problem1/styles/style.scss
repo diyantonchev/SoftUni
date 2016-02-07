@@ -1,0 +1,80 @@
+﻿body {
+    padding: 0;
+    margin: 0;
+
+    #wrapper {
+        width: 900px;
+        height: 500px;
+        margin: 0 auto;
+        padding-top: 50px;
+        background-color: #f0e3d3;
+        font-family: Arial, Helvetica, sans-serif;
+
+        .container {
+            width: 75%;
+            height: 85%;
+            margin: 0 auto;
+            border: 1px solid black;
+            -moz-box-sizing: border-box;
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+            display: flex;
+
+            .pink-block {
+                width: 30%;
+                padding: 20px;
+                background-color: #d7a081;
+
+                .rectangle-container {
+                    margin-top: 40px;
+
+                    .rectangle {
+                        width: 65%;
+                        margin: 40px auto;
+                        padding: 20px;
+                        background-color: white;
+
+                        .content {
+                            width: 81%;
+                            margin: 0 auto;
+                            padding: 12px;
+                            text-align: center;
+                            background-color: #d7a081;
+                            border-radius: 10px;
+
+                            &:hover {
+                                border: 2px solid #b1aca7;
+                                box-shadow: 0 0 5px #b1aca7;
+                                color: white;
+                                cursor: pointer;
+                            }
+                        }
+                    }
+                }
+            }
+
+            .red-block {
+                width: 40%;
+                padding: 20px;
+                -moz-box-sizing: border-box;
+                -webkit-box-sizing: border-box;
+                box-sizing: border-box;
+                background-color: #75191a;
+
+                .img-container {
+                    width: 70%;
+                    margin: 40px auto;
+                    padding: 10px 20px;
+                    background-color: white;
+
+                    img {
+                        width: 140px;
+                        height: 300px;
+                        margin-top: 5px;
+                        border-radius: 10px;
+                    }
+                }
+            }
+        }
+    }
+}

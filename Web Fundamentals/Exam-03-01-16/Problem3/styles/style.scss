@@ -1,0 +1,202 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-image: url('../Images/background.jpg');
+    background-size: cover;
+
+    #wrapper {
+        width: 800px;
+        margin: 10px auto;
+        padding: 5px 20px;
+        padding-bottom: 60px;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        border-radius: 30px;
+        background-color: rgba(211, 229, 239, 0.7);
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+
+        header {
+            width: 95%;
+            margin: 0 auto;
+            -moz-box-sizing: border-box;
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+
+            nav {
+                padding: 0;
+
+                ul {
+                    padding: 0;
+                    display: flex;
+                    justify-content: space-between;
+                    list-style: none;
+
+                    li {
+                        padding: 5px 2px;
+                        color: #1e659e;
+                        font-weight: bold;
+                        display: flex;
+                        border-radius: 10px;
+
+                        img {
+                            width: 50px;
+                            height: 50px;
+                        }
+
+                        div {
+                            padding-top: 15px;
+                        }
+
+                        &:hover {
+                            background-color: #73a9cf;
+                            cursor: pointer;
+                        }
+                    }
+
+                    li:first-child {
+                        background-color: #73a9cf;
+                    }
+                }
+            }
+        }
+
+        form {
+            width: 95%;
+            margin: 10px auto;
+            -moz-box-sizing: border-box;
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+
+            .fieldset-container {
+                display: flex;
+                margin: 0 auto;
+
+                fieldset {
+                    width: 50%;
+                    border-color: #67a2c5;
+                    border-radius: 15px;
+                    text-align: center;
+                    color: #2a6394;
+
+                    legend {
+                        color: #2a6394;
+                    }
+
+                    .input-wrapper {
+                        margin-top: 40px;
+                    }
+
+                    .input-container {
+                        width: 88%;
+                        height: 42px;
+                        margin: 0 auto;
+                        margin-bottom: 20px;
+                        padding: 6px;
+                        text-align: left;
+                        border: 2px solid #67a2c5;
+                        border-radius: 50px;
+                        -moz-box-sizing: border-box;
+                        -webkit-box-sizing: border-box;
+                        box-sizing: border-box;
+
+                        input {
+                            width: 85%;
+                            padding-left: 10px;
+                            font-size: 22px;
+                            border: none;
+                            background: none;
+                            font-family: Arial, Helvetica, sans-serif;
+                            color: #7a9db8;
+                        }
+                    }
+
+                    p {
+                        margin: 40px 0 5px 0;
+                    }
+
+                    .radio-buttons-container {
+                        margin-bottom: 10px;
+                    }
+
+                    select {
+                        width: 88%;
+                        height: 42px;
+                        margin-top: 7px;
+                        margin-bottom: 10px;
+                        padding: 3px;
+                        border: 2px solid #67a2c5;
+                        border-radius: 50px;
+                        -moz-box-sizing: border-box;
+                        -webkit-box-sizing: border-box;
+                        box-sizing: border-box;
+                        font-size: 14px;
+                        font-weight: bold;
+                        font-family: Arial, Helvetica, sans-serif;
+                        color: #3f6394;
+                    }
+
+                    input[type="date"] {
+                        width: 88%;
+                        height: 42px;
+                        margin-top: 7px;
+                        margin-bottom: 40px;
+                        border: 2px solid #67a2c5;
+                        border-radius: 50px;
+                        -moz-box-sizing: border-box;
+                        -webkit-box-sizing: border-box;
+                        box-sizing: border-box;
+                        font-size: 14px;
+                        text-align: center;
+                        font-weight: bold;
+                        font-family: Arial, Helvetica, sans-serif;
+                        color: #3f6394;
+                    }
+                }
+            }
+
+            .button-container {
+                margin-top: 10px;
+                float: right;
+                display: flex;
+                justify-content: flex-end;
+
+                button {
+                    width: 100px;
+                    height: 50px;
+                    margin-left: 5px;
+                    border: none;
+                    border-radius: 40px;
+                    background: none;
+                    font-size: 24px;
+                    font-weight: bold;
+                    font-family: Arial, Helvetica, sans-serif;
+                }
+
+                #red {
+                    border: 2px solid #b40001;
+                    color: #b40001;
+
+                    &:hover {
+                        background-color: #b40001;
+                        color: white;
+                        cursor: pointer;
+                    }
+                }
+
+                #green {
+                    border: 2px solid #07fa02;
+                    color: #07fa02;
+
+
+                    &:hover {
+                        background-color: #07fa02;
+                        color: white;
+                        cursor: pointer;
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,284 @@
+﻿@import url(http://fonts.googleapis.com/css?family=Ubuntu:300,400,700);
+
+@font-face {
+    font-family: 'MYRIADPRO-REGULAR';
+    src: url('../fonts/MYRIADPRO/MYRIADPRO-REGULAR.OTF') format('opentype');
+}
+
+body {
+    margin: 0;
+    padding: 0;
+
+    #wrapper {
+        max-width: 1100px;
+        margin: 0 auto;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+
+        header.page-header {
+            padding-bottom: 5px;
+            background: #4c9e9a; /* For browsers that do not support gradients */
+            background: -webkit-linear-gradient(right top, #4c9e9a,#5289b0, #4f4f85); /* For Safari 5.1 to 6.0 */
+            background: -o-linear-gradient(bottom left,#4c9e9a,#5289b0, #4f4f85); /* For Opera 11.1 to 12.0 */
+            background: -moz-linear-gradient(bottom left,#4c9e9a,#5289b0, #4f4f85); /* For Firefox 3.6 to 15 */
+            background: linear-gradient(to bottom left, #4c9e9a,#5289b0, #4f4f85);
+            font-family: 'Ubuntu';
+
+            nav {
+                width: 100%;
+                padding: 10px 0;
+                display: flex;
+                justify-content: space-around;
+                font-size: 13px;
+                color: white;
+                border-bottom: 1px solid white;
+
+                .brand-container {
+                    font-weight: bold;
+                }
+
+                ul {
+                    margin: 0;
+                    padding: 0;
+                    display: flex;
+                    list-style: none;
+
+                    li {
+                        margin-left: 17px;
+
+                        &:hover {
+                            color: #59eeff;
+                            cursor: pointer;
+                        }
+                    }
+                }
+            }
+
+            .header-content {
+                text-align: center;
+
+                .title-container {
+                    h1 {
+                        margin-bottom: 0;
+                        font-size: 54px;
+                        font-weight: bold;
+                        color: #59eeff;
+                        letter-spacing: 12px;
+                    }
+
+                    p {
+                        margin-top: 0;
+                        font-size: 16px;
+                        font-weight: 300;
+                        color: white;
+                        word-spacing: 4px;
+                        letter-spacing: 2px;
+                    }
+                }
+
+                .big-slogan {
+                    width: 70%;
+                    margin: 35px auto;
+                    font-size: 35px;
+                    font-weight: 300;
+                    color: white;
+                }
+
+                button {
+                    width: 20%;
+                    margin: 25px 0;
+                    padding: 10px 0;
+                    background: none;
+                    text-align: center;
+                    font-size: 24px;
+                    font-family: 'Ubuntu';
+                    color: white;
+                    border: 1px solid white;
+
+
+                    &:hover {
+                        background-color: #59eeff;
+                        cursor: pointer;
+                    }
+                }
+
+                .question {
+                    width: 20%;
+                    margin: 20px auto;
+                    padding-bottom: 5px;
+                    text-transform: capitalize;
+                    letter-spacing: 2px;
+                    word-spacing: 5px;
+                    font-size: 15px;
+                    font-family: MYRIADPRO-REGULAR;
+                    color: white;
+                    border-bottom: 1px solid white;
+
+                    &:hover {
+                        color: #59eeff;
+                        cursor: pointer;
+                        border-bottom: 1px solid #59eeff;
+                    }
+                }
+            }
+        }
+
+        main {
+            margin-bottom: 15px;
+
+            section {
+                .section-header {
+                    text-align: center;
+                    font-size: 20px;
+                    font-family: 'Ubuntu';
+                    color: #79838f;
+                }
+
+                article {
+                    margin-right: 30px;
+                    font-family: MYRIADPRO-REGULAR;
+
+                    header {
+                        text-align: center;
+
+                        h2 {
+                            margin-top: 0;
+                            margin-bottom: 10px;
+                            font-size: 20px;
+                            font-family: 'Ubuntu';
+                            font-weight: 500;
+                            color: #79838f;
+                        }
+                    }
+
+                    .content {
+                        text-align: center;
+                        font-size: 13px;
+                        font-weight: 300;
+                        color: #79838f;
+                    }
+
+
+                    footer {
+                        text-align: center;
+                        color: #59eeff;
+                        font-size: 13px;
+
+                        &:hover {
+                            cursor: pointer;
+                        }
+                    }
+                }
+
+                .article-wrapper {
+                    margin-bottom: 30px;
+                    display: inline-flex;
+                    justify-content: center;
+
+                    article {
+                        width: 24%;
+
+                        header {
+                            .sprite-container {
+                                width: 130px;
+                                height: 130px;
+                                margin: 0 auto;
+                                border-radius: 60px;
+                            }
+
+                            #wheel {
+                                background: url('../img/02-Icons-Sprite.png') 480px 2px;
+                            }
+
+                            #house {
+                                background: url('../img/02-Icons-Sprite.png') 308px 2px;
+                            }
+
+                            #question-mark {
+                                background: url('../img/02-Icons-Sprite.png') 150px 2px;
+                            }
+                        }
+                    }
+                }
+
+                .section-footer {
+                    margin-top: 10px;
+                    padding: 20px 0;
+                    font-size: 20px;
+                    font-family: MYRIADPRO-REGULAR;
+                    color: white;
+                    text-align: center;
+                    background-color: #ff7978;
+                }
+            }
+
+            .img-article-wrapper {
+                width: 37%;
+                margin-right: 30px;
+                display: flex;
+                background-color: #f6f7f9;
+
+                article {
+                    margin: 10px 10px 0 15px;
+                    flex-grow: 2;
+                    text-align: left;
+
+                    header {
+                        text-align: left;
+                    }
+
+                    .content p {
+                        text-align: left;
+                    }
+                }
+
+                .img-container {
+                    img {
+                        width: 205px;
+                        height: 118px;
+                    }
+                }
+            }
+
+            .last-section {
+                header {
+                    h2 {
+                        margin-top: 0;
+                        text-align: center;
+                        font-size: 28px;
+                        font-family: MYRIADPRO-REGULAR;
+                        color: #79838f;
+                    }
+                }
+
+                .content {
+                    width: 60%;
+                    margin: 0 auto;
+
+                    span {
+                        font-style: italic;
+                    }
+                }
+
+                .author {
+                    margin-top: 10px;
+                    text-align: center;
+                    color: #59eeff;
+                    font-size: 13px;
+                }
+            }
+        }
+
+        .page-footer {
+            margin-top: 25px;
+            padding: 18px 0;
+            display: flex;
+            justify-content: space-around;
+            background-color: #282e3c;
+            font-size: 12px;
+            font-family: MYRIADPRO-REGULAR;
+            color: #79838f;
+        }
+    }
+}

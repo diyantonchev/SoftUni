@@ -1,0 +1,299 @@
+
+@font-face {
+    font-family: Alex Brush;
+    src: url('Resources/AlexBrush-Regular.ttf');
+    font-size: 400px;
+}
+
+body, header, main, footer, div, section, aside, article, p, h1, h2, h3, ul, li, a, img {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: #d7c7a9;
+}
+
+/*-------------------------------------------------*/
+#wrapper {
+    font-family: Calibri, Arial, sans-serif;
+    font-size: 12px;
+    width: 1200px;
+    background-color: #5a5b3c;
+    padding-top: 0px;
+    padding-bottom: 30px;
+    margin: 0 auto;
+}
+/*-------------------------------------------------*/
+
+header {
+    width: 1000px;
+    margin: 0 auto;
+    background-image: url("Resources/Picture_1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*background-size: 100%;*/
+    border-bottom: 10px solid #b7cc89;
+}
+
+    header > h1 {
+        font-size: 68px;
+        font-family: "Alex Brush";
+        margin: 0 auto;
+        color: #f26013;
+        text-align: center;
+        font-weight: lighter;
+        line-height: 68px;
+        padding-top: 20px;
+    }
+
+    header > p {
+        font-size: 26px;
+        margin: 20px auto;
+        color: white;
+        text-align: center;
+    }
+
+    header > nav {
+        background-color: #ffffff;
+        height: 42px;
+    }
+
+    header nav > ul {
+        display: flex;
+        list-style: none;
+        margin-top: 45px;
+    }
+
+        header nav > ul li {
+            width: 200px;
+            /*display: inline-block;*/
+            text-align: center;
+            font-size: 18px;
+            background-color: white;
+            padding: 10px 0;
+            /*float: left;*/
+        }
+
+            header nav > ul li a {
+                text-decoration: none;
+                color: #5a5b3c;
+            }
+
+            header nav > ul li:hover {
+                background-color: #f77a26;
+            }
+
+/*-------------------------------------------------*/
+
+main {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #eae7ee;
+    margin-top: 30px;
+    overflow: auto;
+}
+    /*---------------------------*/
+
+    main aside {
+        float: left;
+        margin-left: 30px;
+        width: 270px;
+        margin-bottom: 23px;
+        margin-top: 40px;
+    }
+
+    main > aside > article {
+        margin-bottom: 20px;
+        margin-right: 20px;
+        background-color: white;
+        padding: 20px;
+    }
+
+        main > aside > article > h1 {
+            font-size: 25px;
+            color: #5a5b3c;
+        }
+
+        main > aside > article > h2 {
+            font-size: 15px;
+        }
+
+        main > aside > article > p:nth-child(3), #wrapper > main > section > article > p:nth-child(4) {
+            margin-top: 20px;
+        }
+
+        main > aside > article > p:nth-child(5) {
+            font-weight: bold;
+            font-style: italic;
+        }
+
+    /*---------------------------*/
+
+    main section {
+        margin-top: 40px;
+        float: left;
+        margin-left: 30px;
+        width: 660px;
+    }
+
+        main section > div {
+            background-color: white;
+            margin-bottom: 25px;
+            height: 170px;
+        }
+
+
+            main section > div > div {
+                display: inline-block;
+                width: 230px;
+                height: 170px;
+                margin-right: 20px;
+                float: left;
+            }
+
+    main > section > div:nth-child(1) > div {
+        background-image: url("Resources/Picture_2.jpg");
+        background-size: 230px 170px;
+    }
+
+    main > section > div:nth-child(2) > div {
+        background-image: url("Resources/Picture_3.jpg");
+        background-size: 230px 170px;
+    }
+
+    main > section > div:nth-child(3) > div {
+        background-image: url("Resources/Picture_4.jpg");
+        background-size: 230px 170px;
+    }
+
+
+    main > section > div > article {
+        padding: 10px;
+    }
+
+        main > section > div > article > h3 {
+            font-weight: bold;
+            color: #f26013;
+            margin: 10px;
+        }
+
+        main > section > div > article > p {
+            margin: 10px;
+        }
+
+/*-------------------------------------------------*/
+footer {
+    clear: both;
+}
+
+    footer p {
+        color: white;
+        margin-top: 30px;
+        margin-left: 100px;
+    }
+
+@media screen and (max-width: 1200px) {
+    #wrapper {
+        width: 100%;
+    }
+
+    header {
+        width: 90%;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+        header nav > ul li {
+            width: 20%;
+        }
+
+    main {
+        width: 90%;
+        display: flex;
+        -ms-flex-flow: column;
+        -webkit-flex-flow: column;
+        flex-flow: column;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+        main > section {
+            width: 90%;
+            -moz-box-sizing: border-box;
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+
+        main > aside {
+            width: 92%;
+            margin-top: 0;
+            margin-right: 0;
+            -moz-box-sizing: border-box;
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+
+    footer {
+        width: 90%;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 730px) and (min-width: 500px) {
+    header {
+        border-bottom: none;
+    }
+
+        header nav > ul {
+            display: flex;
+            -ms-flex-direction: column;
+            -webkit-flex-direction: column;
+            flex-direction: column;
+        }
+
+            header nav > ul > li {
+                width: 100%;
+            }
+
+    main {
+        margin-top: 200px;
+    }
+
+        main > section {
+            display: flex;
+            -ms-flex-direction: column;
+            -webkit-flex-direction: column;
+            flex-direction: column;
+        }
+
+            main > section > div {
+                display: flex;
+                -ms-flex-direction: column;
+                -webkit-flex-direction: column;
+                flex-direction: column;
+                height: 300px;
+            }
+
+             main > section > div > div {
+                 width: 100%;
+                 margin: 0 auto;             
+                 background-color: #bacd8b;
+                 background-position: center;
+                 background-repeat: no-repeat;
+             }
+
+        main > aside {
+            width: 93%;
+        }
+
+            main > aside > article > h1 {
+                text-align: center;
+            }
+
+            main > aside > article > h2 {
+                text-align: center;
+            }
+}

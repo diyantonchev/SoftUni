@@ -1,0 +1,68 @@
+﻿body {
+  margin: 0;
+  padding: 0; }
+  body #wrapper {
+    width: 1000px;
+    margin: 0 auto;
+    font-size: 14px;
+    font-family: Tahoma, Helvetica, sans-serif;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box; }
+    body #wrapper header {
+      width: 100%; }
+      body #wrapper header nav {
+        background-color: #384452; }
+        body #wrapper header nav ul {
+          margin: 0;
+          padding: 0;
+          display: flex;
+          list-style: none; }
+          body #wrapper header nav ul li {
+            margin-right: 15px;
+            display: flex;
+            color: #9eb2bb; }
+            body #wrapper header nav ul li div {
+              padding-top: 22px;
+              padding-right: 20px; }
+            body #wrapper header nav ul li img {
+              width: 55px;
+              height: 60px; }
+          body #wrapper header nav ul li:first-child {
+            background-color: #3bbc96;
+            color: white; }
+    body #wrapper main {
+      background-color: #eeeeee;
+      -moz-box-sizing: border-box;
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box; }
+      body #wrapper main form {
+        padding: 5px 25px 35px 25px;
+        display: flex;
+        -ms-flex-wrap: wrap;
+        -webkit-flex-wrap: wrap;
+        flex-wrap: wrap;
+        justify-content: space-between; }
+        body #wrapper main form .input-container {
+          margin-top: 30px;
+          width: 24%; }
+          body #wrapper main form .input-container div {
+            margin-bottom: 15px; }
+            body #wrapper main form .input-container div label {
+              font-weight: bold; }
+          body #wrapper main form .input-container input {
+            width: 90%;
+            height: 27px;
+            padding: 5px; }
+          body #wrapper main form .input-container input[type="submit"] {
+            width: 95%;
+            height: 41px;
+            margin-top: 30px;
+            background-color: #3bbc96;
+            color: white;
+            border: none;
+            border-radius: 5px; }
+            body #wrapper main form .input-container input[type="submit"]:hover {
+              background-color: #384452;
+              cursor: pointer; }
+

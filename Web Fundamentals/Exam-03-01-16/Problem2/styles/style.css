@@ -1,0 +1,132 @@
+﻿@font-face {
+  font-family: 'RicksAmericanNF';
+  src: url("../Fonts/RicksAmericanNF.ttf") format("truetype"); }
+
+body {
+  margin: 0;
+  padding: 0; }
+  body #wrapper {
+    width: 100%;
+    margin: 0 auto;
+    background-color: black;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box; }
+    body #wrapper #page-header {
+      width: 960px;
+      margin: 0 auto;
+      font-family: 'RicksAmericanNF';
+      -moz-box-sizing: border-box;
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box;
+      text-transform: uppercase;
+      color: #ff9e00; }
+      body #wrapper #page-header .title-container {
+        margin-bottom: 20px; }
+        body #wrapper #page-header .title-container h1 {
+          margin: 0;
+          margin-left: 20px;
+          font-size: 60px;
+          word-spacing: 17px;
+          letter-spacing: 15px; }
+      body #wrapper #page-header nav {
+        width: 92%; }
+        body #wrapper #page-header nav ul {
+          list-style: none;
+          display: flex;
+          justify-content: space-around; }
+          body #wrapper #page-header nav ul li {
+            width: 150px;
+            padding: 5px;
+            text-align: center;
+            font-size: 30px;
+            letter-spacing: 5px; }
+            body #wrapper #page-header nav ul li:hover {
+              border-radius: 50px;
+              background-color: #ff9e00;
+              cursor: pointer;
+              color: black; }
+    body #wrapper main {
+      width: 960px;
+      margin: auto;
+      -moz-box-sizing: border-box;
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box;
+      background-color: #3c3c3c;
+      display: flex;
+      justify-content: space-around;
+      font-family: Arial, Helvetica, sans-serif;
+      color: #eaa50a; }
+      body #wrapper main section {
+        width: 65%; }
+        body #wrapper main section article {
+          margin: 15px; }
+          body #wrapper main section article header {
+            text-align: center;
+            margin-bottom: 7px; }
+            body #wrapper main section article header h2 {
+              font-size: 23px;
+              text-transform: uppercase;
+              margin: 0; }
+          body #wrapper main section article .content-wrapper {
+            display: flex; }
+            body #wrapper main section article .content-wrapper .img-container {
+              width: 50%; }
+              body #wrapper main section article .content-wrapper .img-container img {
+                max-width: 100%; }
+              body #wrapper main section article .content-wrapper .img-container #robert {
+                height: 235px; }
+              body #wrapper main section article .content-wrapper .img-container #howlin {
+                width: 330px;
+                height: 270px; }
+            body #wrapper main section article .content-wrapper .content {
+              width: 50%;
+              margin-left: 10px;
+              text-indent: 30px;
+              font-size: 16px; }
+              body #wrapper main section article .content-wrapper .content span {
+                font-weight: bold;
+                font-style: italic; }
+      body #wrapper main aside {
+        width: 35%;
+        font-size: 16px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: #eaa50a;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box; }
+        body #wrapper main aside figure {
+          margin-bottom: 15px;
+          border: 2px solid #eaa50a;
+          border-radius: 10px;
+          text-align: center; }
+          body #wrapper main aside figure img {
+            max-width: 100%;
+            border-radius: 10px; }
+          body #wrapper main aside figure figcaption {
+            background-color: rgba(0, 0, 0, 0.7);
+            position: relative;
+            bottom: 23px;
+            border-bottom-left-radius: 10px;
+            border-bottom-right-radius: 10px; }
+          body #wrapper main aside figure:hover {
+            cursor: pointer; }
+            body #wrapper main aside figure:hover figcaption {
+              background-color: #eaa50a;
+              color: #6e3900; }
+        body #wrapper main aside #top {
+          width: 250px;
+          height: 190px; }
+          body #wrapper main aside #top img {
+            height: 190px;
+            width: 250px; }
+        body #wrapper main aside #bottom {
+          height: 140px; }
+          body #wrapper main aside #bottom img {
+            height: 140px; }
+    body #wrapper footer {
+      padding: 10px;
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+      color: #eaa50a; }
+
