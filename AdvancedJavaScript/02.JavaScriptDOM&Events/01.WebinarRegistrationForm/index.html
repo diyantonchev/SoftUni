@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Webinar registration form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<form>
+    <fieldset>
+        <legend>Регистрация за уебинар</legend>
+        <label for="name">Име и Фамилия:<sup>*</sup></label>
+        <input type="text" id="name" required>
+        <label for="address">Адрес:</label>
+        <input type="text" id="address">
+        <label for="place">Населено място:</label>
+        <input type="text" id="place">
+        <label for="post-code">Пощенски код:</label>
+        <input type="text" id="post-code">
+        <label for="email">Email<sup>*</sup></label>
+        <input type="email" id="email" required>
+        <label for="telephone">Телефон:<sup>*</sup></label>
+        <input type="text" pattern="\+*[0-9]{9,}" id="telephone" required>
+        <div class="date-container">
+            <label for="date">Дата на семинара:<sup>*</sup></label>
+            <input type="date" id="date" required>
+        </div>
+        <div class="checkbox-container">
+            <input type="checkbox" id="invoice" onclick="toggleInvoiceDetails(this)">
+            <label for="invoice">Желая фактура</label>
+        </div>
+        <div id="invoice-details">
+            <label for="organization">Фирма/Организация:<sup>*</sup></label>
+            <input type="text" id="organization" required>
+            <label for="mol">МОЛ:<sup>*</sup></label>
+            <input type="text" id="mol" required>
+            <label for="eik">ЕИК:<sup>*</sup></label>
+            <input type="text" id="eik" required>
+            <label for="dds">ИН по ДДС:<sup>*</sup></label>
+            <input type="text" id="dds" required>
+            <label for="org-address">Адрес:<sup>*</sup></label>
+            <input type="text" id="org-address" required>
+        </div>
+        <div class="button-container">
+            <button type="submit">Регистрирай се</button>
+            <button type="reset">Изчисти</button>
+        </div>
+    </fieldset>
+</form>
+<script src="invoiceDetails.js"></script>
+</body>
+</html>
