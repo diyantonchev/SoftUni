@@ -1,0 +1,65 @@
+#container {
+    width: 40%;
+    margin: 15px auto;
+    display: flex;
+    flex-direction: column;
+}
+
+p, input {
+    margin: 0;
+    padding: 5px 15px;
+    background-color: #234465;
+    border: none;
+    color: #ff9c01;
+    box-sizing: border-box;
+    font-family: Tahoma, Arial, sans-serif;
+}
+
+button {
+    width: 40%;
+    height: 60px;
+    margin: 25px auto;
+    box-sizing: border-box;
+    background-color: #FFF;
+    border: 2px solid black;
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    font-family: Tahoma, Arial, sans-serif;
+}
+
+button:hover {
+    background-color: #ffa000;
+    color: white;
+    cursor: pointer;
+}
+
+p {
+    height: 60px;
+    font-size: 25px;
+}
+
+input {
+    height: 50px;
+    font-size: 20px;
+}
+
+::-webkit-input-placeholder { /* Safari, Chrome and Opera */
+    color: orange;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+    color: orange;
+}
+
+::-moz-placeholder { /* Firefox 19+ */
+    color: orange;
+}
+
+:-ms-input-placeholder { /* IE 10+ */
+    color: orange
+}
+
+:-ms-input-placeholder { /* Edge */
+    color: orange
+}
