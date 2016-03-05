@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    width: 57%;
+    margin: 20px auto;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-around;
+    font-size: 22px;
+    font-family: Tahoma, sans-serif;
+    border: 5px solid black;
+    border-radius: 15px;
+}
+
+.color-switcher {
+    padding-top: 20px;
+}
+
+.color-switcher > .input-container {
+    margin-bottom: 15px;
+}
+
+.color-switcher > .input-container > input[type="text"] {
+    height: 20px;
+    width: 65%;
+    padding: 3px;
+    font-size: 20px;
+}
+
+.color-switcher > button {
+    height: 32px;
+    width: 40%;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Tahoma, sans-serif;
+}
+
+.color-switcher > button:hover {
+    cursor: pointer;
+}
+
+.animals-container > ul > li {
+    margin-bottom: 3px;
+}

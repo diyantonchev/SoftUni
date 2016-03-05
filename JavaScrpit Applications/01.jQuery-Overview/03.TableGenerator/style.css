@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    width: 84%;
+    margin: 10px auto;
+    padding: 30px;
+    box-sizing: border-box;
+    border: 5px solid black;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    font-family: Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+#wrapper > .input-section {
+    width: 35%;
+    box-sizing: border-box;
+}
+
+#wrapper > .input-section > textarea {
+    width: 97%;
+    max-width: 100%;
+    height: 100px;
+    max-height: 300px;
+    margin-top: 3px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+#wrapper > .input-section > button {
+    width: 98%;
+    height: 40px;
+    margin-left: 1px;
+    border: none;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Tahoma, sans-serif;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+    color: #fff;
+    background-color: #234465;
+}
+
+#wrapper > .input-section > button:hover {
+    background-color: deepskyblue;
+    color: #234465;
+    cursor: pointer;
+}
+
+#table-container {
+    width: 60%;
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+#table-container > table {
+    width: 100%;
+    border-spacing: 0;
+    border: 2px solid black;
+    margin-bottom: 15px;
+}
+
+#table-container > table > thead {
+    margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+    background-color: #76923c;
+}
+
+#table-container  table tr > td, th {
+    border: 1px solid black;
+    padding: 5px 10px;
+}

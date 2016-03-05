@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    width: 60%;
+    margin: 10px auto;
+    padding: 30px;
+    box-sizing: border-box;
+    background-color: tomato;
+    font-size: 27px;
+    font-family: Tahoma, sans-serif;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+.content > ul {
+    width: 60%;
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.content > .dynamicCreatedDiv {
+    width: 57%;
+    height: 40px;
+    margin: 15px auto;
+    padding: 10px 10px;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+.content ul > li {
+    height: 40px;
+    padding: 10px 10px;
+    border: 3px solid black;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+.content > ul > li:hover, .content > .dynamicCreatedDiv:hover {
+    background-color: white;
+    cursor: pointer;
+    text-align: center;
+}
+
+.button-container {
+    width: 43%;
+    margin: 10px auto;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.button-container > button {
+    width: 49%;
+    height: 45px;
+    border-radius: 5px;
+    background-color: white;
+    border: 2px solid black;
+    font-size: 18px;
+    font-family:  Tahoma, sans-serif;
+}
+
+.button-container > button:hover {
+    font-size: 19px;
+    cursor: pointer;
+}
