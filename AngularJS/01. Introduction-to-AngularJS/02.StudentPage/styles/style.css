@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 50%;
+    padding: 15px;
+    font-family: Tahoma, Arial, sans-serif;
+}
+
+.container > h2 {
+    margin: 0;
+    padding: 0;
+    font-size: 33px;
+    font-style: italic;
+}
+
+.student {
+    width: 40%;
+    padding: 0;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.student li {
+    list-style: none;
+}
+
+.student li span {
+    font-weight: bold;
+}
+
+.student li img {
+    width: 250px;
+    height: 200px;
+}
+
+.info {
+    padding: 5px;
+    font-size: 17px;
+}
+
+.info:hover {
+    background-color: yellow;
+    cursor: pointer;
+}

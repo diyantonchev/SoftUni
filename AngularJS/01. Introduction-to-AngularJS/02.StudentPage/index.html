@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="studentPage">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Students Page</title>
+    <script src="../libs/angular.js"></script>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+
+<body>
+    <div class="container" ng-controller="StudentsController">
+        <h2>Students:</h2>
+        <ul ng-repeat="student in students" class="student">
+            <li><img ng-src="{{student.photo}}" alt="{{student.name}} + ' picture'"></li>
+            <li class="info"><span>Name: </span>{{student.name}}</li>
+            <li class="info"><span>Grade: </span>{{student.grade}}</li>
+            <li class="info"><span>School: </span>{{student.school}}</li>
+            <li class="info"><span>Teacher: </span>{{student.teacher}}</li>
+        </ul>
+    </div>
+    <script src="js/studentModule.js"></script>
+</body>
+
+</html>

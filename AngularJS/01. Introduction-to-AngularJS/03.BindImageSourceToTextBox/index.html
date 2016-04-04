@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Image Binding</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="../libs/angular.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <input type="text" placeholder="Enter image link here" id="img-src" ng-model="source">
+        <img ng-src="{{source}}">
+    </div>
+</body>
+
+</html>
