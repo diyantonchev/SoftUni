@@ -1,2 +1,2 @@
 # SoftUni 
-Contains homeworks, exam problems and labs from the curriculum of Software University.
+Contains homework, lab and exam problems from the curriculum of Software University.
