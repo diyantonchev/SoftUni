@@ -1,0 +1,59 @@
+<div>
+    <div>
+        <label for="category">Get videos by category</label>
+        <input id="category" type="text" ng-model="filterByCategory" />
+    </div>
+    <div>
+        <label for="category">Get videos with subtitles</label>
+        <input type="checkbox" ng-model="subtitles" />
+    </div>
+    OrderBy:
+    <select ng-model="sortOrder">
+        <option selected value="title">Title</option>
+        <option value="length">Length</option>
+        <option value="-date">Date</option>
+        <option value="subscribers">Subscribers</option>
+        <option value="likes">Likes</option>
+    </select>
+
+    <section class="videos-container">
+        <article class="video" ng-repeat="video in videos | orderBy:sortOrder 
+    | filter: {category:filterByCategory} 
+    | filter: subtitles">
+
+            <header>
+                <h2>{{ video.title }}</h2>
+                <div class="img-container">
+                    <img ng-src=" {{ video.pictureUrl }} " alt="No pic available " />
+                </div>
+            </header>
+
+            <div class="info">
+                <h4>Length: </h4>{{ video.length }}
+            </div>
+            <div class="info">
+                <h4>Category: </h4>{{ video.category }}
+            </div>
+            <div class="info">
+                <h4>Subscribers count: </h4>{{ video.subscribers }}
+            </div>
+            <div class="info">
+                <h4>Created at: </h4>{{ video.date | date:'yyyy-MM-dd' }}
+            </div>
+            <div class="info">
+                <h4>Subtitles available?</h4>{{ video.haveSubtitles ? "Yes " : "No " }}
+            </div>
+            <div class="info">
+                <h4> Likes:</h4>{{ video.likes }}
+            </div>
+
+            <h3>Comments:</h3>
+            <div class="info" ng-repeat="comment in video.comments ">
+                <div>{{ comment.username }}</div>
+                <div>{{ comment.content }}</div>
+                <div>{{ comment.date | date:'yyyy-MM-dd' }}</div>
+                <div>Likes: {{ comment.likes }}</div>
+                <div>{{ comment.websiteUrl }}</div>
+            </div>
+        </article>
+    </section>

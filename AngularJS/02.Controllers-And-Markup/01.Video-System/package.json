@@ -1,0 +1,18 @@
+{
+    "name": "Video-Controller",
+    "version": "0.0.0",
+    "description": "Video Controller App",
+    "keywords": [
+        "AngularJS",
+        "JavaScript"
+    ],
+    "scripts": {
+        "prestart": "npm install",
+        "start": "http-server -a localhost -p 8000 -c-1"
+    },
+    "author": "Unknown",
+    "license": "MIT",
+    "dependencies": {
+        "http-server": "^0.6.1"
+    }
+}

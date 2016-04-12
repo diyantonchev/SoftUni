@@ -1,0 +1,56 @@
+html,body, main, header, nav, ul, h1, h2, h3, h4 {
+    margin: 0;
+    pad: 0;
+}
+
+main {
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+main > header {
+    width: 50%;
+    display: flex;
+}
+
+nav {
+     width: 30%;
+}
+
+header > nav > ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+.videos-container {
+    width: 90%;
+    margin-top: 10px;
+}
+
+.video {
+    width: 25%;
+    height: 630px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    padding: 15px;
+    display: inline-table;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.info {
+    margin-bottom: 10px;
+}
+
+.img-container > img {
+    max-width: 250px;
+    max-height: 150px
+}
+
+.noty_message {
+    background-color: lawngreen;
+    opacity: 0.7;
+}
+
+.noty_message:hover{
+    cursor: pointer;
+}

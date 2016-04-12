@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8 ">
+    <title>Video System</title>
+    <link rel="stylesheet " href="styles/style.css ">
+    <script src="libs/angular.js "></script>
+    <script src="libs/angular-route.js"></script>
+    <script src="libs/jquery.min.js"></script>
+    <script src="libs/jquery.noty.packaged.min.js"></script>
+</head>
+
+<body ng-app="videoSystem">
+    <header>
+        <nav class="menu">
+            <ul>
+                <li><a href="#/">Videos</a></li>
+                <li><a href="#/add-video">Add Video</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="view" ng-view></section>
+    </main>
+
+    <script src="scripts/app.js"></script>
+    <script src="scripts/services/video-system-data.js"></script>
+    <script src="scripts/controllers/video-system-controller.js"></script>
+</body>
+
+</html>
