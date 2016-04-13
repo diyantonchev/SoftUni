@@ -1,6 +1,6 @@
 <form name="addVideoForm">
     <input type="text" placeholder="Title" ng-model="video.title" ng-required="true" /><sup>*</sup>
-    <input type="url" placeholder="Picture URL" ng-model="video.pictureUrl" ng-required="true"/><sup>*</sup>
+    <input type="url" placeholder="Picture URL" ng-model="video.pictureUrl" ng-required="true"/  ng-pattern="validUrlRegex"><sup>*</sup>
     <input type="text" placeholder="Length" ng-model="video.length" ng-required="true" /><sup>*</sup>
     <input type="text" placeholder="Category" ng-model="video.category" ng-required="true" /><sup>*</sup>
     <label for="subtitles">Has subtitles?</label>
