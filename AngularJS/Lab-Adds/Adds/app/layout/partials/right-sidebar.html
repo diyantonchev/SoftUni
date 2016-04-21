@@ -1,0 +1,22 @@
+<div ng-controller="RightSidebarController as vm">
+    <div class="box">
+        <h2>Categories</h2>
+        <ul class="sidebar-menu">
+            <li class="special" ng-click="vm.selectCategory(null)" ng-class="{selected: vm.selectedCategoryId === null}">
+                All
+            </li>
+            <li ng-repeat="category in vm.categories" ng-click="vm.selectCategory(category.id)" ng-class="{selected: vm.selectedCategoryId === category.id}">
+                {{category.name}}
+            </li>
+        </ul>
+    </div>
+    <div class="box">
+        <h2>Towns</h2>
+        <ul class="sidebar-menu">
+            <li class="special" ng-click="vm.selectTown(null)" ng-class="{selected: vm.selectedTownId === null}">All</li>
+            <li ng-repeat="town in vm.towns" ng-click="vm.selectTown(town.id)" ng-class="{selected: vm.selectedTownId === town.id}">
+                {{town.name}}
+            </li>
+        </ul>
+    </div>
+</div>

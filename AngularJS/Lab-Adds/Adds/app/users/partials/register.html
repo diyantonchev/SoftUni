@@ -1,0 +1,38 @@
+<div class="box">
+    <h2>Register</h2>
+    <p>
+        <label for="username">Username:</label>
+        <input type="text" id="username" ng-model="vm.userData.username" ng-required="required" />
+    </p>
+    <p>
+        <label for="password">Password</label>
+        <input type="password" ng-model="vm.userData.password" id="password" ng-required="required" />
+    </p>
+    <p>
+        <label for="confirm-password">Confirm Password</label>
+        <input type="password" ng-model="vm.userData.confirmPassword" id="confirm-password" ng-required="required" />
+    </p>
+    <p>
+        <label for="name">Name:</label>
+        <input type="text" id="name" ng-model="vm.userData.name" ng-required="required" />
+    </p>
+    <p>
+        <label for="email">Email</label>
+        <input type="email" id="email" ng-model="vm.userData.email" ng-required="required" />
+    </p>
+    <p>
+        <label for="phone">Phone</label>
+        <input type="text" id="phone" ng-model="vm.userData.phone" ng-pattern="'[0-9]+'">
+    </p>
+    <p>
+        <label for="town">Town:</label>
+        <select id="town" ng-model="vm.userData.townId">
+            <option value="null">(None)</option>
+            <option ng-repeat="town in vm.towns" value="{{town.id}}">{{town.name}}</option>
+        </select>
+    </p>
+    <p>
+        <a ng-click="vm.register()" class="button">Register</a>
+        <a href="#/login" class="link">Login</a>
+    </p>
+</div>

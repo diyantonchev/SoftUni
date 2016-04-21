@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en" data-ng-app="app">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ads</title>
+    <!-- inject-vendor:css -->
+    <link rel="stylesheet" href="styles/bootstrap.css">
+    <link rel="stylesheet" href="styles/bootstrap-theme.css">
+    <link rel="stylesheet" href="styles/loading-bar.css">
+    <!-- endinject -->
+
+    <!-- inject:css -->
+    <link rel="stylesheet" href="styles/app.css">
+    <!-- endinject -->
+</head>
+
+<body ng-controller="AuthController as vm">
+    <header id="app-header">
+        <div ng-include="'app/layout/partials/header.html'"></div>
+    </header>
+
+    <main id="app-content" class="row">
+        <div class="col-md-2 sidebar" ng-include="'app/layout/partials/left-sidebar.html'">
+        </div>
+
+        <div class="col-md-8" ng-view>
+        </div>
+
+        <div class="col-md-2 sidebar" ng-include="'app/layout/partials/right-sidebar.html'">
+        </div>
+    </main>
+
+    <footer id="app-footer">
+        &copy; 2014 by Software University Foundation, No Rights Reserved
+    </footer>
+    
+    <!-- inject-vendor:js -->
+    <script src="lib/jquery/jquery-2.1.3.js"></script>
+    <script src="lib/bootstrap/bootstrap-3.1.1.js"></script>
+    <script src="lib/jquery.noty/jquery.noty.js"></script>
+    <script src="lib/angular/angular.js"></script>
+    <script src="lib/angular/angular-resource.js"></script>
+    <script src="lib/angular/angular-route.js"></script>
+    <script src="lib/angular/angular-sanitize.min.js"></script>
+    <script src="lib/ui.bootstrap/ui.bootstrap.pagination-0.12.0.js"></script>
+    <script src="lib/loading-bar/loading-bar.js"></script>
+    <!-- endinject -->
+
+    <!-- inject:js -->
+    <!-- Bootstrapping -->
+    <script src="app/app.module.js"></script>
+    <script src="app/config.js"></script>
+    
+     <!-- core -->
+    <script src="app/core/core.module.js"></script>
+    <script src="app/core/constants.js"></script>
+    <script src="app/core/services/ads.service.js"></script>
+    <script src="app/core/services/categories.service.js"></script>
+    <script src="app/core/services/towns.service.js"></script>
+    <script src="app/core/services/notify.service.js"></script>
+
+    <!-- layout -->
+    <script src="app/layout/layout.module.js"></script>
+    <script src="app/layout/home.controller.js"></script>
+    <script src="app/layout/right-sidebar.controller.js"></script>
+
+    <!-- users -->
+    <script src="app/users/users.module.js"></script>
+    <script src="app/users/services/auth.service.js"></script>
+    <script src="app/users/services/user.service.js"></script>
+    <script src="app/users/auth.controller.js"></script>
+    <script src="app/users/register.controller.js"></script>
+    <script src="app/users/login.controller.js"></script>
+    <script src="app/users/user-publish-new-ad.controller.js"></script>
+    <!-- endinject -->
+</body>
+
+</html>

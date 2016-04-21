@@ -1,0 +1,35 @@
+<div class="box">
+    <h2>Publish New Ad</h2>
+    <p>
+        <label for="title">Title:</label>
+        <input type="text" id="title" ng-model="vm.adData.title" ng-required="required" />
+    </p>
+    <p>
+        <label for="text-area">Text</label>
+        <textarea name="text" id="text-area" ng-model="vm.adData.text" cols="30" rows="5" ng-required="required">
+        </textarea>
+    </p>
+    <p>
+        <label for="category">Category:</label>
+        <select id="category" ng-model="vm.adData.categoryId">
+            <option value="null">(None)</option>
+            <option ng-repeat="category in vm.categories" value="{{category.id}}">{{category.name}}</option>
+        </select>
+    </p>
+    <label for="town">Town:</label>
+    <select id="town" ng-model="vm.adData.townId">
+                <option value="null">(None)</option>
+                <option ng-repeat="town in vm.towns" value="{{town.id}}">{{town.name}}</option>
+        </select>
+    <p>
+        <a ng-click="vm.publishAd()" class="button">Publish</a>
+        <a href="#/user/ads" class="button">Cancel</a>
+    </p>
+    <p>
+        <label for="image">Image:</label>
+        <input type="file" id="image" onchange="angular.element(this).scope().fileSelected(this)" />
+        <div class="image-box">
+            <p>Image Preview</p>
+        </div>
+    </p>
+</div>

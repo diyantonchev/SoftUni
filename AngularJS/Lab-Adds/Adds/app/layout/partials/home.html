@@ -1,0 +1,33 @@
+<pagination total-items="vm.ads.numItems" ng-model="vm.adsParams.startPage" items-per-page="vm.adsParams.pageSize" ng-change="vm.reloadAds()"
+    max-size="9" boundary-links="true">
+</pagination>
+
+<ul class="ads">
+    <li ng-repeat="ad in vm.ads.ads" class="box">
+        <h1>{{ad.title}}</h1>
+        <div>
+            <strong>Date: </strong>{{ad.date | date: 'dd-MMM-yyyy'}}
+        </div>
+        <div ng-if="ad.imageDataUrl">
+            <strong>Image:</strong>
+            <img class="ad-image" ng-src="{{ad.imageDataUrl}}" alt="ad-image">
+        </div>
+        <div>
+            <strong>Text: </strong>
+            <span>{{ad.text}}</span>
+        </div>
+        <div>
+            <strong>Email: </strong>
+            <span>{{ad.ownerEmail}}</span>
+        </div>
+        <div ng-if="ad.ownerPhone">
+            <strong>Phone: </strong>
+            <span>{{ad.ownerPhone}}</span>
+        </div>
+    </li>
+</ul>
+
+
+<div ng-if="vm.ads.ads.length==0" class="box no-data">
+    No ads found.
+</div>

@@ -1,0 +1,15 @@
+<div class="box">
+    <h2>Login</h2>
+    <p>
+        <label for="username">Username:</label>
+        <input type="text" id="username" ng-model="vm.userData.username" ng-required="required" />
+    </p>
+    <p>
+        <label for="password">Password:</label>
+        <input type="password" id="password" ng-model="vm.userData.password" ng-required="required">
+    </p>
+    <p>
+        <a ng-click="vm.login()" class="button">Login</a>
+        <a href="#/register" class="link">Register</a>
+    </p>
+</div>
