@@ -67,7 +67,7 @@ function solve(args) {
         });
     }
 
-    var criteria = args.shift(0),
+    var criteria = args.shift(),
         result = { students: [], trainers: [] };
     args.forEach(function (input) {
         var currentMember = JSON.parse(input);
