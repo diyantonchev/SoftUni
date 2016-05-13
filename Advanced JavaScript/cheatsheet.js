@@ -23,7 +23,7 @@ var Person = (function () {
         this.age = age;
     }
 
-    Person.prototype.sayName = function () {
+    Person.prototype.saySomething = function () {
         return this.name + ' ' + this.age;
     };
 
@@ -50,4 +50,4 @@ var Musician = (function () {
 
 // var phill = new Musician('Phill', 54, 'singer');
 // console.log(phill);
-// console.log(phill.sayName());
+// console.log(phill.saySomething());
