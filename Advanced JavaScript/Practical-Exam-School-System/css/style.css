@@ -1,0 +1,6 @@
+#current-grades {
+    display: inline-block;
+}
+.current-grade:not(:last-of-type)::after {
+    content: ", "
+}

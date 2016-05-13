@@ -1,0 +1,36 @@
+<table class="table">
+    <thead>
+    <td>Subject</td>
+    <td>Semester One</td>
+    <td>Semester Two</td>
+    <td>Year</td>
+    </thead>
+    <tbody id="grades-body">
+    {{#Grades}}
+    <tr>
+        <td>
+            <h4>{{Subject}}</h4>
+        </td>
+        {{#Semesters}}
+        <td>
+            <table class="table">
+                <thead>
+                <td>Current</td>
+                <td>Final</td>
+                </thead>
+                <tbody>
+                <td>
+                    {{#Grades}}
+                    <span class="current-grade">{{.}}</span>
+                    {{/Grades}}
+                </td>
+                <td><h4>{{SemesterGrade}}</h4></td>
+                </tbody>
+            </table>
+        </td>
+        {{/Semesters}}
+        <td><h4>{{YearGrade}}</h4></td>
+    </tr>
+    {{/Grades}}
+    </tbody>
+</table>
