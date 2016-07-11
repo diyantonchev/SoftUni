@@ -7,8 +7,6 @@ var animal = (function () {
 			//instance.name = name;
 			//instance.age = age;
 			//return instance;
-            this.name = name;
-            this.age = age;
             return this;
         },
         get name() {
